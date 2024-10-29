@@ -1,0 +1,11 @@
+Benchmark,"Base # Copies","Base Run Time","Base Rate","Base Selected","Base Status","Peak # Copies","Peak Run Time","Peak Rate","Peak Selected","Peak Status",Description
+500.perlbench_r,2,2612.930583,1.218556,1,S,2,554.539355,5.741702,0,S,"refrate(ref) iteration #1"
+502.gcc_r,2,2500.740037,1.132464,1,S,2,447.378293,6.330214,0,S,"refrate(ref) iteration #1"
+505.mcf_r,2,2000.871557,1.615296,1,S,2,606.366079,5.330114,0,S,"refrate(ref) iteration #1"
+520.omnetpp_r,2,2712.630964,0.967326,1,S,2,1005.50086,2.609644,0,S,"refrate(ref) iteration #1"
+523.xalancbmk_r,2,850.348402,2.483688,1,S,2,498.256384,4.238782,1,S,"refrate(ref) iteration #1"
+525.x264_r,2,771.435093,4.539592,1,S,2,1470.625898,2.3813,1,S,"refrate(ref) iteration #1"
+531.deepsjeng_r,2,1140.67479,2.009336,1,S,2,5753.047218,0.398398,1,S,"refrate(ref) iteration #1"
+541.leela_r,2,1530.696062,2.163722,1,S,2,6037.904705,0.548534,1,S,"refrate(ref) iteration #1"
+548.exchange2_r,2,610.98532,8.57631,1,S,2,3200.120553,1.637438,1,S,"refrate(ref) iteration #1"
+557.xz_r,2,1386.155477,1.558266,1,S,2,7476.885991,0.28889,1,S,"refrate(ref) iteration #1"

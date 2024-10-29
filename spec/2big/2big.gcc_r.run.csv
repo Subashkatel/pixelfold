@@ -1,0 +1,697 @@
+%CPU,%MEM,PSR,TIME,PID,CMD
+30.4,1.5,6,1415,25512,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+12.2,2.6,7,1420,25512,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+12.0,3.6,7,1425,25512,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+12.5,4.5,6,1430,25512,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+11.5,5.3,7,1435,25512,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+225,0.1,5,1440,25888,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+83.7,2.2,7,1445,25888,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+88.0,3.5,7,1450,25888,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+65.6,4.5,6,1455,25888,../run_base_train_mytest-64.0000/cpugcc_r_base.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+80.9,2.1,6,1700,28646,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+68.8,3.7,7,1705,28646,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+79.2,5.3,7,1710,28646,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 200.c -O3 -finline-limit=50000 -o 200.opts-O3_-finline-limit_50000.s
+2.0,0.5,6,1715,28822,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+17.1,2.2,7,1720,28822,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+16.0,3.4,7,1725,28822,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+15.0,4.5,7,1730,28822,../run_peak_train_mytest-64.0000/cpugcc_r_peak.mytest-64 scilab.c -O3 -finline-limit=50000 -o scilab.opts-O3_-finline-limit_50000.s
+2.9,0.7,7,2490,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+2.9,0.6,6,2490,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+10.2,4.4,6,2495,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+10.2,4.4,7,2495,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.7,5.2,6,2500,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.7,5.2,7,2500,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+9.6,5.8,7,2505,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+9.6,5.8,6,2505,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+9.1,6.8,6,2510,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+9.1,6.8,7,2510,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+8.4,7.1,6,2515,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+8.4,7.1,7,2515,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.3,7.3,6,2520,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.3,7.3,7,2520,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+6.9,7.6,6,2525,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+6.9,7.6,7,2525,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,8.2,7,2530,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,8.2,6,2530,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.2,8.9,7,2535,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.2,8.9,6,2535,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.3,9.5,6,2540,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.3,9.5,7,2540,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,10.0,7,2545,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,10.0,6,2545,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+6.8,10.6,6,2550,5387,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+6.8,10.6,7,2550,5388,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+13.9,1.1,7,2555,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+12.6,1.0,6,2555,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+21.0,4.9,6,2560,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+20.9,4.9,7,2560,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+15.5,5.7,6,2565,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+15.4,5.6,7,2565,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+14.8,6.7,7,2570,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+14.8,7.2,6,2570,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+14.1,7.0,6,2575,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+14.1,7.0,7,2575,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+11.0,7.5,6,2580,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+11.0,7.5,7,2580,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+9.8,8.5,7,2585,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+9.8,8.5,6,2585,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.9,8.5,6,2590,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.9,8.5,7,2590,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.4,8.5,6,2595,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.4,8.5,7,2595,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.0,8.8,6,2600,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.0,8.8,7,2600,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.2,9.2,6,2605,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+8.2,9.2,7,2605,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.9,9.8,6,2610,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.9,9.8,7,2610,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.7,10.3,7,2615,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.7,10.3,6,2615,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.5,10.9,7,2620,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.5,10.9,6,2620,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.6,11.4,7,2625,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.6,11.4,6,2625,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.4,11.8,6,2630,6150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+7.4,11.8,7,2630,6152,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+37.7,6.5,6,2635,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+36.9,6.4,7,2635,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+11.8,8.5,7,2640,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+11.6,8.5,6,2640,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+12.7,9.4,6,2645,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+12.6,9.4,7,2645,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+12.1,3.3,7,2650,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+12.0,3.2,6,2650,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+10.0,3.8,7,2655,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.9,3.8,6,2655,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+10.7,4.8,6,2660,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+10.6,4.8,7,2660,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.0,5.5,7,2665,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.0,5.4,6,2665,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.0,6.2,6,2670,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.0,6.2,7,2670,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.5,7.4,7,2675,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.5,7.4,6,2675,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.6,7.7,7,2680,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.6,7.6,6,2680,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.6,7.9,6,2685,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.6,7.9,7,2685,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.7,8.3,7,2690,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.7,8.3,6,2690,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.9,8.7,7,2695,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.9,8.6,6,2695,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.0,9.4,6,2700,7166,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+8.9,9.4,7,2700,7168,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+100,0.5,6,2705,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+0.0,0.2,4,2705,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+14.8,4.0,6,2710,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+14.0,4.0,7,2710,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+13.7,5.2,7,2715,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+13.3,5.2,6,2715,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.2,6.0,7,2720,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.9,6.0,6,2720,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.4,6.3,6,2725,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.2,6.3,7,2725,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.5,6.6,6,2730,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.4,6.5,7,2730,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.4,7.0,7,2735,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.2,7.0,6,2735,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.0,7.4,7,2740,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.9,7.4,6,2740,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.6,7.8,6,2745,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+15.5,7.8,7,2745,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.7,8.4,6,2750,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.6,8.4,7,2750,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.3,8.8,7,2755,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.2,8.8,6,2755,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.1,8.8,7,2760,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.0,8.8,6,2760,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.5,9.3,6,2765,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.5,9.3,7,2765,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.5,9.7,6,2770,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.4,9.7,7,2770,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+17.9,10.4,7,2775,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+17.9,10.4,6,2775,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.9,10.5,6,2780,8243,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.9,10.4,7,2780,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+16.7,11.0,7,2785,8246,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+350,0.2,5,2785,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+18.0,3.7,7,2790,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+17.2,3.6,6,2790,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.1,5.0,7,2795,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.7,4.4,6,2795,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+30.0,6.3,7,2800,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+30.0,6.2,6,2800,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+38.6,6.5,7,2805,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+38.7,6.5,6,2805,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+25.8,6.4,6,2810,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+25.8,6.4,7,2810,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+22.3,7.1,6,2815,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+22.2,7.0,7,2815,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+24.8,7.1,6,2820,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+24.7,7.1,7,2820,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.1,7.6,6,2825,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.0,7.4,7,2825,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.5,7.8,6,2830,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.4,7.8,7,2830,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.1,7.8,6,2835,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.0,7.8,7,2835,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.8,8.5,7,2840,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.7,8.5,6,2840,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.0,8.9,7,2845,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.9,8.9,6,2845,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.8,8.9,6,2850,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.7,8.9,7,2850,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.8,9.1,7,2855,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.7,8.9,6,2855,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.7,9.5,7,2860,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.6,9.5,6,2860,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.3,9.8,6,2865,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.3,9.6,7,2865,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.9,10.5,6,2870,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+19.9,10.3,7,2870,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.6,10.6,7,2875,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+20.5,10.5,6,2875,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.6,10.7,6,2880,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+21.6,10.7,7,2880,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+22.3,11.2,7,2885,9164,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+22.2,11.2,6,2885,9177,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+200,0.2,4,7220,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+200,0.2,5,7220,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.2,3.9,4,7225,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.4,3.9,5,7225,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.6,5.0,4,7230,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.5,5.0,5,7230,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.2,5.3,4,7235,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.2,5.3,5,7235,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,5.7,4,7240,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,5.7,5,7240,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.1,6.7,4,7245,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.1,6.7,5,7245,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,6.9,4,7250,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,6.9,5,7250,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,7.3,7,7255,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,7.3,6,7255,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,7.6,7,7260,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,7.6,6,7260,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,8.3,7,7265,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,8.3,6,7265,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,8.9,7,7270,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,8.9,6,7270,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,9.4,7,7275,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,9.4,5,7275,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,9.8,7,7280,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,9.9,5,7280,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,10.3,4,7285,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,10.4,5,7285,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,10.8,4,7290,13068,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,10.9,5,7290,13069,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+101,3.0,5,7295,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+102,1.8,4,7295,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.5,4.9,5,7300,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.5,4.4,4,7300,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.3,5.3,7,7305,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.3,5.2,4,7305,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.1,6.1,7,7310,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.1,5.6,4,7310,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,7.0,7,7315,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,6.2,4,7315,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.1,7.4,6,7320,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,7.0,7,7320,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.1,8.3,6,7325,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,7.2,7,7325,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.5,6,7330,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.3,7,7330,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.5,4,7335,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.5,7,7335,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.6,4,7340,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.5,5,7340,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.8,4,7345,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.5,5,7345,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,9.1,4,7350,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.8,5,7350,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,9.5,4,7355,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,9.0,5,7355,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,10.0,4,7360,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,9.4,5,7360,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.3,4,7365,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,9.7,5,7365,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.7,4,7370,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.1,5,7370,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.1,4,7375,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.5,7,7375,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.4,4,7380,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.1,7,7380,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.8,6,7385,13105,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.6,7,7385,13107,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+100,5.7,6,7390,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+101,2.5,7,7390,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.1,6,7395,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,7.3,7,7395,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,9.4,6,7400,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.2,8.9,7,7400,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.4,6,7405,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.4,7,7405,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,3.6,4,7410,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.2,3.7,5,7410,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,3.9,4,7415,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,3.7,5,7415,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,4.6,4,7420,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,4.4,5,7420,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,5.2,4,7425,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,5.0,5,7425,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,5.9,4,7430,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,5.6,5,7430,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,6.5,4,7435,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,6.3,5,7435,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,7.5,6,7440,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,7.4,7,7440,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,7.8,6,7445,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,7.6,7,7445,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.1,6,7450,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,7.9,7,7450,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.4,4,7455,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.3,5,7455,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.8,4,7460,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.7,5,7460,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.5,4,7465,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.3,5,7465,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,10.0,4,7470,13150,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.8,5,7470,13154,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+100,3.6,4,7475,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+101,2.7,5,7475,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.3,4.4,4,7480,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.7,4.0,5,7480,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.8,5.6,4,7485,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,5.2,5,7485,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.1,6.3,6,7490,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.2,6.0,7,7490,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,6.3,6,7495,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.2,6.3,7,7495,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,6.8,6,7500,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.2,6.6,7,7500,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,7.0,6,7505,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.1,7.0,7,7505,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,7.6,4,7510,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.4,5,7510,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,7.8,4,7515,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.8,5,7515,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.4,4,7520,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,8.1,5,7520,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.8,4,7525,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,8.8,5,7525,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.8,4,7530,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,8.8,5,7530,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,9.3,4,7535,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,9.1,5,7535,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,9.3,4,7540,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,9.3,5,7540,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,9.9,4,7545,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,9.7,5,7545,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,10.4,4,7550,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.4,5,7550,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.4,4,7555,13206,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.4,5,7555,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.7,7,7560,13209,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+200,0.2,5,7560,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+100,4.1,6,7565,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+100,3.8,7,7565,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.5,5.8,6,7570,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.7,5.2,7,7570,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.3,6,7575,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.1,7,7575,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.2,6.5,6,7580,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.2,6.5,7,7580,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.3,6,7585,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.5,7,7585,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,6.7,4,7590,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,6.4,5,7590,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.1,4,7595,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.1,5,7595,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.1,4,7600,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.1,5,7600,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.4,4,7605,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.2,5,7605,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.8,4,7610,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.8,5,7610,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,4,7615,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,5,7615,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.0,6,7620,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,7,7620,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,8.9,6,7625,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.5,7,7625,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,8.9,6,7630,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,8.9,7,7630,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,6,7635,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,7,7635,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.3,6,7640,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,7,7640,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,4,7645,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,5,7645,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,4,7650,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,5,7650,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.1,4,7655,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.8,5,7655,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.5,4,7660,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.3,5,7660,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.5,4,7665,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.5,5,7665,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.6,4,7670,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.6,5,7670,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.7,6,7675,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.6,7,7675,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,11.1,6,7680,13261,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,11.1,7,7680,13266,../run_base_refrate_mytest-64.0007/cpugcc_r_base.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,3.1,5,12945,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+99.0,3.5,6,12945,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.7,4.5,5,12950,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.7,5.0,6,12950,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,5.2,7,12955,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,5.5,6,12955,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,5.8,7,12960,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,6.7,6,12960,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,6.8,7,12965,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.9,6.9,6,12965,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,7.1,5,12970,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,7.3,4,12970,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,7.4,5,12975,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,7.6,4,12975,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,7.7,5,12980,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,8.1,4,12980,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,8.3,5,12985,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,8.6,4,12985,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,8.8,5,12990,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,9.1,4,12990,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,9.2,5,12995,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,9.6,4,12995,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,9.6,6,13000,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,10.0,7,13000,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,10.4,6,13005,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,10.8,7,13005,16812,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+98.8,11.0,6,13010,16811,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+101,3.0,7,13010,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.7,5.0,7,13015,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+100,3.9,6,13015,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.1,5.5,7,13020,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.3,5.2,6,13020,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,6.1,7,13025,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,5.6,6,13025,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,7.0,5,13030,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,6.9,4,13030,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,7.4,5,13035,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,7.0,4,13035,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.3,5,13040,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,7.5,4,13040,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.5,5,13045,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.4,4,13045,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.5,5,13050,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+99.0,8.5,4,13050,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.8,8.5,5,13055,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.5,4,13055,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.8,5,13060,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.6,4,13060,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,9.0,5,13065,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,8.8,4,13065,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,9.5,7,13070,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,9.2,6,13070,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.3,7,13075,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.0,6,13075,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.9,7,13080,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,10.6,6,13080,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.4,7,13085,16844,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.1,6,13085,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+98.9,11.6,6,13090,16848,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+103,0.4,4,13090,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.4,6.5,4,13095,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+102,2.0,5,13095,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,8.0,4,13100,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.5,6.7,5,13100,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.7,9.3,4,13105,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,8.0,5,13105,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.4,4,13110,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,9.3,5,13110,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.6,4,13115,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,9.4,5,13115,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,3.7,4,13120,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.1,9.6,5,13120,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,3.9,6,13125,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,3.6,7,13125,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,4.8,6,13130,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,4.3,7,13130,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,5.5,6,13135,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.0,5.0,7,13135,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,6.3,6,13140,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,5.7,7,13140,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,7.3,6,13145,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,6.4,5,13145,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,7.9,6,13150,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,7.4,5,13150,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.7,7.9,6,13155,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,7.7,5,13155,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,8.4,4,13160,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,8.1,5,13160,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.7,8.7,4,13165,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,8.4,5,13165,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,9.4,4,13170,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,8.9,5,13170,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,10.0,4,13175,16887,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.9,9.6,5,13175,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+98.8,10.1,7,13180,16891,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+99.4,3.7,6,13180,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,5.2,6,13185,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.5,3.7,4,13185,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.2,6.2,6,13190,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.5,5.2,7,13190,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.1,6.2,6,13195,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.3,6.0,7,13195,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,6.8,6,13200,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.2,6.2,7,13200,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,7.0,6,13205,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,6.5,7,13205,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,7.5,4,13210,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.0,5,13210,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.7,4,13215,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.4,5,13215,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.4,4,13220,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,7.7,5,13220,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.8,4,13225,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,8.4,5,13225,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.8,8.9,4,13230,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,8.8,5,13230,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,9.3,4,13235,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,8.8,5,13235,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,9.7,4,13240,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,9.3,5,13240,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,10.4,7,13245,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,9.7,6,13245,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+98.9,10.4,7,13250,16933,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.4,6,13250,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.0,10.4,6,13255,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+108,1.0,7,13255,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,10.9,6,13260,16937,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+99.8,4.0,7,13260,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,5.2,6,13265,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+100,3.7,4,13265,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.1,5,13270,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.4,4.9,4,13270,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.1,6.5,5,13275,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.2,6.0,4,13275,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,6.3,5,13280,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.2,6.5,4,13280,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,6.4,5,13285,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,6.5,4,13285,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.0,5,13290,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,6.3,4,13290,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.0,5,13295,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,6.6,4,13295,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.0,5,13300,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+99.0,7.0,4,13300,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.6,7,13305,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.0,6,13305,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,7,13310,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.6,6,13310,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.2,7,13315,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,6,13315,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.7,7,13320,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,7.8,6,13320,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,7,13325,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.4,6,13325,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,7,13330,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,6,13330,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,9.0,5,13335,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,4,13335,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.4,5,13340,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,8.9,4,13340,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,5,13345,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.4,4,13345,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.1,5,13350,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.5,4,13350,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,10.5,5,13355,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,9.8,4,13355,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,10.5,5,13360,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,10.3,4,13360,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,10.5,5,13365,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.5,4,13365,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.9,7,13370,16972,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,10.5,6,13370,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.8,10.9,6,13375,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+98.9,11.1,6,13380,16978,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+10.4,4.1,6,18120,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+10.4,4.2,7,18120,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,5.1,6,18125,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+7.0,5.1,7,18125,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.1,5.5,7,18130,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.1,5.5,6,18130,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.4,6.7,7,18135,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.4,6.7,6,18135,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.3,7.3,7,18140,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.3,7.0,6,18140,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.8,7.4,6,18145,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.8,7.4,7,18145,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,7.9,6,18150,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,7.9,7,18150,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,8.6,7,18155,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,8.6,6,18155,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,9.3,7,18160,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.9,9.3,6,18160,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.7,9.8,7,18165,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.7,9.9,6,18165,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.4,10.4,6,18170,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.4,10.4,7,18170,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.3,10.9,7,18175,18645,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+5.3,11.0,6,18175,18646,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s
+4.1,3.3,7,18180,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+4.1,3.3,6,18180,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.2,5.1,7,18185,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.2,5.1,6,18185,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.4,5.7,7,18190,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.4,5.7,6,18190,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.1,6.7,7,18195,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.1,6.7,6,18195,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.4,7.1,7,18200,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.4,7.1,6,18200,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.0,7.5,7,18205,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.0,7.5,6,18205,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.8,8.4,6,18210,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.8,8.4,7,18210,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.9,8.5,7,18215,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.9,8.5,6,18215,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.7,8.5,7,18220,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+5.7,8.5,6,18220,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.1,8.8,7,18225,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.1,8.8,6,18225,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.5,9.5,7,18230,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.5,9.5,6,18230,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.5,10.2,7,18235,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.5,10.2,6,18235,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.6,10.8,7,18240,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.6,10.8,6,18240,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.4,11.3,6,18245,19462,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+6.4,11.3,7,18245,19463,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-pp.c -O2 -finline-limit=36000 -fpic -o gcc-pp.opts-O2_-finline-limit_36000_-fpic.s
+111,0.9,7,18250,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+125,0.9,6,18250,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.9,6.8,6,18255,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.8,6.9,7,18255,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.3,8.4,7,18260,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.3,8.4,6,18260,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.2,9.4,7,18265,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+9.1,9.4,6,18265,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.6,3.7,6,18270,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.6,3.7,7,18270,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.3,3.8,7,18275,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+7.3,3.8,6,18275,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.4,4.4,7,18280,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.4,4.5,6,18280,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.6,5.4,6,18285,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.6,5.4,7,18285,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,6.3,6,18290,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,6.3,7,18290,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,7.3,7,18295,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,7.4,6,18295,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.3,7.7,6,18300,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.3,7.7,7,18300,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,8.2,6,18305,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.2,8.2,7,18305,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.1,8.4,7,18310,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.1,8.5,6,18310,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.0,9.2,7,18315,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.0,9.3,6,18315,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.1,10.0,6,18320,20309,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+6.1,10.0,7,18320,20311,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 gcc-smaller.c -O3 -fipa-pta -o gcc-smaller.opts-O3_-fipa-pta.s
+19.8,4.0,6,18325,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+19.5,4.0,7,18325,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+7.7,5.2,6,18330,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+7.6,5.2,7,18330,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.9,6.0,6,18335,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.8,6.0,7,18335,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.4,6.2,6,18340,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.3,6.2,7,18340,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+6.2,6.6,7,18345,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+6.2,6.6,6,18345,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+6.0,7.0,6,18350,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+6.0,7.0,7,18350,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.5,7.4,6,18355,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.5,7.4,7,18355,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.3,7.7,6,18360,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.3,7.7,7,18360,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.1,8.1,6,18365,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.1,8.1,7,18365,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.3,8.8,7,18370,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.3,8.8,6,18370,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.2,8.8,7,18375,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.2,8.8,6,18375,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.1,9.1,7,18380,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.1,9.1,6,18380,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.0,9.3,7,18385,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+5.0,9.3,6,18385,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.8,9.9,7,18390,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.8,9.9,6,18390,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.9,10.4,6,18395,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.9,10.4,7,18395,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.8,10.4,6,18400,21397,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+4.8,10.4,7,18400,21399,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O5 -o ref32.opts-O5.s
+7.6,3.9,7,18410,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+7.6,3.9,6,18410,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,4.9,7,18415,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,4.9,6,18415,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.5,6.0,6,18420,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.5,5.9,7,18420,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.9,6.5,6,18425,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.9,6.5,7,18425,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.7,6.5,7,18430,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.7,6.5,6,18430,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.5,6.3,6,18435,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.5,6.3,7,18435,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.6,7.0,7,18440,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.6,6.8,6,18440,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.2,7.0,6,18445,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.2,7.0,7,18445,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.4,7.4,7,18450,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.4,7.3,6,18450,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,7.8,6,18455,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,7.8,7,18455,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.1,7.8,6,18460,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.1,7.8,7,18460,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.2,8.4,6,18465,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.2,8.4,7,18465,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.3,8.9,6,18470,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.3,8.9,7,18470,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.5,8.9,6,18475,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.5,8.9,7,18475,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.3,9.0,7,18480,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.3,9.0,6,18480,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.4,9.4,6,18485,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.4,9.4,7,18485,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.4,9.5,6,18490,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.3,9.5,7,18490,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,10.1,6,18495,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,9.8,7,18495,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,10.5,6,18500,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,10.5,7,18500,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.9,10.5,7,18505,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.9,10.5,6,18505,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,10.5,7,18510,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+6.0,10.5,6,18510,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,11.1,7,18515,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,10.9,6,18515,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,11.1,7,18520,23559,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s
+5.8,11.1,6,18520,23561,../run_peak_refrate_mytest-64.0007/cpugcc_r_peak.mytest-64 ref32.c -O3 -fselective-scheduling -fselective-scheduling2 -o ref32.opts-O3_-fselective-scheduling_-fselective-scheduling2.s

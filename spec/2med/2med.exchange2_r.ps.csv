@@ -1,0 +1,859 @@
+USER,PID,%CPU,%MEM,VSZ,RSS,TTY,STAT,START,TIME,COMMAND
+root,753,34.7,0.8,98140,94692,pts/0,S,19:41,255,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.base --lognum 009.0.8 548.exchange2_r
+root,964,0.0,0.0,2228,776,pts/0,S,19:41,255,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,965,0.0,0.7,98140,92312,pts/0,S,19:41,255,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.base --lognum 009.0.8 548.exchange2_r
+root,1006,100,0.0,4652,1096,pts/0,R,19:41,255,../run_base_test_mytest-64.0000/exchange2_r_base.mytest-64 0
+root,753,4.0,0.8,98140,94692,pts/0,S,19:41,260,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.base --lognum 009.0.8 548.exchange2_r
+root,964,0.0,0.0,2228,776,pts/0,S,19:41,260,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,965,0.0,0.7,98140,92312,pts/0,S,19:41,260,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.base --lognum 009.0.8 548.exchange2_r
+root,1006,25.4,0.0,4652,1096,pts/0,R,19:41,260,../run_base_test_mytest-64.0000/exchange2_r_base.mytest-64 0
+root,3125,110,0.5,73228,69844,pts/0,R,19:43,330,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.peak --lognum 009.0.19 548.exchange2_r
+root,3125,17.6,0.8,98064,94632,pts/0,S,19:43,335,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.peak --lognum 009.0.19 548.exchange2_r
+root,3188,0.0,0.0,2228,772,pts/0,S,19:43,335,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,3195,0.2,0.7,98064,91700,pts/0,S,19:43,335,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.test.peak --lognum 009.0.19 548.exchange2_r
+root,3198,100,0.0,4588,1100,pts/0,R,19:43,335,../run_peak_test_mytest-64.0000/exchange2_r_peak.mytest-64 0
+root,5152,51.5,0.8,98128,94640,pts/0,S,19:49,660,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,660,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.0,0.7,98128,92292,pts/0,S,19:49,660,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,103,0.0,4652,1104,pts/0,R,19:49,660,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,5152,15.8,0.8,98128,94640,pts/0,S,19:49,665,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,665,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.1,0.7,98128,92292,pts/0,S,19:49,665,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,100,0.0,4652,1104,pts/0,R,19:49,665,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,5152,9.3,0.8,98128,94640,pts/0,S,19:49,670,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,670,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.0,0.7,98128,92292,pts/0,S,19:49,670,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,99.9,0.0,4652,1104,pts/0,R,19:49,670,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,5152,6.6,0.8,98128,94640,pts/0,S,19:49,675,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,675,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.1,0.7,98128,92292,pts/0,S,19:49,675,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,99.5,0.0,4652,1104,pts/0,R,19:49,675,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,5152,5.1,0.8,98128,94640,pts/0,S,19:49,680,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,680,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.0,0.7,98128,92292,pts/0,S,19:49,680,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,99.1,0.0,4652,1104,pts/0,R,19:49,680,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,5152,4.2,0.8,98128,94640,pts/0,S,19:49,685,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5185,0.0,0.0,2228,776,pts/0,S,19:49,685,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_train_mytest-64.0001 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,5186,0.0,0.7,98128,92292,pts/0,S,19:49,685,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 8 --tune base --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.base --lognum 009.0.8 548.exchange2_r
+root,5188,99.3,0.0,4652,1104,pts/0,R,19:49,685,../run_base_train_mytest-64.0001/exchange2_r_base.mytest-64 1
+root,6309,27.3,0.8,98056,94572,pts/0,S,19:55,1025,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1025,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.0,0.7,98056,91720,pts/0,S,19:55,1025,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,102,0.0,4588,1096,pts/0,R,19:55,1025,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,6309,12.9,0.8,98056,94572,pts/0,S,19:55,1030,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1030,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.1,0.7,98056,91720,pts/0,S,19:55,1030,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,100,0.0,4588,1096,pts/0,R,19:55,1030,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,6309,8.4,0.8,98056,94572,pts/0,S,19:55,1035,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1035,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.0,0.7,98056,91720,pts/0,S,19:55,1035,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,99.5,0.0,4588,1096,pts/0,R,19:55,1035,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,6309,6.2,0.8,98056,94572,pts/0,S,19:55,1040,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1040,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.1,0.7,98056,91720,pts/0,S,19:55,1040,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,99.4,0.0,4588,1096,pts/0,R,19:55,1040,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,6309,5.0,0.8,98056,94572,pts/0,S,19:55,1045,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1045,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.0,0.7,98056,91720,pts/0,S,19:55,1045,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,99.3,0.0,4588,1096,pts/0,R,19:55,1045,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,6309,4.1,0.8,98056,94572,pts/0,S,19:55,1050,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6361,0.0,0.0,2228,776,pts/0,S,19:55,1050,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,6364,0.1,0.7,98056,91720,pts/0,S,19:55,1050,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 19 --tune peak --logfile /home/cpu2017/tmp/CPU2017.009.0/templogs/548.exchange2_r.train.peak --lognum 009.0.19 548.exchange2_r
+root,6370,99.3,0.0,4588,1096,pts/0,R,19:55,1050,../run_peak_train_mytest-64.0000/exchange2_r_peak.mytest-64 1
+root,12288,0.4,0.0,2228,752,pts/0,S,21:25,6310,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,101,0.0,4652,1064,pts/0,R,21:25,6310,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,101,0.0,4652,1064,pts/0,R,21:25,6310,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.2,0.0,2228,752,pts/0,S,21:25,6315,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.8,0.0,4652,1064,pts/0,R,21:25,6315,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,100,0.0,4652,1064,pts/0,R,21:25,6315,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.1,0.0,2228,752,pts/0,S,21:25,6320,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6320,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.5,0.0,4652,1064,pts/0,R,21:25,6320,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.1,0.0,2228,752,pts/0,S,21:25,6325,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.3,0.0,4652,1064,pts/0,R,21:25,6325,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.7,0.0,4652,1064,pts/0,R,21:25,6325,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6330,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.2,0.0,4652,1064,pts/0,R,21:25,6330,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.5,0.0,4652,1064,pts/0,R,21:25,6330,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6335,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6335,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6335,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6340,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.2,0.0,4652,1064,pts/0,R,21:25,6340,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.5,0.0,4652,1064,pts/0,R,21:25,6340,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6345,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.2,0.0,4652,1064,pts/0,R,21:25,6345,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.5,0.0,4652,1064,pts/0,R,21:25,6345,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6350,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.2,0.0,4652,1064,pts/0,R,21:25,6350,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.5,0.0,4652,1064,pts/0,R,21:25,6350,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6355,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6355,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6355,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6360,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6360,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6360,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6365,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6365,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6365,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6370,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6370,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6370,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6375,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6375,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6375,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6380,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6380,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6380,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6385,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6385,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6385,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6390,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6390,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6390,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6395,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6395,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6395,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6400,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6400,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6400,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6405,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6405,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6405,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6410,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6410,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6410,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6415,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6415,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6415,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6420,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6420,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6420,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6425,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6425,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6425,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6430,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6430,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6430,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6435,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6435,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6435,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6440,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6440,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6440,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6445,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6445,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6445,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6450,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6450,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6450,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6455,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6455,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6455,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6460,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6460,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6460,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6465,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.2,0.0,4652,1064,pts/0,R,21:25,6465,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6465,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6470,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6470,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6470,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6475,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6475,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6475,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6480,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6480,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6480,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6485,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6485,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6485,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6490,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6490,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6490,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6495,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6495,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6495,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6500,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6500,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6500,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6505,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6505,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6505,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6510,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6510,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6510,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6515,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6515,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6515,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6520,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6520,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6520,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6525,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6525,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6525,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6530,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6530,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6530,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6535,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6535,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6535,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6540,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6540,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6540,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6545,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6545,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6545,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6550,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6550,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6550,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6555,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6555,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6555,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6560,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6560,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6560,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6565,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6565,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6565,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6570,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6570,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6570,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6575,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6575,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6575,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6580,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6580,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6580,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6585,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6585,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6585,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6590,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6590,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6590,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6595,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6595,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6595,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6600,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6600,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6600,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6605,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6605,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.4,0.0,4652,1064,pts/0,R,21:25,6605,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6610,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6610,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6610,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6615,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6615,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6615,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6620,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6620,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6620,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6625,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6625,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6625,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6630,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6630,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6630,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6635,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6635,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6635,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6640,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6640,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6640,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6645,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6645,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6645,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6650,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6650,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6650,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6655,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6655,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6655,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12288,0.0,0.0,2228,752,pts/0,S,21:25,6660,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,12292,99.1,0.0,4652,1064,pts/0,R,21:25,6660,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,12293,99.3,0.0,4652,1064,pts/0,R,21:25,6660,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.7,0.0,2228,740,pts/0,S,23:12,12550,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,105,0.0,4652,1052,pts/0,R,23:12,12550,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,104,0.0,4652,1048,pts/0,R,23:12,12550,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.1,0.0,2228,740,pts/0,S,23:12,12555,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,100,0.0,4652,1052,pts/0,R,23:12,12555,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,100,0.0,4652,1048,pts/0,R,23:12,12555,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12560,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,100,0.0,4652,1052,pts/0,R,23:12,12560,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.8,0.0,4652,1048,pts/0,R,23:12,12560,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12565,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,100,0.0,4652,1052,pts/0,R,23:12,12565,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.7,0.0,4652,1048,pts/0,R,23:12,12565,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12570,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12570,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.3,0.0,4652,1048,pts/0,R,23:12,12570,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12575,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.7,0.0,4652,1052,pts/0,R,23:12,12575,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.5,0.0,4652,1048,pts/0,R,23:12,12575,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12580,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.6,0.0,4652,1052,pts/0,R,23:12,12580,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.4,0.0,4652,1048,pts/0,R,23:12,12580,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12585,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12585,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.3,0.0,4652,1048,pts/0,R,23:12,12585,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12590,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12590,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.3,0.0,4652,1048,pts/0,R,23:12,12590,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12595,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12595,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.2,0.0,4652,1048,pts/0,R,23:12,12595,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12600,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12600,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.2,0.0,4652,1048,pts/0,R,23:12,12600,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12605,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12605,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.2,0.0,4652,1048,pts/0,R,23:12,12605,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12610,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12610,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.2,0.0,4652,1048,pts/0,R,23:12,12610,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12615,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.5,0.0,4652,1052,pts/0,R,23:12,12615,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.2,0.0,4652,1048,pts/0,R,23:12,12615,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12620,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12620,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12620,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12625,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12625,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12625,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12630,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12630,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12630,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12635,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12635,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12635,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12640,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12640,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12640,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12645,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12645,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12645,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12650,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12650,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12650,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12655,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12655,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12655,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12660,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12660,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12660,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12665,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12665,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12665,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12670,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12670,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12670,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12675,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12675,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12675,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12680,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12680,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12680,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12685,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12685,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12685,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12690,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12690,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12690,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12695,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12695,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12695,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12700,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12700,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12700,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12705,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12705,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12705,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12710,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12710,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12710,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12715,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12715,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12715,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12720,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12720,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12720,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12725,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12725,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12725,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12730,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12730,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12730,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12735,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12735,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12735,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12740,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12740,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12740,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12745,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12745,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12745,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12750,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12750,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12750,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12755,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12755,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.0,0.0,4652,1048,pts/0,R,23:12,12755,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12760,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12760,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12760,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12765,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12765,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12765,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12770,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12770,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12770,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12775,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12775,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12775,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12780,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12780,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12780,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12785,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12785,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12785,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12790,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12790,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12790,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12795,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12795,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12795,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12800,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12800,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12800,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12805,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12805,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12805,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12810,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12810,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12810,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12815,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12815,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12815,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12820,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12820,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12820,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12825,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12825,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12825,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12830,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12830,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12830,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12835,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12835,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12835,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12840,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12840,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12840,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12845,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12845,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12845,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12850,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12850,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12850,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12855,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12855,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12855,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12860,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12860,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12860,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12865,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12865,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12865,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12870,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12870,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12870,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12875,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12875,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12875,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12880,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.4,0.0,4652,1052,pts/0,R,23:12,12880,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12880,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12885,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12885,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12885,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12890,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12890,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12890,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12895,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17011,99.3,0.0,4652,1052,pts/0,R,23:12,12895,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12895,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,17007,0.0,0.0,2228,740,pts/0,S,23:12,12900,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_base_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,17012,99.1,0.0,4652,1048,pts/0,R,23:12,12900,../run_base_refrate_mytest-64.0002/exchange2_r_base.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18315,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,103,0.0,4588,1048,pts/0,R,00:50,18315,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,103,0.0,4588,1048,pts/0,R,00:50,18315,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18320,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.5,0.0,4588,1048,pts/0,R,00:50,18320,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.7,0.0,4588,1048,pts/0,R,00:50,18320,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18325,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,100,0.0,4588,1048,pts/0,R,00:50,18325,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,100,0.0,4588,1048,pts/0,R,00:50,18325,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18330,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.5,0.0,4588,1048,pts/0,R,00:50,18330,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.7,0.0,4588,1048,pts/0,R,00:50,18330,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18335,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18335,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18335,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18340,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18340,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18340,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18345,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.5,0.0,4588,1048,pts/0,R,00:50,18345,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.8,0.0,4588,1048,pts/0,R,00:50,18345,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18350,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18350,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18350,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18355,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.4,0.0,4588,1048,pts/0,R,00:50,18355,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.7,0.0,4588,1048,pts/0,R,00:50,18355,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18360,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.3,0.0,4588,1048,pts/0,R,00:50,18360,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18360,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18365,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18365,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18365,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18370,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18370,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18370,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18375,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18375,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18375,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18380,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18380,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18380,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18385,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.3,0.0,4588,1048,pts/0,R,00:50,18385,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18385,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18390,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18390,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18390,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18395,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.3,0.0,4588,1048,pts/0,R,00:50,18395,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18395,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18400,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18400,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18400,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18405,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18405,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18405,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18410,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18410,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18410,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18415,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18415,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18415,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18420,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18420,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18420,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18425,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18425,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18425,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18430,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18430,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18430,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18435,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18435,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.5,0.0,4588,1048,pts/0,R,00:50,18435,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18440,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18440,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18440,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18445,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18445,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18445,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18450,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18450,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18450,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18455,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18455,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18455,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18460,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18460,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18460,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18465,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18465,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18465,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18470,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18470,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18470,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18475,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18475,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18475,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18480,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18480,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18480,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18485,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18485,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18485,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18490,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18490,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18490,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18495,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18495,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18495,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18500,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18500,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18500,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18505,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18505,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18505,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18510,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18510,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18510,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18515,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18515,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18515,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18520,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18520,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18520,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18525,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18525,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18525,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18530,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18530,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18530,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18535,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.2,0.0,4588,1048,pts/0,R,00:50,18535,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18535,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18540,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18540,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18540,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18545,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18545,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18545,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18550,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18550,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18550,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18555,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18555,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18555,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18560,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18560,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18560,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18565,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18565,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18565,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18570,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18570,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18570,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18575,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18575,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18575,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18580,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18580,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18580,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18585,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18585,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18585,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18590,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18590,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18590,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18595,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18595,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18595,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18600,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18600,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18600,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18605,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18605,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18605,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18610,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18610,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18610,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18615,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18615,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18615,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18620,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18620,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18620,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18625,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18625,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18625,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18630,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18630,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18630,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18635,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18635,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18635,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18640,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18640,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18640,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18645,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18645,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18645,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18650,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18650,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18650,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18655,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18655,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18655,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18660,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18660,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18660,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20395,0.0,0.0,2228,724,pts/0,S,00:50,18665,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,20399,99.1,0.0,4588,1048,pts/0,R,00:50,18665,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,20400,99.4,0.0,4588,1048,pts/0,R,00:50,18665,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23755,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,102,0.0,4588,1000,pts/0,R,02:23,23755,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,102,0.0,4588,1000,pts/0,R,02:23,23755,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23760,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.6,0.0,4588,1000,pts/0,R,02:23,23760,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.5,0.0,4588,1000,pts/0,R,02:23,23760,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23765,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.6,0.0,4588,1000,pts/0,R,02:23,23765,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.4,0.0,4588,1000,pts/0,R,02:23,23765,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23770,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.8,0.0,4588,1000,pts/0,R,02:23,23770,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.6,0.0,4588,1000,pts/0,R,02:23,23770,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23775,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23775,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23775,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23780,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.6,0.0,4588,1000,pts/0,R,02:23,23780,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.4,0.0,4588,1000,pts/0,R,02:23,23780,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23785,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23785,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23785,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23790,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23790,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23790,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23795,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23795,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23795,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23800,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23800,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23800,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23805,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23805,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23805,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23810,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23810,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23810,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23815,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23815,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23815,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23820,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23820,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23820,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23825,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23825,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23825,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23830,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23830,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23830,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23835,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23835,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23835,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23840,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.6,0.0,4588,1000,pts/0,R,02:23,23840,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.4,0.0,4588,1000,pts/0,R,02:23,23840,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23845,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.5,0.0,4588,1000,pts/0,R,02:23,23845,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23845,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23850,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23850,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23850,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23855,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23855,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23855,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23860,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23860,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23860,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23865,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23865,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23865,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23870,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23870,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23870,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23875,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23875,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23875,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23880,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23880,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23880,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23885,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23885,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23885,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23890,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23890,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23890,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23895,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23895,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23895,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23900,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23900,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23900,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23905,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23905,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23905,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23910,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23910,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23910,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23915,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23915,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23915,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23920,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23920,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23920,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23925,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23925,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23925,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23930,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23930,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23930,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23935,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23935,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.3,0.0,4588,1000,pts/0,R,02:23,23935,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23940,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23940,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23940,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23945,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23945,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23945,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23950,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23950,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23950,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23955,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23955,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23955,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23960,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23960,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23960,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23965,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23965,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23965,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23970,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23970,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23970,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23975,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23975,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23975,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23980,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23980,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23980,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23985,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23985,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23985,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23990,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23990,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23990,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,23995,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,23995,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,23995,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,24000,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,24000,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,24000,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,24005,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,24005,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,24005,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,24010,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,24010,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,24010,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29414,0.0,0.0,2228,700,pts/0,S,02:23,24015,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/548.exchange2_r/run/run_peak_refrate_mytest-64.0002 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+root,29418,99.4,0.0,4588,1000,pts/0,R,02:23,24015,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6
+root,29419,99.2,0.0,4588,1000,pts/0,R,02:23,24015,../run_peak_refrate_mytest-64.0002/exchange2_r_peak.mytest-64 6

@@ -1,0 +1,448 @@
+%CPU,%MEM,PSR,TIME,PID,CMD
+2.9,1.0,6,70,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+3.1,1.3,6,75,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+3.4,1.3,6,80,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+3.1,1.3,6,85,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+3.0,1.3,6,90,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+3.5,1.3,7,95,6854,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+7.1,1.3,7,1250,21468,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+8.3,1.3,6,1255,21468,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+10.7,1.3,7,1260,21468,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+16.6,1.3,6,1265,21468,../run_base_test_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+102,1.3,6,1325,23810,../run_peak_test_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+15.6,1.3,6,1330,23810,../run_peak_test_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+24.2,1.3,7,1335,23810,../run_peak_test_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+29.4,1.3,6,1340,23810,../run_peak_test_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 156 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.6,1.3,6,1575,27487,../run_base_train_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+9.1,1.3,7,1580,27487,../run_base_train_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+15.8,1.3,6,1585,27487,../run_base_train_mytest-64.0000/x264_r_base.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+104,1.3,6,1805,29438,../run_peak_train_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,6,1810,29438,../run_peak_train_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,6,1815,29438,../run_peak_train_mytest-64.0000/x264_r_peak.mytest-64 --dumpyuv 50 --frames 142 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+79.3,1.3,6,4585,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+79.0,1.3,7,4585,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.9,1.3,4,4590,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+81.0,1.3,6,4590,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+92.8,1.3,5,4595,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+82.3,1.3,4,4595,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+89.3,1.3,6,4600,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+81.6,1.3,4,4600,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.6,1.3,6,4605,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+82.5,1.3,7,4605,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+40.8,1.3,7,4610,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+38.3,1.3,4,4610,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+24.0,1.3,5,4615,26654,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+22.7,1.3,4,4615,26655,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+26.7,0.3,7,4620,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+26.5,0.3,6,4620,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,6,4625,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,4,4625,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.2,0.3,6,4630,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.2,0.3,7,4630,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+23.2,0.3,7,4635,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+23.2,0.3,6,4635,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.6,0.3,7,4640,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.6,0.3,6,4640,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,7,4645,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,6,4645,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,6,4650,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,7,4650,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,7,4655,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.1,0.3,6,4655,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.1,0.3,7,4660,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.0,0.3,6,4660,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,6,4665,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,7,4665,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,6,4670,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,7,4670,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,7,4675,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,6,4675,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.9,0.3,6,4680,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.9,0.3,7,4680,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.8,0.3,6,4685,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.8,0.3,7,4685,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,7,4690,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,6,4690,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.3,0.3,6,4695,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.3,0.3,7,4695,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,6,4700,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.4,0.3,7,4700,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,7,4705,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.3,0.3,6,4705,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.2,0.3,6,4710,26857,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+19.2,0.3,7,4710,26858,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+14.6,1.3,7,4715,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+10.7,1.3,6,4715,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.1,1.3,6,4720,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+16.6,1.3,7,4720,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.5,1.3,7,4725,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+17.5,1.3,6,4725,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.2,1.3,6,4730,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+17.5,1.3,7,4730,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+18.2,1.3,6,4735,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+17.6,1.3,7,4735,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+22.3,1.3,7,4740,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.8,1.3,6,4740,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.7,1.3,6,4745,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.3,1.3,7,4745,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.7,1.3,7,4750,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.3,1.3,6,4750,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.6,1.3,6,4755,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.3,1.3,7,4755,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+22.4,1.3,6,4760,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+22.1,1.3,7,4760,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.9,1.3,6,4765,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.6,1.3,7,4765,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.1,1.3,7,4770,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.9,1.3,6,4770,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.0,1.3,4,4775,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.9,1.3,6,4775,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.4,1.3,6,4780,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.3,1.3,7,4780,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.4,1.3,6,4785,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.4,1.3,7,4785,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.0,1.3,6,4790,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.0,1.3,7,4790,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.6,1.3,5,4795,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.6,1.3,7,4795,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.3,1.3,4,4800,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.2,1.3,6,4800,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.5,1.3,7,4805,27998,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+20.5,1.3,6,4805,28000,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,7,9990,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,6,9990,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.8,1.3,7,9995,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,6,9995,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,1.3,7,10000,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,1.3,6,10000,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,7,10005,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,6,10005,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,7,10010,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,1.3,6,10010,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10015,14747,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,4,10015,14748,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+109,0.2,5,10020,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,5,10025,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,4,10025,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,0.3,5,10030,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.8,0.3,4,10030,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,0.3,5,10035,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,0.3,4,10035,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,0.3,5,10040,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,0.3,4,10040,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,10045,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,10045,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,7,10050,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,10050,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,10055,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,10055,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,10060,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,10060,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10065,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,10065,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10070,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,10070,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10075,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10075,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10080,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10080,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10085,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10085,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10090,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10090,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10095,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10095,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10100,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10100,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10105,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10105,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10110,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,10110,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10115,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,10115,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10120,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,10120,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,10125,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,10125,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,10130,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10130,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,10135,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,10135,14777,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,10140,14774,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+225,0.4,4,10140,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,4,10145,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+101,1.3,5,10145,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.8,1.3,4,10150,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,5,10150,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,1.3,4,10155,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,1.3,5,10155,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,4,10160,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,5,10160,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,4,10165,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,5,10165,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,6,10170,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,7,10170,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,6,10175,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,7,10175,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,6,10180,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,7,10180,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,6,10185,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,7,10185,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,6,10190,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10190,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,4,10195,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10195,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10200,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10200,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10205,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10205,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,4,10210,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10210,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10215,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,5,10215,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10220,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10220,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10225,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10225,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,6,10230,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10230,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,6,10235,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10235,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,6,10240,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,10240,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,5,10245,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,7,10245,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,5,10250,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,10250,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,5,10255,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.1,1.3,4,10255,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,5,10260,14838,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.1,1.3,4,10260,14842,../run_base_refrate_mytest-64.0007/x264_r_base.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+80.5,1.3,5,15490,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+79.8,1.3,7,15490,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+92.7,1.3,5,15495,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+82.9,1.3,6,15495,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+92.7,1.3,6,15500,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.0,1.3,5,15500,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+90.3,1.3,6,15505,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.5,1.3,7,15505,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.6,1.3,4,15510,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.2,1.3,5,15510,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.3,1.3,6,15515,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.7,1.3,7,15515,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.2,1.3,7,15520,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.2,1.3,4,15520,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+88.0,1.3,4,15525,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.4,1.3,5,15525,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+87.7,1.3,5,15530,18408,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.4,1.3,4,15530,18409,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,4,15535,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,5,15535,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,0.3,4,15540,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.8,0.3,5,15540,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,0.3,4,15545,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,0.3,5,15545,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,6,15550,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,0.3,7,15550,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,6,15555,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,7,15555,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,6,15560,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,7,15560,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,6,15565,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,0.3,7,15565,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,6,15570,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,15570,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15575,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,15575,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,4,15580,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15580,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,4,15585,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15585,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,15590,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15590,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,4,15595,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15595,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,15600,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,15600,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,4,15605,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15605,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,15610,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,5,15610,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,4,15615,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,5,15615,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,15620,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15620,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,15625,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15625,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,7,15630,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15630,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,15635,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15635,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,0.3,7,15640,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,0.3,6,15640,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+53.2,0.3,5,15645,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+53.2,0.3,4,15645,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+39.5,0.3,5,15650,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+39.5,0.3,4,15650,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+32.3,0.3,4,15655,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+32.3,0.3,5,15655,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+26.2,0.3,5,15660,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+26.2,0.3,4,15660,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+23.8,0.3,4,15665,18430,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+23.8,0.3,5,15665,18432,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+103,1.3,5,15670,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+105,1.3,4,15670,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,5,15675,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,4,15675,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.9,1.3,5,15680,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,1.3,4,15680,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,5,15685,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.2,1.3,4,15685,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.6,1.3,5,15690,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.4,1.3,4,15690,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,4,15695,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.3,1.3,7,15695,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.0,1.3,6,15700,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.9,1.3,7,15700,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+70.9,1.3,6,15705,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+70.4,1.3,7,15705,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+45.5,1.3,6,15710,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+45.0,1.3,7,15710,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+30.8,1.3,6,15715,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+30.4,1.3,7,15715,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.8,1.3,6,15720,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.5,1.3,7,15720,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.3,1.3,6,15725,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+21.0,1.3,7,15725,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+16.8,1.3,6,15730,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+16.6,1.3,7,15730,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+16.1,1.3,6,15735,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+15.9,1.3,7,15735,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.6,1.3,7,15740,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.4,1.3,6,15740,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.7,1.3,7,15745,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.5,1.3,6,15745,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+14.3,1.3,6,15750,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+14.1,1.3,7,15750,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.4,1.3,7,15755,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+13.3,1.3,6,15755,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+12.9,1.3,7,15760,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+12.8,1.3,6,15760,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+11.5,1.3,6,15765,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+11.4,1.3,7,15765,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+10.0,1.3,7,15770,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+9.9,1.3,6,15770,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+9.4,1.3,7,15775,18948,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+9.3,1.3,6,15775,18950,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+82.5,1.3,6,20125,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.8,1.3,4,20125,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.5,1.3,4,20130,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.5,1.3,6,20130,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.4,1.3,6,20135,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.0,1.3,7,20135,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.7,1.3,7,20140,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.1,1.3,4,20140,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+83.5,1.3,6,20145,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.0,1.3,7,20145,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.1,1.3,7,20150,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.5,1.3,6,20150,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.5,1.3,4,20155,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.7,1.3,5,20155,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+84.8,1.3,5,20160,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.0,1.3,6,20160,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.1,1.3,6,20165,29870,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+85.3,1.3,7,20165,29871,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 1 --stats x264_stats.log --bitrate 1000 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,4,20170,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,6,20170,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,0.3,4,20175,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,0.3,6,20175,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.5,0.3,4,20180,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,0.3,6,20180,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.0,0.3,4,20185,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,0.3,5,20185,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,0.3,4,20190,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,0.3,5,20190,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,0.3,4,20195,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,5,20195,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,4,20200,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,5,20200,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,0.3,4,20205,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,0.3,5,20205,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,0.3,7,20210,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,0.3,6,20210,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,0.3,7,20215,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.8,0.3,6,20215,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.8,0.3,7,20220,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.8,0.3,6,20220,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,0.3,7,20225,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,0.3,6,20225,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,0.3,7,20230,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,6,20230,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,7,20235,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,6,20235,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,7,20240,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,6,20240,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,5,20245,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,4,20245,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,5,20250,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,4,20250,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,5,20255,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,0.3,4,20255,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,0.3,5,20260,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,0.3,4,20260,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,7,20265,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,6,20265,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,7,20270,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,0.3,6,20270,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,7,20275,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,6,20275,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,7,20280,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,6,20280,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,0.3,5,20285,29905,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,0.3,4,20285,29906,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --pass 2 --stats x264_stats.log --bitrate 1000 --dumpyuv 200 --frames 1000 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+101,1.3,5,20290,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+101,1.3,4,20290,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,5,20295,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+100,1.3,4,20295,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.8,1.3,5,20300,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+99.7,1.3,4,20300,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.8,1.3,5,20305,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.7,1.3,6,20305,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.0,1.3,5,20310,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.0,1.3,6,20310,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,1.3,5,20315,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,1.3,6,20315,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,1.3,5,20320,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,1.3,6,20320,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,1.3,7,20325,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,1.3,6,20325,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,1.3,7,20330,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,1.3,4,20330,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,1.3,7,20335,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,1.3,4,20335,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,1.3,7,20340,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.7,1.3,4,20340,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,1.3,7,20345,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.2,1.3,6,20345,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,1.3,7,20350,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,1.3,6,20350,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,1.3,5,20355,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,1.3,4,20355,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,1.3,5,20360,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,1.3,4,20360,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,1.3,5,20365,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,1.3,4,20365,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,1.3,5,20370,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.8,1.3,7,20370,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.5,1.3,5,20375,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.7,1.3,6,20375,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.6,1.3,5,20380,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.6,1.3,4,20380,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.4,1.3,7,20385,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.2,1.3,6,20385,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.3,1.3,7,20390,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+97.1,1.3,6,20390,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,1.3,7,20395,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+96.9,1.3,4,20395,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+98.1,1.3,7,20400,29992,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720
+96.9,1.3,4,20400,29994,../run_peak_refrate_mytest-64.0007/x264_r_peak.mytest-64 --seek 500 --dumpyuv 200 --frames 1250 -o BuckBunny_New.264 BuckBunny.yuv 1280x720

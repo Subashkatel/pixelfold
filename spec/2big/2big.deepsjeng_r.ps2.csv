@@ -1,0 +1,1123 @@
+%CPU,%MEM,PSR,TIME,PID,CMD
+1.4,0.8,5,65,6622,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.005.0/templogs/531.deepsjeng_r.test.base --lognum 005.0.6 531.deepsjeng_r
+0.0,0.0,7,65,6755,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,5,65,6756,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.005.0/templogs/531.deepsjeng_r.test.base --lognum 005.0.6 531.deepsjeng_r
+5.6,6.0,6,65,6758,../run_base_test_mytest-64.0000/deepsjeng_r_base.mytest-64 test.txt
+0.6,0.8,6,70,6622,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.005.0/templogs/531.deepsjeng_r.test.base --lognum 005.0.6 531.deepsjeng_r
+0.0,0.0,4,70,6755,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,6,70,6756,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.005.0/templogs/531.deepsjeng_r.test.base --lognum 005.0.6 531.deepsjeng_r
+4.2,6.0,7,70,6758,../run_base_test_mytest-64.0000/deepsjeng_r_base.mytest-64 test.txt
+2.8,0.8,5,1245,21335,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,0,1245,21419,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,5,1245,21420,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.base --lognum 006.0.6 531.deepsjeng_r
+14.4,6.0,7,1245,21422,../run_base_test_mytest-64.0000/deepsjeng_r_base.mytest-64 test.txt
+1.7,0.8,7,1250,21335,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,7,1250,21419,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,0,1250,21420,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.base --lognum 006.0.6 531.deepsjeng_r
+15.8,6.0,6,1250,21422,../run_base_test_mytest-64.0000/deepsjeng_r_base.mytest-64 test.txt
+175,0.0,4,1320,23763,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.peak --lognum 006.0.17 531.deepsjeng_r
+16.8,0.8,4,1325,23763,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.peak --lognum 006.0.17 531.deepsjeng_r
+0.2,0.0,3,1325,23797,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_test_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,4,1325,23798,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size test --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.test.peak --lognum 006.0.17 531.deepsjeng_r
+101,6.0,7,1325,23800,../run_peak_test_mytest-64.0000/deepsjeng_r_peak.mytest-64 test.txt
+80.3,0.5,7,1585,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+6.5,0.8,4,1590,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.1,0.0,0,1590,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.0,0.7,5,1590,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+30.0,6.0,7,1590,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+4.6,0.8,6,1595,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.1,0.0,6,1595,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.1,0.7,5,1595,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+49.4,6.0,7,1595,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+3.4,0.8,6,1600,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,6,1600,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,0,1600,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+56.3,6.0,7,1600,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+2.8,0.8,2,1605,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,3,1605,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,4,1605,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+64.1,6.0,7,1605,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+2.4,0.8,2,1610,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,3,1610,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,4,1610,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+69.6,6.0,7,1610,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+1.8,0.8,2,1615,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,4,1615,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,3,1615,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+61.9,6.0,7,1615,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+1.5,0.8,0,1620,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,0,1620,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,1,1620,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+60.7,6.0,7,1620,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+1.1,0.8,7,1625,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,7,1625,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.1,0.7,2,1625,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+47.8,6.0,6,1625,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+0.8,0.8,7,1630,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,2,1630,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.1,0.7,0,1630,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+39.8,6.0,6,1630,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+0.6,0.8,7,1635,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,7,1635,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.1,0.7,4,1635,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+35.2,6.0,7,1635,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+0.6,0.8,6,1640,27625,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+0.0,0.0,3,1640,27658,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.1,0.7,3,1640,27659,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 6 --tune base --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.base --lognum 006.0.6 531.deepsjeng_r
+36.6,6.0,6,1640,27661,../run_base_train_mytest-64.0000/deepsjeng_r_base.mytest-64 train.txt
+20.8,0.8,6,1820,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+1.1,0.0,6,1820,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,1,1820,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+102,6.0,6,1820,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+9.1,0.8,6,1825,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.3,0.0,6,1825,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,5,1825,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+100,6.0,6,1825,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+5.8,0.8,6,1830,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.2,0.0,6,1830,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,2,1830,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+100,6.0,6,1830,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+4.3,0.8,6,1835,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.1,0.0,6,1835,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,5,1835,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+99.9,6.0,6,1835,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+3.4,0.8,6,1840,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.1,0.0,6,1840,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,4,1840,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+100,6.0,6,1840,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+2.8,0.8,6,1845,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.1,0.0,6,1845,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,4,1845,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+99.7,6.0,6,1845,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+2.4,0.8,6,1850,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.0,0.0,6,1850,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,0,1850,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+99.8,6.0,6,1850,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+2.0,0.8,6,1855,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.0,0.0,6,1855,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.3,0.7,5,1855,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+99.8,6.0,6,1855,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+1.5,0.8,6,1860,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.0,0.0,6,1860,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,0,1860,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+78.4,6.0,6,1860,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+1.3,0.8,1,1865,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.0,0.0,6,1865,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,4,1865,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+74.6,6.0,7,1865,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+0.8,0.8,7,1870,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+0.0,0.0,7,1870,29492,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_train_mytest-64.0000 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+0.2,0.7,7,1870,29493,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+53.8,6.0,6,1870,29495,../run_peak_train_mytest-64.0000/deepsjeng_r_peak.mytest-64 train.txt
+0.6,0.8,4,1875,29461,/home/cpu2017/bin/specperl /home/cpu2017/bin/harness/runcpu --config default.cfg --nokeeptmp --nolog_timestamp --iterations 1 --from_runcpu 1 --nouse-submit-for-speed --label mytest-64 --size train --nobuild --noreportable --noignore-errors --nopreenv --verbose 5 --copies 1 --threads 1 --copynum 17 --tune peak --logfile /home/cpu2017/tmp/CPU2017.006.0/templogs/531.deepsjeng_r.train.peak --lognum 006.0.17 531.deepsjeng_r
+2.0,0.0,0,4810,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+107,6.0,6,4810,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+106,6.0,7,4810,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.3,0.0,6,4815,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.0,6.0,7,4815,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+98.8,6.0,6,4815,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,4820,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.5,6.0,6,4820,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.5,6.0,7,4820,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4825,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,6,4825,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,7,4825,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4830,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.8,6.0,7,4830,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.8,6.0,6,4830,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,4835,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.9,6.0,7,4835,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.9,6.0,6,4835,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4840,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.0,6.0,7,4840,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.9,6.0,6,4840,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4845,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.3,6.0,7,4845,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.3,6.0,6,4845,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,4850,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.0,6.0,6,4850,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.0,6.0,7,4850,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4855,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.8,6.0,7,4855,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.8,6.0,6,4855,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,4860,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.2,6.0,6,4860,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.2,6.0,7,4860,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4865,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.1,6.0,7,4865,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.1,6.0,6,4865,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,4870,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.5,6.0,7,4870,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.5,6.0,6,4870,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,4875,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+24.4,6.0,7,4875,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+24.4,6.0,6,4875,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,4880,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.8,6.0,6,4880,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.7,6.0,7,4880,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,4885,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+27.6,6.0,6,4885,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+27.6,6.0,7,4885,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4890,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+29.0,6.0,7,4890,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+29.0,6.0,6,4890,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4895,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+30.7,6.0,7,4895,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+30.6,6.0,6,4895,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,5,4900,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+29.8,6.0,6,4900,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+29.7,6.0,7,4900,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4905,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.4,6.0,6,4905,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.4,6.0,7,4905,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4910,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.4,6.0,7,4910,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.4,6.0,6,4910,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4915,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+29.3,6.0,6,4915,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+29.3,6.0,7,4915,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4920,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+30.5,6.0,6,4920,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+30.5,6.0,7,4920,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,4925,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.5,6.0,6,4925,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.5,6.0,7,4925,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4930,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.9,6.0,7,4930,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.9,6.0,6,4930,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4935,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.5,6.0,6,4935,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.5,6.0,7,4935,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4940,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.6,6.0,7,4940,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.6,6.0,6,4940,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4945,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.3,6.0,7,4945,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.3,6.0,6,4945,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,5,4950,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.3,6.0,7,4950,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.3,6.0,6,4950,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,4955,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.1,6.0,7,4955,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.1,6.0,6,4955,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,4960,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+27.9,6.0,7,4960,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+27.9,6.0,6,4960,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,4965,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+28.0,6.0,7,4965,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+28.0,6.0,6,4965,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,4970,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+27.4,6.0,6,4970,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+27.4,6.0,7,4970,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,4975,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+27.2,6.0,7,4975,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+27.2,6.0,6,4975,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,4980,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+27.2,6.0,6,4980,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+27.2,6.0,7,4980,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,4985,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.9,6.0,6,4985,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.9,6.0,7,4985,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,4990,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.7,6.0,6,4990,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.7,6.0,7,4990,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,4995,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.5,6.0,6,4995,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.5,6.0,7,4995,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5000,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.4,6.0,6,5000,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.4,6.0,7,5000,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5005,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.4,6.0,6,5005,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.4,6.0,7,5005,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5010,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.6,6.0,6,5010,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.6,6.0,7,5010,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5015,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.5,6.0,7,5015,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.5,6.0,6,5015,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5020,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.4,6.0,6,5020,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.4,6.0,7,5020,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,5025,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.4,6.0,7,5025,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.4,6.0,6,5025,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5030,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,7,5030,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,6,5030,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5035,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,6,5035,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,7,5035,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5040,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,6,5040,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,7,5040,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5045,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,6,5045,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,7,5045,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,5050,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.0,6.0,6,5050,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.0,6.0,7,5050,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,5,5055,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.4,6.0,6,5055,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.3,6.0,7,5055,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,5060,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.0,6.0,6,5060,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.0,6.0,7,5060,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,5065,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.0,6.0,7,5065,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.0,6.0,6,5065,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,5070,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,6,5070,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,7,5070,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5075,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.9,6.0,6,5075,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.9,6.0,7,5075,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5080,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.3,6.0,6,5080,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.3,6.0,7,5080,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5085,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.8,6.0,6,5085,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.8,6.0,7,5085,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5090,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,6,5090,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,7,5090,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5095,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,6,5095,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,7,5095,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,5100,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,7,5100,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,6,5100,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5105,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.2,6.0,7,5105,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.2,6.0,6,5105,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5110,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.0,6.0,7,5110,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.9,6.0,6,5110,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,5115,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.9,6.0,6,5115,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.9,6.0,7,5115,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5120,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.9,6.0,6,5120,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.9,6.0,7,5120,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5125,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.3,6.0,6,5125,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.3,6.0,7,5125,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5130,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.9,6.0,6,5130,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.9,6.0,7,5130,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5135,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.8,6.0,6,5135,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.8,6.0,7,5135,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,5140,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.8,6.0,6,5140,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.8,6.0,7,5140,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,5,5145,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.6,6.0,7,5145,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.6,6.0,6,5145,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5150,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.8,6.0,6,5150,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.8,6.0,7,5150,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,0,5155,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.6,6.0,6,5155,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.6,6.0,7,5155,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5160,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.5,6.0,6,5160,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.5,6.0,7,5160,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,3,5165,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.5,6.0,7,5165,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.5,6.0,6,5165,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,7,5170,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.5,6.0,6,5170,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.5,6.0,7,5170,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5175,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.7,6.0,7,5175,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.7,6.0,6,5175,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,6,5180,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,7,5180,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,6,5180,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5185,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+26.1,6.0,7,5185,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+26.1,6.0,6,5185,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,2,5190,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.7,6.0,6,5190,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.7,6.0,7,5190,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,5195,29270,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+25.6,6.0,6,5195,29274,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+25.6,6.0,7,5195,29275,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.6,0.0,4,10270,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+100,6.0,5,10270,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+100,6.0,4,10270,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.2,0.0,4,10275,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.7,6.0,5,10275,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.8,6.0,4,10275,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.1,0.0,4,10280,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.8,6.0,5,10280,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.8,6.0,4,10280,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.1,0.0,4,10285,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.7,6.0,7,10285,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.7,6.0,4,10285,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10290,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,7,10290,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10290,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10295,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.7,6.0,7,10295,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.7,6.0,6,10295,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10300,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,7,10300,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10300,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10305,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,7,10305,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.6,6.0,6,10305,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10310,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,7,10310,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.6,6.0,6,10310,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10315,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,5,10315,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.6,6.0,4,10315,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10320,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,5,10320,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10320,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10325,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,5,10325,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10325,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10330,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.6,6.0,5,10330,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.6,6.0,4,10330,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10335,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10335,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10335,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10340,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10340,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10340,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10345,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10345,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10345,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10350,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10350,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10350,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10355,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10355,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10355,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10360,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10360,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10360,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10365,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10365,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10365,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10370,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10370,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10370,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10375,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10375,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10375,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10380,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10380,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10380,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10385,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10385,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10385,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10390,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10390,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10390,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10395,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10395,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10395,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10400,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10400,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10400,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10405,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10405,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10405,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10410,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10410,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10410,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10415,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10415,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,6,10415,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10420,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10420,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,6,10420,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10425,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10425,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,6,10425,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10430,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,7,10430,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,6,10430,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10435,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10435,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,4,10435,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10440,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10440,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10440,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10445,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10445,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,4,10445,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10450,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10450,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,4,10450,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10455,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10455,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,4,10455,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10460,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10460,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,4,10460,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10465,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10465,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10465,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10470,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,5,10470,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10470,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10475,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10475,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10475,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10480,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10480,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10480,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10485,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10485,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,7,10485,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10490,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10490,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10490,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10495,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10495,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10495,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10500,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10500,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10500,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10505,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10505,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10505,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10510,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10510,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10510,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10515,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10515,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10515,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10520,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10520,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10520,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10525,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10525,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10525,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10530,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10530,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10530,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10535,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10535,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10535,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10540,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10540,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10540,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10545,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10545,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10545,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10550,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10550,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10550,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10555,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10555,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10555,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10560,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10560,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,7,10560,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10565,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10565,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10565,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10570,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10570,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10570,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10575,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10575,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10575,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10580,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10580,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10580,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10585,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10585,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10585,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10590,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10590,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10590,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10595,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10595,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10595,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10600,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10600,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10600,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10605,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10605,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.5,6.0,7,10605,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10610,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10610,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10610,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10615,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10615,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10615,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10620,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10620,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10620,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10625,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10625,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10625,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10630,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10630,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10630,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10635,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10635,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10635,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10640,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10640,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10640,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10645,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10645,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10645,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10650,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10650,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10650,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10655,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,4,10655,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10655,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10660,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10660,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10660,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10665,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10665,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10665,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10670,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10670,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10670,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10675,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10675,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10675,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10680,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.5,6.0,6,10680,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10680,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10685,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10685,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10685,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10690,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10690,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10690,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10695,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10695,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10695,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10700,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10700,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10700,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10705,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10705,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,7,10705,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10710,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10710,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10710,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10715,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10715,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10715,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10720,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10720,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10720,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10725,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10725,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10725,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10730,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10730,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10730,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10735,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,4,10735,14988,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+99.4,6.0,5,10735,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10740,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,5,10740,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10745,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10745,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,4,10750,14984,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_base_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.4,6.0,6,10750,14989,../run_base_refrate_mytest-64.0007/deepsjeng_r_base.mytest-64 ref.txt
+0.0,0.0,1,15785,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+16.0,6.0,6,15785,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+15.9,6.0,7,15785,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15790,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.0,6.0,6,15790,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,7,15790,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15795,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.2,6.0,7,15795,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.2,6.0,6,15795,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,15800,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.5,6.0,6,15800,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.5,6.0,7,15800,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15805,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,6,15805,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,7,15805,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,15810,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.7,6.0,7,15810,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.7,6.0,6,15810,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15815,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,6,15815,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,7,15815,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15820,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,6,15820,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,7,15820,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15825,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,7,15825,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,6,15825,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15830,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,15830,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,15830,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,15835,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,7,15835,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,6,15835,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15840,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,7,15840,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,6,15840,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15845,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.1,6.0,6,15845,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.1,6.0,7,15845,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15850,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.0,6.0,6,15850,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.0,6.0,7,15850,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15855,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.0,6.0,7,15855,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.0,6.0,6,15855,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15860,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.0,6.0,6,15860,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.0,6.0,7,15860,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15865,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.0,6.0,7,15865,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+3.9,6.0,6,15865,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,15870,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.2,6.0,7,15870,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.2,6.0,6,15870,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15875,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.3,6.0,7,15875,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.3,6.0,6,15875,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15880,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.2,6.0,6,15880,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.2,6.0,7,15880,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15885,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.2,6.0,7,15885,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.2,6.0,6,15885,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15890,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,7,15890,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,6,15890,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15895,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,6,15895,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,7,15895,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15900,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.4,6.0,7,15900,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.4,6.0,6,15900,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,15905,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.5,6.0,7,15905,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.5,6.0,6,15905,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15910,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.6,6.0,7,15910,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.6,6.0,6,15910,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15915,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.5,6.0,6,15915,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.5,6.0,7,15915,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,15920,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.6,6.0,6,15920,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.6,6.0,7,15920,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15925,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.6,6.0,6,15925,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.6,6.0,7,15925,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,15930,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.6,6.0,6,15930,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.6,6.0,7,15930,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15935,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.6,6.0,6,15935,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.6,6.0,7,15935,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,15940,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,6,15940,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,7,15940,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,15945,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,7,15945,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,6,15945,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15950,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,15950,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,15950,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,15955,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,6,15955,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,7,15955,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,15960,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,6,15960,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,7,15960,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15965,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.5,6.0,7,15965,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.5,6.0,6,15965,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15970,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,7,15970,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,6,15970,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15975,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,7,15975,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,6,15975,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15980,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.1,6.0,7,15980,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.1,6.0,6,15980,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15985,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.3,6.0,7,15985,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.2,6.0,6,15985,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15990,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.4,6.0,7,15990,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.4,6.0,6,15990,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,15995,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.6,6.0,7,15995,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.6,6.0,6,15995,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16000,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,6,16000,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,7,16000,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16005,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.9,6.0,6,16005,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.9,6.0,7,16005,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16010,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.9,6.0,7,16010,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.9,6.0,6,16010,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,16015,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.9,6.0,7,16015,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.9,6.0,6,16015,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,16020,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.9,6.0,7,16020,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.9,6.0,6,16020,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,16025,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.9,6.0,6,16025,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.9,6.0,7,16025,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16030,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,6,16030,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,7,16030,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,16035,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.7,6.0,7,16035,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.7,6.0,6,16035,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16040,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,6,16040,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,7,16040,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16045,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,6,16045,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,7,16045,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,16050,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,7,16050,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,6,16050,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16055,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.8,6.0,7,16055,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.8,6.0,6,16055,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16060,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.7,6.0,6,16060,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.7,6.0,7,16060,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,16065,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.6,6.0,6,16065,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.5,6.0,7,16065,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16070,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.5,6.0,6,16070,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.5,6.0,7,16070,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,16075,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.5,6.0,6,16075,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.5,6.0,7,16075,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,16080,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.4,6.0,7,16080,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.4,6.0,6,16080,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16085,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.3,6.0,6,16085,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.3,6.0,7,16085,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,16090,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.1,6.0,7,16090,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.1,6.0,6,16090,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16095,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.0,6.0,7,16095,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.0,6.0,6,16095,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,16100,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.1,6.0,6,16100,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.1,6.0,7,16100,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16105,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.0,6.0,6,16105,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.0,6.0,7,16105,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16110,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.0,6.0,6,16110,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.0,6.0,7,16110,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,16115,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+5.0,6.0,7,16115,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+5.0,6.0,6,16115,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,16120,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,6,16120,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,7,16120,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,16125,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,6,16125,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,7,16125,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,16130,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16130,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16130,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16135,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.9,6.0,7,16135,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.9,6.0,6,16135,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16140,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16140,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16140,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,16145,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16145,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16145,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16150,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,7,16150,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,6,16150,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,16155,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16155,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16155,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,1,16160,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16160,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16160,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16165,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16165,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16165,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,16170,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16170,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16170,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,16175,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.8,6.0,6,16175,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.8,6.0,7,16175,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,2,16180,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,6,16180,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,7,16180,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,16185,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,7,16185,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,6,16185,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,16190,19992,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+4.7,6.0,6,16190,19996,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+4.7,6.0,7,16190,19997,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.4,0.0,4,20410,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+100,6.0,5,20410,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+100,6.0,4,20410,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.2,0.0,4,20415,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.7,6.0,5,20415,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+99.7,6.0,4,20415,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.1,0.0,4,20420,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+99.8,6.0,5,20420,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+99.8,6.0,4,20420,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20425,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+97.9,6.0,7,20425,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+97.9,6.0,4,20425,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20430,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.2,6.0,7,20430,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.2,6.0,4,20430,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20435,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.5,6.0,7,20435,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,4,20435,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20440,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20440,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20440,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20445,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20445,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20445,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20450,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,7,20450,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.8,6.0,4,20450,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20455,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.9,6.0,7,20455,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.8,6.0,4,20455,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20460,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.9,6.0,7,20460,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.9,6.0,4,20460,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20465,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.5,6.0,7,20465,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,6,20465,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20470,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20470,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20470,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20475,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20475,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20475,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20480,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,5,20480,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20480,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20485,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,5,20485,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20485,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20490,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,5,20490,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20490,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20495,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,5,20495,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.8,6.0,4,20495,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20500,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,5,20500,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.8,6.0,4,20500,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20505,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.5,6.0,7,20505,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,4,20505,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20510,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20510,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20510,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20515,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20515,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20515,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20520,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20520,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20520,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20525,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20525,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20525,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20530,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20530,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20530,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20535,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,7,20535,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20535,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20540,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.8,6.0,7,20540,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.8,6.0,5,20540,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20545,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20545,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,7,20545,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20550,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20550,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20550,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20555,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,6,20555,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20555,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20560,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,6,20560,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,7,20560,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20565,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20565,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20565,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20570,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20570,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20570,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20575,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20575,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20575,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,7,20580,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20580,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20580,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20585,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20585,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20585,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20590,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20590,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20590,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20595,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,4,20595,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20595,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20600,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20600,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20600,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20605,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20605,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20605,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20610,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20610,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20610,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20615,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,4,20615,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,5,20615,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20620,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20620,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20620,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20625,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20625,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20625,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20630,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20630,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20630,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20635,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20635,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20635,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20640,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20640,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20640,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20645,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20645,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,6,20645,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20650,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,5,20650,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20650,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,5,20655,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,5,20655,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.7,6.0,4,20655,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20660,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.5,6.0,7,20660,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,4,20660,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20665,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20665,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,4,20665,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20670,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20670,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20670,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20675,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20675,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20675,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20680,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20680,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20680,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20685,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20685,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20685,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20690,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20690,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20690,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,6,20695,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,7,20695,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20695,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20700,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.5,6.0,7,20700,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,6,20700,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20705,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20705,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20705,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20710,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20710,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20710,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20715,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,7,20715,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,6,20715,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20720,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20720,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20720,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20725,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20725,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20725,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20730,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20730,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20730,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,4,20735,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.7,6.0,5,20735,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,4,20735,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20740,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,4,20740,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.5,6.0,7,20740,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20745,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20745,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20745,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20750,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20750,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20750,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20755,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20755,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20755,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20760,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20760,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20760,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20765,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20765,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20765,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20770,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20770,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20770,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,3,20775,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,5,20775,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20775,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20780,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20780,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20780,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20785,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20785,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20785,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20790,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20790,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20790,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20795,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20795,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20795,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20800,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,6,20800,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,7,20800,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20805,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,4,20805,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20805,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+0.0,0.0,0,20810,30158,/home/cpu2017/bin/specinvoke -d /home/cpu2017/benchspec/CPU/531.deepsjeng_r/run/run_peak_refrate_mytest-64.0007 -f speccmds.cmd -q -e speccmds.err -o speccmds.stdout
+98.6,6.0,4,20810,30162,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
+98.6,6.0,5,20810,30163,../run_peak_refrate_mytest-64.0007/deepsjeng_r_peak.mytest-64 ref.txt
