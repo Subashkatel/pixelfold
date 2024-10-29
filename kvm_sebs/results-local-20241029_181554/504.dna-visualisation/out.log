@@ -1,0 +1,27 @@
+18:15:55,692 INFO SeBS-67ae: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation
+18:15:59,15 INFO Local-2739: Generating unique resource name local-d8f50b59
+18:15:59,40 INFO minio.Minio-5626: Initialize a new bucket for benchmarks
+18:15:59,83 INFO minio.Minio-5626: Created bucket sebs-benchmarks-local-d8f50b59
+18:15:59,126 INFO Benchmark-2f29: Building benchmark 504.dna-visualisation. Reason: no cached code package.
+18:15:59,184 INFO Benchmark-2f29: Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+18:15:59,184 INFO Benchmark-2f29: Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation/504.dna-visualisation_code/python/3.7
+18:16:52,767 INFO Local-2739: Function size 0.003906 MB
+18:16:52,771 INFO Benchmark-2f29: Created code package (source hash: b98584dd73b001b6259074ea6ee50a02), for run on local with python:3.7
+18:16:53,170 INFO Local-2739: Creating new function! Reason: function 504.dna-visualisation-python-3.7 not found in cache.
+18:16:57,482 INFO Local-2739: Started 504.dna-visualisation-python-3.7 function at container d75a0c77b44898b4444b59f17ddb24d3dca518ce288de4d08b3c9bd475881912 , running on 172.17.0.3:9000
+18:16:57,975 INFO SeBS-67ae: Beginning repetition 1/15
+18:17:09,443 INFO SeBS-67ae: Beginning repetition 2/15
+18:17:17,974 INFO SeBS-67ae: Beginning repetition 3/15
+18:17:26,769 INFO SeBS-67ae: Beginning repetition 4/15
+18:17:35,472 INFO SeBS-67ae: Beginning repetition 5/15
+18:17:44,738 INFO SeBS-67ae: Beginning repetition 6/15
+18:17:53,258 INFO SeBS-67ae: Beginning repetition 7/15
+18:18:02,394 INFO SeBS-67ae: Beginning repetition 8/15
+18:18:11,527 INFO SeBS-67ae: Beginning repetition 9/15
+18:18:20,706 INFO SeBS-67ae: Beginning repetition 10/15
+18:18:29,314 INFO SeBS-67ae: Beginning repetition 11/15
+18:18:38,219 INFO SeBS-67ae: Beginning repetition 12/15
+18:18:47,310 INFO SeBS-67ae: Beginning repetition 13/15
+18:18:56,185 INFO SeBS-67ae: Beginning repetition 14/15
+18:19:05,389 INFO SeBS-67ae: Beginning repetition 15/15
+18:19:14,354 INFO SeBS-67ae: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation/experiments.json

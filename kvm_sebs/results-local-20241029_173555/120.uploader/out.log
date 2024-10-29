@@ -1,0 +1,59 @@
+17:35:56,3 INFO SeBS-dc72: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_173555/120.uploader
+17:35:56,391 INFO Local-fe96: Using existing deployment local-0aa31c18 that matches prefix local!
+17:35:56,393 INFO Benchmark-a55f: Building benchmark 120.uploader. Reason: no cached code package.
+17:35:56,399 INFO Local-fe96: Function size 0.003906 MB
+17:35:56,399 INFO Benchmark-a55f: Created code package (source hash: 27d545a815da1e80010c95f02deb9740), for run on local with python:3.7
+17:35:56,400 INFO Local-fe96: Creating new function! Reason: function 120.uploader-python-3.7 not found in cache.
+17:35:58,157 INFO Local-fe96: Started 120.uploader-python-3.7 function at container 5e2e2dc0c484c412f34ad057b76e6cc1b1074ae11a307eb805e98f9402fe95fc , running on 172.17.0.4:9000
+17:35:58,222 INFO minio.Minio-c34e: Using existing bucket sebs-benchmarks-local-0aa31c18 for benchmarks
+17:35:58,233 INFO SeBS-dc72: Beginning repetition 1/50
+17:35:59,143 INFO SeBS-dc72: Beginning repetition 2/50
+17:35:59,577 INFO SeBS-dc72: Beginning repetition 3/50
+17:35:59,919 INFO SeBS-dc72: Beginning repetition 4/50
+17:36:00,224 INFO SeBS-dc72: Beginning repetition 5/50
+17:36:00,572 INFO SeBS-dc72: Beginning repetition 6/50
+17:36:00,893 INFO SeBS-dc72: Beginning repetition 7/50
+17:36:01,223 INFO SeBS-dc72: Beginning repetition 8/50
+17:36:01,556 INFO SeBS-dc72: Beginning repetition 9/50
+17:36:01,877 INFO SeBS-dc72: Beginning repetition 10/50
+17:36:02,239 INFO SeBS-dc72: Beginning repetition 11/50
+17:36:02,563 INFO SeBS-dc72: Beginning repetition 12/50
+17:36:02,959 INFO SeBS-dc72: Beginning repetition 13/50
+17:36:03,254 INFO SeBS-dc72: Beginning repetition 14/50
+17:36:03,592 INFO SeBS-dc72: Beginning repetition 15/50
+17:36:03,928 INFO SeBS-dc72: Beginning repetition 16/50
+17:36:04,245 INFO SeBS-dc72: Beginning repetition 17/50
+17:36:04,639 INFO SeBS-dc72: Beginning repetition 18/50
+17:36:04,957 INFO SeBS-dc72: Beginning repetition 19/50
+17:36:05,280 INFO SeBS-dc72: Beginning repetition 20/50
+17:36:05,624 INFO SeBS-dc72: Beginning repetition 21/50
+17:36:05,920 INFO SeBS-dc72: Beginning repetition 22/50
+17:36:06,261 INFO SeBS-dc72: Beginning repetition 23/50
+17:36:06,645 INFO SeBS-dc72: Beginning repetition 24/50
+17:36:06,956 INFO SeBS-dc72: Beginning repetition 25/50
+17:36:07,264 INFO SeBS-dc72: Beginning repetition 26/50
+17:36:07,604 INFO SeBS-dc72: Beginning repetition 27/50
+17:36:07,937 INFO SeBS-dc72: Beginning repetition 28/50
+17:36:08,229 INFO SeBS-dc72: Beginning repetition 29/50
+17:36:08,577 INFO SeBS-dc72: Beginning repetition 30/50
+17:36:08,904 INFO SeBS-dc72: Beginning repetition 31/50
+17:36:09,208 INFO SeBS-dc72: Beginning repetition 32/50
+17:36:09,645 INFO SeBS-dc72: Beginning repetition 33/50
+17:36:10,79 INFO SeBS-dc72: Beginning repetition 34/50
+17:36:10,375 INFO SeBS-dc72: Beginning repetition 35/50
+17:36:10,722 INFO SeBS-dc72: Beginning repetition 36/50
+17:36:11,117 INFO SeBS-dc72: Beginning repetition 37/50
+17:36:11,442 INFO SeBS-dc72: Beginning repetition 38/50
+17:36:11,799 INFO SeBS-dc72: Beginning repetition 39/50
+17:36:12,148 INFO SeBS-dc72: Beginning repetition 40/50
+17:36:12,480 INFO SeBS-dc72: Beginning repetition 41/50
+17:36:12,785 INFO SeBS-dc72: Beginning repetition 42/50
+17:36:13,90 INFO SeBS-dc72: Beginning repetition 43/50
+17:36:13,466 INFO SeBS-dc72: Beginning repetition 44/50
+17:36:13,796 INFO SeBS-dc72: Beginning repetition 45/50
+17:36:14,173 INFO SeBS-dc72: Beginning repetition 46/50
+17:36:14,511 INFO SeBS-dc72: Beginning repetition 47/50
+17:36:14,867 INFO SeBS-dc72: Beginning repetition 48/50
+17:36:15,285 INFO SeBS-dc72: Beginning repetition 49/50
+17:36:15,607 INFO SeBS-dc72: Beginning repetition 50/50
+17:36:15,970 INFO SeBS-dc72: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_173555/120.uploader/experiments.json

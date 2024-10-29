@@ -1,0 +1,51 @@
+[17:44:09.496796] SeBS-6d87 Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition
+[17:44:09.841274] LocalResources-b9de Using user-provided configuration of storage for local containers.
+[17:44:09.897722] Local-bddc Using existing deployment local-0aa31c18 that matches prefix local!
+[17:44:09.899481] Benchmark-bf1c Building benchmark 411.image-recognition. Reason: no cached code package.
+[17:44:09.964018] Benchmark-bf1c Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+[17:44:09.977171] Benchmark-bf1c Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition/411.image-recognition_code/python/3.7
+[17:44:12.984656] Benchmark-bf1c Package build failed!
+[17:44:12.985341] Benchmark-bf1c Command 'None' in image 'spcleth/serverless-benchmarks:build.local.python.3.7' returned non-zero exit status 1: b"chown: changing ownership of '/mnt/function/package.sh': Read-only file system\nERROR: torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl is not a supported wheel on this platform.\n\n[notice] A new release of pip is available: 23.0.1 -> 24.0\n[notice] To update, run: pip install --upgrade pip\n"
+[17:44:12.985850] Benchmark-bf1c Docker mount volumes: {'/home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition/411.image-recognition_code/python/3.7': {'bind': '/mnt/function', 'mode': 'rw'}, '/home/kalm/serverless-benchmarks/benchmarks/400.inference/411.image-recognition/python/package.sh': {'bind': '/mnt/function/package.sh', 'mode': 'ro'}}
+ERROR:root:Command 'None' in image 'spcleth/serverless-benchmarks:build.local.python.3.7' returned non-zero exit status 1: b"chown: changing ownership of '/mnt/function/package.sh': Read-only file system\nERROR: torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl is not a supported wheel on this platform.\n\n[notice] A new release of pip is available: 23.0.1 -> 24.0\n[notice] To update, run: pip install --upgrade pip\n"
+Traceback (most recent call last):
+  File "/home/kalm/serverless-benchmarks/./sebs.py", line 30, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/./sebs.py", line 72, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/./sebs.py", line 103, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/./sebs.py", line 245, in invoke
+    func = deployment_client.get_function(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/sebs/faas/system.py", line 213, in get_function
+    rebuilt, _ = code_package.build(self.package_code)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/sebs/benchmark.py", line 501, in build
+    self.install_dependencies(self._output_dir)
+  File "/home/kalm/serverless-benchmarks/sebs/benchmark.py", line 466, in install_dependencies
+    raise e
+  File "/home/kalm/serverless-benchmarks/sebs/benchmark.py", line 394, in install_dependencies
+    stdout = self._docker_client.containers.run(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kalm/serverless-benchmarks/python-venv/lib/python3.12/site-packages/docker/models/containers.py", line 905, in run
+    raise ContainerError(
+docker.errors.ContainerError: Command 'None' in image 'spcleth/serverless-benchmarks:build.local.python.3.7' returned non-zero exit status 1: b"chown: changing ownership of '/mnt/function/package.sh': Read-only file system\nERROR: torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl is not a supported wheel on this platform.\n\n[notice] A new release of pip is available: 23.0.1 -> 24.0\n[notice] To update, run: pip install --upgrade pip\n"

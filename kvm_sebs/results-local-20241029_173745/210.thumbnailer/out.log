@@ -1,0 +1,61 @@
+17:37:46,955 INFO SeBS-880e: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_173745/210.thumbnailer
+17:37:47,362 INFO Local-fd87: Using existing deployment local-0aa31c18 that matches prefix local!
+17:37:47,365 INFO Benchmark-f887: Building benchmark 210.thumbnailer. Reason: no cached code package.
+17:37:47,390 INFO Benchmark-f887: Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+17:37:47,390 INFO Benchmark-f887: Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_173745/210.thumbnailer/210.thumbnailer_code/python/3.7
+17:37:51,799 INFO Local-fd87: Function size 0.003906 MB
+17:37:51,813 INFO Benchmark-f887: Created code package (source hash: 01c6e2233a682e521327b50367184025), for run on local with python:3.7
+17:37:51,891 INFO Local-fd87: Creating new function! Reason: function 210.thumbnailer-python-3.7 not found in cache.
+17:37:53,492 INFO Local-fd87: Started 210.thumbnailer-python-3.7 function at container bec537e95a2d5c9a1a477f74b99cc20629059a5c27db491fd15b608187b0aa67 , running on 172.17.0.5:9000
+17:37:53,516 INFO minio.Minio-9a39: Using existing bucket sebs-benchmarks-local-0aa31c18 for benchmarks
+17:37:55,3 INFO SeBS-880e: Beginning repetition 1/50
+17:37:55,398 INFO SeBS-880e: Beginning repetition 2/50
+17:37:55,595 INFO SeBS-880e: Beginning repetition 3/50
+17:37:55,736 INFO SeBS-880e: Beginning repetition 4/50
+17:37:55,888 INFO SeBS-880e: Beginning repetition 5/50
+17:37:56,53 INFO SeBS-880e: Beginning repetition 6/50
+17:37:56,204 INFO SeBS-880e: Beginning repetition 7/50
+17:37:56,310 INFO SeBS-880e: Beginning repetition 8/50
+17:37:56,507 INFO SeBS-880e: Beginning repetition 9/50
+17:37:56,652 INFO SeBS-880e: Beginning repetition 10/50
+17:37:56,771 INFO SeBS-880e: Beginning repetition 11/50
+17:37:56,955 INFO SeBS-880e: Beginning repetition 12/50
+17:37:57,113 INFO SeBS-880e: Beginning repetition 13/50
+17:37:57,238 INFO SeBS-880e: Beginning repetition 14/50
+17:37:57,363 INFO SeBS-880e: Beginning repetition 15/50
+17:37:57,502 INFO SeBS-880e: Beginning repetition 16/50
+17:37:57,645 INFO SeBS-880e: Beginning repetition 17/50
+17:37:57,814 INFO SeBS-880e: Beginning repetition 18/50
+17:37:57,961 INFO SeBS-880e: Beginning repetition 19/50
+17:37:58,117 INFO SeBS-880e: Beginning repetition 20/50
+17:37:58,349 INFO SeBS-880e: Beginning repetition 21/50
+17:37:58,564 INFO SeBS-880e: Beginning repetition 22/50
+17:37:58,694 INFO SeBS-880e: Beginning repetition 23/50
+17:37:58,811 INFO SeBS-880e: Beginning repetition 24/50
+17:37:58,941 INFO SeBS-880e: Beginning repetition 25/50
+17:37:59,62 INFO SeBS-880e: Beginning repetition 26/50
+17:37:59,167 INFO SeBS-880e: Beginning repetition 27/50
+17:37:59,270 INFO SeBS-880e: Beginning repetition 28/50
+17:37:59,389 INFO SeBS-880e: Beginning repetition 29/50
+17:37:59,528 INFO SeBS-880e: Beginning repetition 30/50
+17:37:59,715 INFO SeBS-880e: Beginning repetition 31/50
+17:37:59,840 INFO SeBS-880e: Beginning repetition 32/50
+17:38:00,17 INFO SeBS-880e: Beginning repetition 33/50
+17:38:00,143 INFO SeBS-880e: Beginning repetition 34/50
+17:38:00,251 INFO SeBS-880e: Beginning repetition 35/50
+17:38:00,422 INFO SeBS-880e: Beginning repetition 36/50
+17:38:00,523 INFO SeBS-880e: Beginning repetition 37/50
+17:38:00,663 INFO SeBS-880e: Beginning repetition 38/50
+17:38:00,810 INFO SeBS-880e: Beginning repetition 39/50
+17:38:00,910 INFO SeBS-880e: Beginning repetition 40/50
+17:38:01,62 INFO SeBS-880e: Beginning repetition 41/50
+17:38:01,240 INFO SeBS-880e: Beginning repetition 42/50
+17:38:01,389 INFO SeBS-880e: Beginning repetition 43/50
+17:38:01,534 INFO SeBS-880e: Beginning repetition 44/50
+17:38:01,691 INFO SeBS-880e: Beginning repetition 45/50
+17:38:01,819 INFO SeBS-880e: Beginning repetition 46/50
+17:38:01,941 INFO SeBS-880e: Beginning repetition 47/50
+17:38:02,65 INFO SeBS-880e: Beginning repetition 48/50
+17:38:02,217 INFO SeBS-880e: Beginning repetition 49/50
+17:38:02,409 INFO SeBS-880e: Beginning repetition 50/50
+17:38:02,582 INFO SeBS-880e: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_173745/210.thumbnailer/experiments.json

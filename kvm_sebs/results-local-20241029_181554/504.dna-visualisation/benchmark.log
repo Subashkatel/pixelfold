@@ -1,0 +1,58 @@
+[18:15:55.689005] SeBS-67ae Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation
+[18:15:58.928758] LocalResources-0229 Using user-provided configuration of storage for local containers.
+[18:15:59.011144] Local-2739 Generating unique resource name local-d8f50b59
+[18:15:59.040053] minio.Minio-5626 Initialize a new bucket for benchmarks
+[18:15:59.080420] minio.Minio-5626 Created bucket sebs-benchmarks-local-d8f50b59
+[18:15:59.126344] Benchmark-2f29 Building benchmark 504.dna-visualisation. Reason: no cached code package.
+[18:15:59.177375] Benchmark-2f29 Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+[18:15:59.184370] Benchmark-2f29 Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation/504.dna-visualisation_code/python/3.7
+[18:16:52.767229] Local-2739 Function size 0.003906 MB
+[18:16:52.770886] Benchmark-2f29 Created code package (source hash: b98584dd73b001b6259074ea6ee50a02), for run on local with python:3.7
+[18:16:53.170310] Local-2739 Creating new function! Reason: function 504.dna-visualisation-python-3.7 not found in cache.
+[18:16:57.480592] Local-2739 Started 504.dna-visualisation-python-3.7 function at container d75a0c77b44898b4444b59f17ddb24d3dca518ce288de4d08b3c9bd475881912 , running on 172.17.0.3:9000
+[18:16:57.975073] SeBS-67ae Beginning repetition 1/15
+[18:16:57.976111] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:09.441548] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:09.443105] SeBS-67ae Beginning repetition 2/15
+[18:17:09.443913] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:17.970576] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:17.971153] SeBS-67ae Beginning repetition 3/15
+[18:17:17.974826] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:26.768061] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:26.769216] SeBS-67ae Beginning repetition 4/15
+[18:17:26.769685] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:35.472246] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:35.472737] SeBS-67ae Beginning repetition 5/15
+[18:17:35.473993] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:44.737511] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:44.738122] SeBS-67ae Beginning repetition 6/15
+[18:17:44.738558] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:17:53.258282] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:17:53.258708] SeBS-67ae Beginning repetition 7/15
+[18:17:53.259142] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:02.393537] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:02.394044] SeBS-67ae Beginning repetition 8/15
+[18:18:02.394486] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:11.527159] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:11.527627] SeBS-67ae Beginning repetition 9/15
+[18:18:11.528098] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:20.702025] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:20.703720] SeBS-67ae Beginning repetition 10/15
+[18:18:20.706650] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:29.313530] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:29.314040] SeBS-67ae Beginning repetition 11/15
+[18:18:29.314677] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:38.218872] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:38.219318] SeBS-67ae Beginning repetition 12/15
+[18:18:38.219678] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:47.309703] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:47.310162] SeBS-67ae Beginning repetition 13/15
+[18:18:47.310613] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:18:56.184894] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:18:56.185380] SeBS-67ae Beginning repetition 14/15
+[18:18:56.185790] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:19:05.387349] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:19:05.389109] SeBS-67ae Beginning repetition 15/15
+[18:19:05.391034] Local.HTTPTrigger-7bbd Invoke function 172.17.0.3:9000
+[18:19:14.344479] Local.HTTPTrigger-7bbd Invoke of function was successful
+[18:19:14.353956] SeBS-67ae Save results to /home/kalm/serverless-benchmarks/results-local-20241029_181554/504.dna-visualisation/experiments.json

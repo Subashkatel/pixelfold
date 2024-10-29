@@ -1,0 +1,4 @@
+Usage: sebs.py benchmark invoke [OPTIONS] BENCHMARK {test|small|large}
+Try 'sebs.py benchmark invoke --help' for help.
+
+Error: Invalid value for '--deployment': 'local210.thumbnailer' is not one of 'azure', 'aws', 'gcp', 'local', 'openwhisk'.

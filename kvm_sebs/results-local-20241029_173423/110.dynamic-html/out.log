@@ -1,0 +1,62 @@
+17:34:24,837 INFO SeBS-2368: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_173423/110.dynamic-html
+17:34:25,374 INFO Local-5c3b: Generating unique resource name local-0aa31c18
+17:34:25,386 INFO minio.Minio-db6c: Initialize a new bucket for benchmarks
+17:34:25,416 INFO minio.Minio-db6c: Created bucket sebs-benchmarks-local-0aa31c18
+17:34:25,421 INFO Benchmark-1160: Building benchmark 110.dynamic-html. Reason: no cached code package.
+17:34:25,459 INFO Benchmark-1160: Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+17:34:25,460 INFO Benchmark-1160: Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_173423/110.dynamic-html/110.dynamic-html_code/python/3.7
+17:34:29,573 INFO Local-5c3b: Function size 0.003906 MB
+17:34:29,575 INFO Benchmark-1160: Created code package (source hash: 3fd455b9dcd4789fbe6922010997f3e7), for run on local with python:3.7
+17:34:29,595 INFO Local-5c3b: Creating new function! Reason: function 110.dynamic-html-python-3.7 not found in cache.
+17:34:30,987 INFO Local-5c3b: Started 110.dynamic-html-python-3.7 function at container 68b3069f10fba84837b755baacfa9c727593e281b153747eafc7270518a249b8 , running on 172.17.0.3:9000
+17:34:31,13 INFO SeBS-2368: Beginning repetition 1/50
+17:34:31,149 INFO SeBS-2368: Beginning repetition 2/50
+17:34:31,162 INFO SeBS-2368: Beginning repetition 3/50
+17:34:31,168 INFO SeBS-2368: Beginning repetition 4/50
+17:34:31,177 INFO SeBS-2368: Beginning repetition 5/50
+17:34:31,187 INFO SeBS-2368: Beginning repetition 6/50
+17:34:31,194 INFO SeBS-2368: Beginning repetition 7/50
+17:34:31,199 INFO SeBS-2368: Beginning repetition 8/50
+17:34:31,203 INFO SeBS-2368: Beginning repetition 9/50
+17:34:31,210 INFO SeBS-2368: Beginning repetition 10/50
+17:34:31,218 INFO SeBS-2368: Beginning repetition 11/50
+17:34:31,224 INFO SeBS-2368: Beginning repetition 12/50
+17:34:31,229 INFO SeBS-2368: Beginning repetition 13/50
+17:34:31,233 INFO SeBS-2368: Beginning repetition 14/50
+17:34:31,238 INFO SeBS-2368: Beginning repetition 15/50
+17:34:31,242 INFO SeBS-2368: Beginning repetition 16/50
+17:34:31,248 INFO SeBS-2368: Beginning repetition 17/50
+17:34:31,252 INFO SeBS-2368: Beginning repetition 18/50
+17:34:31,255 INFO SeBS-2368: Beginning repetition 19/50
+17:34:31,260 INFO SeBS-2368: Beginning repetition 20/50
+17:34:31,263 INFO SeBS-2368: Beginning repetition 21/50
+17:34:31,267 INFO SeBS-2368: Beginning repetition 22/50
+17:34:31,271 INFO SeBS-2368: Beginning repetition 23/50
+17:34:31,278 INFO SeBS-2368: Beginning repetition 24/50
+17:34:31,284 INFO SeBS-2368: Beginning repetition 25/50
+17:34:31,290 INFO SeBS-2368: Beginning repetition 26/50
+17:34:31,296 INFO SeBS-2368: Beginning repetition 27/50
+17:34:31,302 INFO SeBS-2368: Beginning repetition 28/50
+17:34:31,311 INFO SeBS-2368: Beginning repetition 29/50
+17:34:31,322 INFO SeBS-2368: Beginning repetition 30/50
+17:34:31,330 INFO SeBS-2368: Beginning repetition 31/50
+17:34:31,337 INFO SeBS-2368: Beginning repetition 32/50
+17:34:31,346 INFO SeBS-2368: Beginning repetition 33/50
+17:34:31,357 INFO SeBS-2368: Beginning repetition 34/50
+17:34:31,367 INFO SeBS-2368: Beginning repetition 35/50
+17:34:31,378 INFO SeBS-2368: Beginning repetition 36/50
+17:34:31,385 INFO SeBS-2368: Beginning repetition 37/50
+17:34:31,396 INFO SeBS-2368: Beginning repetition 38/50
+17:34:31,407 INFO SeBS-2368: Beginning repetition 39/50
+17:34:31,417 INFO SeBS-2368: Beginning repetition 40/50
+17:34:31,426 INFO SeBS-2368: Beginning repetition 41/50
+17:34:31,439 INFO SeBS-2368: Beginning repetition 42/50
+17:34:31,449 INFO SeBS-2368: Beginning repetition 43/50
+17:34:31,458 INFO SeBS-2368: Beginning repetition 44/50
+17:34:31,463 INFO SeBS-2368: Beginning repetition 45/50
+17:34:31,470 INFO SeBS-2368: Beginning repetition 46/50
+17:34:31,479 INFO SeBS-2368: Beginning repetition 47/50
+17:34:31,484 INFO SeBS-2368: Beginning repetition 48/50
+17:34:31,491 INFO SeBS-2368: Beginning repetition 49/50
+17:34:31,496 INFO SeBS-2368: Beginning repetition 50/50
+17:34:31,512 INFO SeBS-2368: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_173423/110.dynamic-html/experiments.json

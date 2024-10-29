@@ -1,0 +1,8 @@
+17:44:09,496 INFO SeBS-6d87: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition
+17:44:09,897 INFO Local-bddc: Using existing deployment local-0aa31c18 that matches prefix local!
+17:44:09,899 INFO Benchmark-bf1c: Building benchmark 411.image-recognition. Reason: no cached code package.
+17:44:09,965 INFO Benchmark-bf1c: Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+17:44:09,977 INFO Benchmark-bf1c: Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition/411.image-recognition_code/python/3.7
+17:44:12,985 ERROR Benchmark-bf1c: Package build failed!
+17:44:12,985 ERROR Benchmark-bf1c: Command 'None' in image 'spcleth/serverless-benchmarks:build.local.python.3.7' returned non-zero exit status 1: b"chown: changing ownership of '/mnt/function/package.sh': Read-only file system\nERROR: torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl is not a supported wheel on this platform.\n\n[notice] A new release of pip is available: 23.0.1 -> 24.0\n[notice] To update, run: pip install --upgrade pip\n"
+17:44:12,985 ERROR Benchmark-bf1c: Docker mount volumes: {'/home/kalm/serverless-benchmarks/results-local-20241029_174408/411.image-recognition/411.image-recognition_code/python/3.7': {'bind': '/mnt/function', 'mode': 'rw'}, '/home/kalm/serverless-benchmarks/benchmarks/400.inference/411.image-recognition/python/package.sh': {'bind': '/mnt/function/package.sh', 'mode': 'ro'}}

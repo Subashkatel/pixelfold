@@ -1,0 +1,46 @@
+17:39:50,851 INFO SeBS-b8ab: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_173949/311.compression
+17:39:51,247 INFO Local-b95f: Using existing deployment local-0aa31c18 that matches prefix local!
+17:39:51,249 INFO Benchmark-c365: Building benchmark 311.compression. Reason: no cached code package.
+17:39:51,255 INFO Local-b95f: Function size 0.003906 MB
+17:39:51,256 INFO Benchmark-c365: Created code package (source hash: 3a4d8dfccd9c08b9d413c6362c382eca), for run on local with python:3.7
+17:39:51,260 INFO Local-b95f: Creating new function! Reason: function 311.compression-python-3.7 not found in cache.
+17:39:53,235 INFO Local-b95f: Started 311.compression-python-3.7 function at container 88a59f8851fe648a7f705eba4080d5fa5f200c723f40c74bc77b4fbe809ec551 , running on 172.17.0.7:9000
+17:39:53,272 INFO minio.Minio-97a8: Using existing bucket sebs-benchmarks-local-0aa31c18 for benchmarks
+17:39:56,82 INFO SeBS-b8ab: Beginning repetition 1/50
+17:39:56,309 ERROR Local.HTTPTrigger-de1b: Invocation on URL 172.17.0.7:9000 failed!
+17:39:56,315 ERROR Local.HTTPTrigger-de1b: Output: 
+    <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+    <html>
+        <head>
+            <title>Error: 500 Internal Server Error</title>
+            <style type="text/css">
+              html {background-color: #eee; font-family: sans-serif;}
+              body {background-color: #fff; border: 1px solid #ddd;
+                    padding: 15px; margin: 15px;}
+              pre {background-color: #eee; border: 1px solid #ddd; padding: 5px;}
+            </style>
+        </head>
+        <body>
+            <h1>Error: 500 Internal Server Error</h1>
+            <p>Sorry, the requested URL <tt>&#039;http://172.17.0.7:9000/&#039;</tt>
+               caused an error:</p>
+            <pre>Internal Server Error</pre>
+              <h2>Exception:</h2>
+              <pre>AttributeError(&quot;&#039;Minio&#039; object has no attribute &#039;list_objects_v2&#039;&quot;)</pre>
+              <h2>Traceback:</h2>
+              <pre>Traceback (most recent call last):
+  File &quot;/usr/local/lib/python3.7/site-packages/bottle.py&quot;, line 995, in _handle
+    out = route.call(**args)
+  File &quot;/usr/local/lib/python3.7/site-packages/bottle.py&quot;, line 2025, in wrapper
+    rv = callback(*a, **ka)
+  File &quot;/sebs/server.py&quot;, line 23, in process_request
+    ret = function.handler(request.json)
+  File &quot;/function/function/function.py&quot;, line 29, in handler
+    client.download_directory(bucket, os.path.join(input_prefix, key), download_path)
+  File &quot;/function/function/storage.py&quot;, line 40, in download_directory
+    objects = self.client.list_objects_v2(bucket, prefix, recursive=True)
+AttributeError: &#039;Minio&#039; object has no attribute &#039;list_objects_v2&#039;
+</pre>
+        </body>
+    </html>
+

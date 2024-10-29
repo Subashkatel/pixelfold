@@ -1,0 +1,61 @@
+17:38:26,383 INFO SeBS-fe1f: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_173825/220.video-processing
+17:38:26,825 INFO Local-29d8: Using existing deployment local-0aa31c18 that matches prefix local!
+17:38:26,828 INFO Benchmark-1cdd: Building benchmark 220.video-processing. Reason: no cached code package.
+17:38:30,810 INFO Benchmark-1cdd: Docker build of benchmark dependencies in container of image spcleth/serverless-benchmarks:build.local.python.3.7
+17:38:30,811 INFO Benchmark-1cdd: Docker mount of benchmark code from path /home/kalm/serverless-benchmarks/results-local-20241029_173825/220.video-processing/220.video-processing_code/python/3.7
+17:38:34,104 INFO Local-29d8: Function size 0.003906 MB
+17:38:34,106 INFO Benchmark-1cdd: Created code package (source hash: efeed1a637f7d8d6cbfd945c006173f8), for run on local with python:3.7
+17:38:34,155 INFO Local-29d8: Creating new function! Reason: function 220.video-processing-python-3.7 not found in cache.
+17:38:36,38 INFO Local-29d8: Started 220.video-processing-python-3.7 function at container 8320a072ba70144dd2aad53f0a0567fcb814b6bad853b7f9c7734943121d7c09 , running on 172.17.0.6:9000
+17:38:36,75 INFO minio.Minio-99b1: Using existing bucket sebs-benchmarks-local-0aa31c18 for benchmarks
+17:38:36,650 INFO SeBS-fe1f: Beginning repetition 1/50
+17:38:37,944 INFO SeBS-fe1f: Beginning repetition 2/50
+17:38:38,732 INFO SeBS-fe1f: Beginning repetition 3/50
+17:38:39,705 INFO SeBS-fe1f: Beginning repetition 4/50
+17:38:40,472 INFO SeBS-fe1f: Beginning repetition 5/50
+17:38:41,248 INFO SeBS-fe1f: Beginning repetition 6/50
+17:38:41,960 INFO SeBS-fe1f: Beginning repetition 7/50
+17:38:42,715 INFO SeBS-fe1f: Beginning repetition 8/50
+17:38:43,463 INFO SeBS-fe1f: Beginning repetition 9/50
+17:38:44,248 INFO SeBS-fe1f: Beginning repetition 10/50
+17:38:45,65 INFO SeBS-fe1f: Beginning repetition 11/50
+17:38:45,816 INFO SeBS-fe1f: Beginning repetition 12/50
+17:38:46,588 INFO SeBS-fe1f: Beginning repetition 13/50
+17:38:47,423 INFO SeBS-fe1f: Beginning repetition 14/50
+17:38:48,233 INFO SeBS-fe1f: Beginning repetition 15/50
+17:38:49,13 INFO SeBS-fe1f: Beginning repetition 16/50
+17:38:49,828 INFO SeBS-fe1f: Beginning repetition 17/50
+17:38:50,571 INFO SeBS-fe1f: Beginning repetition 18/50
+17:38:51,400 INFO SeBS-fe1f: Beginning repetition 19/50
+17:38:52,173 INFO SeBS-fe1f: Beginning repetition 20/50
+17:38:52,970 INFO SeBS-fe1f: Beginning repetition 21/50
+17:38:53,740 INFO SeBS-fe1f: Beginning repetition 22/50
+17:38:54,518 INFO SeBS-fe1f: Beginning repetition 23/50
+17:38:55,282 INFO SeBS-fe1f: Beginning repetition 24/50
+17:38:56,71 INFO SeBS-fe1f: Beginning repetition 25/50
+17:38:56,900 INFO SeBS-fe1f: Beginning repetition 26/50
+17:38:57,703 INFO SeBS-fe1f: Beginning repetition 27/50
+17:38:58,450 INFO SeBS-fe1f: Beginning repetition 28/50
+17:38:59,236 INFO SeBS-fe1f: Beginning repetition 29/50
+17:39:00,13 INFO SeBS-fe1f: Beginning repetition 30/50
+17:39:00,770 INFO SeBS-fe1f: Beginning repetition 31/50
+17:39:01,538 INFO SeBS-fe1f: Beginning repetition 32/50
+17:39:02,341 INFO SeBS-fe1f: Beginning repetition 33/50
+17:39:03,150 INFO SeBS-fe1f: Beginning repetition 34/50
+17:39:03,925 INFO SeBS-fe1f: Beginning repetition 35/50
+17:39:04,786 INFO SeBS-fe1f: Beginning repetition 36/50
+17:39:05,580 INFO SeBS-fe1f: Beginning repetition 37/50
+17:39:06,338 INFO SeBS-fe1f: Beginning repetition 38/50
+17:39:07,194 INFO SeBS-fe1f: Beginning repetition 39/50
+17:39:07,937 INFO SeBS-fe1f: Beginning repetition 40/50
+17:39:08,686 INFO SeBS-fe1f: Beginning repetition 41/50
+17:39:09,462 INFO SeBS-fe1f: Beginning repetition 42/50
+17:39:10,265 INFO SeBS-fe1f: Beginning repetition 43/50
+17:39:11,40 INFO SeBS-fe1f: Beginning repetition 44/50
+17:39:11,842 INFO SeBS-fe1f: Beginning repetition 45/50
+17:39:12,647 INFO SeBS-fe1f: Beginning repetition 46/50
+17:39:13,430 INFO SeBS-fe1f: Beginning repetition 47/50
+17:39:14,215 INFO SeBS-fe1f: Beginning repetition 48/50
+17:39:15,59 INFO SeBS-fe1f: Beginning repetition 49/50
+17:39:15,811 INFO SeBS-fe1f: Beginning repetition 50/50
+17:39:16,596 INFO SeBS-fe1f: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_173825/220.video-processing/experiments.json

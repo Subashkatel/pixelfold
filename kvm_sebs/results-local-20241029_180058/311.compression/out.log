@@ -1,0 +1,60 @@
+18:00:59,117 INFO SeBS-a16b: Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_180058/311.compression
+18:00:59,519 INFO Local-4095: Generating unique resource name local-c0d4e82c
+18:00:59,524 INFO minio.Minio-e5df: Initialize a new bucket for benchmarks
+18:00:59,552 INFO minio.Minio-e5df: Created bucket sebs-benchmarks-local-c0d4e82c
+18:00:59,555 INFO Benchmark-4873: Building benchmark 311.compression. Reason: no cached code package.
+18:00:59,567 INFO Local-4095: Function size 0.003906 MB
+18:00:59,568 INFO Benchmark-4873: Created code package (source hash: 9339fda4490ec671f18e91066e915ace), for run on local with python:3.7
+18:00:59,571 INFO Local-4095: Creating new function! Reason: function 311.compression-python-3.7 not found in cache.
+18:01:01,55 INFO Local-4095: Started 311.compression-python-3.7 function at container f180acea08074eeb84be1809487962bbd302fda8f66bc9a9f6df52372ddc521e , running on 172.17.0.3:9000
+18:01:02,794 INFO SeBS-a16b: Beginning repetition 1/50
+18:01:04,222 INFO SeBS-a16b: Beginning repetition 2/50
+18:01:05,104 INFO SeBS-a16b: Beginning repetition 3/50
+18:01:06,115 INFO SeBS-a16b: Beginning repetition 4/50
+18:01:07,395 INFO SeBS-a16b: Beginning repetition 5/50
+18:01:08,583 INFO SeBS-a16b: Beginning repetition 6/50
+18:01:09,666 INFO SeBS-a16b: Beginning repetition 7/50
+18:01:10,783 INFO SeBS-a16b: Beginning repetition 8/50
+18:01:12,3 INFO SeBS-a16b: Beginning repetition 9/50
+18:01:13,224 INFO SeBS-a16b: Beginning repetition 10/50
+18:01:14,476 INFO SeBS-a16b: Beginning repetition 11/50
+18:01:15,701 INFO SeBS-a16b: Beginning repetition 12/50
+18:01:16,994 INFO SeBS-a16b: Beginning repetition 13/50
+18:01:18,359 INFO SeBS-a16b: Beginning repetition 14/50
+18:01:19,956 INFO SeBS-a16b: Beginning repetition 15/50
+18:01:21,159 INFO SeBS-a16b: Beginning repetition 16/50
+18:01:22,370 INFO SeBS-a16b: Beginning repetition 17/50
+18:01:23,447 INFO SeBS-a16b: Beginning repetition 18/50
+18:01:24,663 INFO SeBS-a16b: Beginning repetition 19/50
+18:01:25,789 INFO SeBS-a16b: Beginning repetition 20/50
+18:01:26,878 INFO SeBS-a16b: Beginning repetition 21/50
+18:01:27,980 INFO SeBS-a16b: Beginning repetition 22/50
+18:01:29,224 INFO SeBS-a16b: Beginning repetition 23/50
+18:01:30,342 INFO SeBS-a16b: Beginning repetition 24/50
+18:01:31,698 INFO SeBS-a16b: Beginning repetition 25/50
+18:01:32,846 INFO SeBS-a16b: Beginning repetition 26/50
+18:01:34,78 INFO SeBS-a16b: Beginning repetition 27/50
+18:01:35,258 INFO SeBS-a16b: Beginning repetition 28/50
+18:01:36,914 INFO SeBS-a16b: Beginning repetition 29/50
+18:01:38,219 INFO SeBS-a16b: Beginning repetition 30/50
+18:01:39,361 INFO SeBS-a16b: Beginning repetition 31/50
+18:01:40,616 INFO SeBS-a16b: Beginning repetition 32/50
+18:01:42,190 INFO SeBS-a16b: Beginning repetition 33/50
+18:01:43,368 INFO SeBS-a16b: Beginning repetition 34/50
+18:01:44,874 INFO SeBS-a16b: Beginning repetition 35/50
+18:01:46,366 INFO SeBS-a16b: Beginning repetition 36/50
+18:01:47,685 INFO SeBS-a16b: Beginning repetition 37/50
+18:01:49,24 INFO SeBS-a16b: Beginning repetition 38/50
+18:01:50,736 INFO SeBS-a16b: Beginning repetition 39/50
+18:01:52,207 INFO SeBS-a16b: Beginning repetition 40/50
+18:01:53,450 INFO SeBS-a16b: Beginning repetition 41/50
+18:01:54,910 INFO SeBS-a16b: Beginning repetition 42/50
+18:01:56,989 INFO SeBS-a16b: Beginning repetition 43/50
+18:01:58,240 INFO SeBS-a16b: Beginning repetition 44/50
+18:01:59,501 INFO SeBS-a16b: Beginning repetition 45/50
+18:02:00,792 INFO SeBS-a16b: Beginning repetition 46/50
+18:02:02,566 INFO SeBS-a16b: Beginning repetition 47/50
+18:02:04,124 INFO SeBS-a16b: Beginning repetition 48/50
+18:02:05,415 INFO SeBS-a16b: Beginning repetition 49/50
+18:02:06,687 INFO SeBS-a16b: Beginning repetition 50/50
+18:02:08,293 INFO SeBS-a16b: Save results to /home/kalm/serverless-benchmarks/results-local-20241029_180058/311.compression/experiments.json

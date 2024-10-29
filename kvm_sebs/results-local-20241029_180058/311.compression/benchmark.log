@@ -1,0 +1,161 @@
+[18:00:59.117389] SeBS-a16b Created experiment output at /home/kalm/serverless-benchmarks/results-local-20241029_180058/311.compression
+[18:00:59.462853] LocalResources-06fc Using user-provided configuration of storage for local containers.
+[18:00:59.519782] Local-4095 Generating unique resource name local-c0d4e82c
+[18:00:59.523961] minio.Minio-e5df Initialize a new bucket for benchmarks
+[18:00:59.551949] minio.Minio-e5df Created bucket sebs-benchmarks-local-c0d4e82c
+[18:00:59.555196] Benchmark-4873 Building benchmark 311.compression. Reason: no cached code package.
+[18:00:59.567277] Local-4095 Function size 0.003906 MB
+[18:00:59.568669] Benchmark-4873 Created code package (source hash: 9339fda4490ec671f18e91066e915ace), for run on local with python:3.7
+[18:00:59.571870] Local-4095 Creating new function! Reason: function 311.compression-python-3.7 not found in cache.
+[18:01:01.054801] Local-4095 Started 311.compression-python-3.7 function at container f180acea08074eeb84be1809487962bbd302fda8f66bc9a9f6df52372ddc521e , running on 172.17.0.3:9000
+[18:01:02.793126] SeBS-a16b Beginning repetition 1/50
+[18:01:02.794898] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:04.221559] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:04.222436] SeBS-a16b Beginning repetition 2/50
+[18:01:04.222986] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:05.099303] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:05.104139] SeBS-a16b Beginning repetition 3/50
+[18:01:05.104550] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:06.114809] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:06.115456] SeBS-a16b Beginning repetition 4/50
+[18:01:06.115927] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:07.394623] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:07.394987] SeBS-a16b Beginning repetition 5/50
+[18:01:07.395811] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:08.582398] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:08.583485] SeBS-a16b Beginning repetition 6/50
+[18:01:08.583835] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:09.665366] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:09.665976] SeBS-a16b Beginning repetition 7/50
+[18:01:09.666499] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:10.782947] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:10.783265] SeBS-a16b Beginning repetition 8/50
+[18:01:10.783558] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:12.003256] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:12.003592] SeBS-a16b Beginning repetition 9/50
+[18:01:12.003890] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:13.223532] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:13.224602] SeBS-a16b Beginning repetition 10/50
+[18:01:13.224945] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:14.464825] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:14.465268] SeBS-a16b Beginning repetition 11/50
+[18:01:14.477266] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:15.699454] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:15.700748] SeBS-a16b Beginning repetition 12/50
+[18:01:15.702114] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:16.991633] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:16.993779] SeBS-a16b Beginning repetition 13/50
+[18:01:16.995264] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:18.357085] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:18.358879] SeBS-a16b Beginning repetition 14/50
+[18:01:18.360158] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:19.955577] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:19.955910] SeBS-a16b Beginning repetition 15/50
+[18:01:19.956259] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:21.156894] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:21.159631] SeBS-a16b Beginning repetition 16/50
+[18:01:21.160360] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:22.367815] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:22.368330] SeBS-a16b Beginning repetition 17/50
+[18:01:22.370481] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:23.445714] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:23.446770] SeBS-a16b Beginning repetition 18/50
+[18:01:23.447585] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:24.662815] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:24.663110] SeBS-a16b Beginning repetition 19/50
+[18:01:24.663401] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:25.788431] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:25.789021] SeBS-a16b Beginning repetition 20/50
+[18:01:25.789898] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:26.876870] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:26.878555] SeBS-a16b Beginning repetition 21/50
+[18:01:26.879902] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:27.977527] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:27.977859] SeBS-a16b Beginning repetition 22/50
+[18:01:27.982269] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:29.224211] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:29.224568] SeBS-a16b Beginning repetition 23/50
+[18:01:29.224897] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:30.342448] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:30.342787] SeBS-a16b Beginning repetition 24/50
+[18:01:30.343183] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:31.697818] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:31.698340] SeBS-a16b Beginning repetition 25/50
+[18:01:31.698839] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:32.845770] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:32.846102] SeBS-a16b Beginning repetition 26/50
+[18:01:32.846415] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:34.077586] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:34.078430] SeBS-a16b Beginning repetition 27/50
+[18:01:34.079216] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:35.255160] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:35.257066] SeBS-a16b Beginning repetition 28/50
+[18:01:35.258792] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:36.913919] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:36.914246] SeBS-a16b Beginning repetition 29/50
+[18:01:36.914536] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:38.214170] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:38.218813] SeBS-a16b Beginning repetition 30/50
+[18:01:38.219487] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:39.360606] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:39.361280] SeBS-a16b Beginning repetition 31/50
+[18:01:39.362048] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:40.610965] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:40.615739] SeBS-a16b Beginning repetition 32/50
+[18:01:40.616821] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:42.189878] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:42.190329] SeBS-a16b Beginning repetition 33/50
+[18:01:42.190732] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:43.368047] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:43.368546] SeBS-a16b Beginning repetition 34/50
+[18:01:43.368883] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:44.874380] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:44.874803] SeBS-a16b Beginning repetition 35/50
+[18:01:44.877656] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:46.365962] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:46.366560] SeBS-a16b Beginning repetition 36/50
+[18:01:46.367225] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:47.683310] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:47.684743] SeBS-a16b Beginning repetition 37/50
+[18:01:47.686556] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:49.023199] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:49.023923] SeBS-a16b Beginning repetition 38/50
+[18:01:49.024369] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:50.735673] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:50.736250] SeBS-a16b Beginning repetition 39/50
+[18:01:50.736693] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:52.206951] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:52.207278] SeBS-a16b Beginning repetition 40/50
+[18:01:52.207735] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:53.447361] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:53.450099] SeBS-a16b Beginning repetition 41/50
+[18:01:53.452685] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:54.910569] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:54.910887] SeBS-a16b Beginning repetition 42/50
+[18:01:54.911175] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:56.986193] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:56.987142] SeBS-a16b Beginning repetition 43/50
+[18:01:56.994526] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:58.239615] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:58.239918] SeBS-a16b Beginning repetition 44/50
+[18:01:58.240288] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:01:59.496882] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:01:59.499981] SeBS-a16b Beginning repetition 45/50
+[18:01:59.502764] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:00.791916] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:00.792340] SeBS-a16b Beginning repetition 46/50
+[18:02:00.792678] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:02.565838] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:02.566437] SeBS-a16b Beginning repetition 47/50
+[18:02:02.566963] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:04.117189] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:04.124625] SeBS-a16b Beginning repetition 48/50
+[18:02:04.125170] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:05.411721] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:05.415643] SeBS-a16b Beginning repetition 49/50
+[18:02:05.416076] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:06.682715] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:06.686979] SeBS-a16b Beginning repetition 50/50
+[18:02:06.687948] Local.HTTPTrigger-b15e Invoke function 172.17.0.3:9000
+[18:02:08.279213] Local.HTTPTrigger-b15e Invoke of function was successful
+[18:02:08.293775] SeBS-a16b Save results to /home/kalm/serverless-benchmarks/results-local-20241029_180058/311.compression/experiments.json
