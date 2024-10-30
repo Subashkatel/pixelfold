@@ -1,0 +1,1313 @@
+{
+  "_invocations": {
+    "220-video-processing-python-3-8-5ff7ed86": {
+      "324dc8f6-8a08-4b53-9fad-9f5d012a687a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495434.868177",
+          "container_id": "dbe79646",
+          "end": "1728495439.459452",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "324dc8f6-8a08-4b53-9fad-9f5d012a687a",
+          "result": {
+            "measurement": {
+              "compute_time": 4209777.0,
+              "download_size": 15350231,
+              "download_time": 340262.0,
+              "upload_size": 591845,
+              "upload_time": 40734.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.05561e2e.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "324dc8f6-8a08-4b53-9fad-9f5d012a687a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4591275,
+          "client": 5438558,
+          "client_begin": "2024-10-09 10:37:10.398797",
+          "client_end": "2024-10-09 10:37:15.837355",
+          "http_first_byte_return": 5.436434,
+          "http_startup": 0.650854,
+          "initialization": 0
+        }
+      },
+      "370a1601-3d87-46c1-8087-9482d867cb42": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495517.571227",
+          "container_id": "dbe79646",
+          "end": "1728495522.231234",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "370a1601-3d87-46c1-8087-9482d867cb42",
+          "result": {
+            "measurement": {
+              "compute_time": 4211268.0,
+              "download_size": 15350231,
+              "download_time": 362875.0,
+              "upload_size": 591845,
+              "upload_time": 85595.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.43e8b4f9.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "370a1601-3d87-46c1-8087-9482d867cb42",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4660007,
+          "client": 5410708,
+          "client_begin": "2024-10-09 10:38:33.195593",
+          "client_end": "2024-10-09 10:38:38.606301",
+          "http_first_byte_return": 5.410011,
+          "http_startup": 0.543563,
+          "initialization": 0
+        }
+      },
+      "492f509c-93f1-42f9-8e1c-c811c5cb17a3": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495506.671997",
+          "container_id": "d01a4126",
+          "end": "1728495511.426284",
+          "environ_container_id": "9F8BD11B-638640917872678913",
+          "is_cold": true,
+          "is_cold_worker": true,
+          "request_id": "492f509c-93f1-42f9-8e1c-c811c5cb17a3",
+          "result": {
+            "measurement": {
+              "compute_time": 3729253.0,
+              "download_size": 15350231,
+              "download_time": 374993.0,
+              "upload_size": 592019,
+              "upload_time": 35328.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.092c4139.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "492f509c-93f1-42f9-8e1c-c811c5cb17a3",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4754287,
+          "client": 5524002,
+          "client_begin": "2024-10-09 10:38:22.297800",
+          "client_end": "2024-10-09 10:38:27.821802",
+          "http_first_byte_return": 5.520811,
+          "http_startup": 0.540131,
+          "initialization": 0
+        }
+      },
+      "49e3455e-f3a0-4a1c-b8f0-96065d45e332": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495384.885558",
+          "container_id": "dbe79646",
+          "end": "1728495390.455049",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": true,
+          "is_cold_worker": true,
+          "request_id": "49e3455e-f3a0-4a1c-b8f0-96065d45e332",
+          "result": {
+            "measurement": {
+              "compute_time": 4463225.0,
+              "download_size": 15350231,
+              "download_time": 434529.0,
+              "upload_size": 591845,
+              "upload_time": 54585.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.bea0ceda.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "49e3455e-f3a0-4a1c-b8f0-96065d45e332",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 5569491,
+          "client": 8090556,
+          "client_begin": "2024-10-09 10:36:18.769013",
+          "client_end": "2024-10-09 10:36:26.859569",
+          "http_first_byte_return": 8.089778,
+          "http_startup": 0.610653,
+          "initialization": 0
+        }
+      },
+      "4ba9e0e8-f1e0-4f8f-9d95-b322759996a8": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495452.693039",
+          "container_id": "dbe79646",
+          "end": "1728495457.458907",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "4ba9e0e8-f1e0-4f8f-9d95-b322759996a8",
+          "result": {
+            "measurement": {
+              "compute_time": 4409313.0,
+              "download_size": 15350231,
+              "download_time": 309161.0,
+              "upload_size": 591845,
+              "upload_time": 47117.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.7dc42933.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4ba9e0e8-f1e0-4f8f-9d95-b322759996a8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4765868,
+          "client": 5502245,
+          "client_begin": "2024-10-09 10:37:28.329084",
+          "client_end": "2024-10-09 10:37:33.831329",
+          "http_first_byte_return": 5.502171,
+          "http_startup": 0.548375,
+          "initialization": 0
+        }
+      },
+      "52ed4577-eb6b-48c3-9963-da9eb25c67d4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495512.268771",
+          "container_id": "dbe79646",
+          "end": "1728495516.822453",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "52ed4577-eb6b-48c3-9963-da9eb25c67d4",
+          "result": {
+            "measurement": {
+              "compute_time": 4194510.0,
+              "download_size": 15350231,
+              "download_time": 318974.0,
+              "upload_size": 591845,
+              "upload_time": 39835.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.360e768c.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "52ed4577-eb6b-48c3-9963-da9eb25c67d4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4553682,
+          "client": 5370106,
+          "client_begin": "2024-10-09 10:38:27.822996",
+          "client_end": "2024-10-09 10:38:33.193102",
+          "http_first_byte_return": 5.370021,
+          "http_startup": 0.59286,
+          "initialization": 0
+        }
+      },
+      "63971d88-2b1e-43d5-a7bd-31a441dabe88": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495391.249928",
+          "container_id": "dbe79646",
+          "end": "1728495396.003917",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "63971d88-2b1e-43d5-a7bd-31a441dabe88",
+          "result": {
+            "measurement": {
+              "compute_time": 4206708.0,
+              "download_size": 15350231,
+              "download_time": 495429.0,
+              "upload_size": 591845,
+              "upload_time": 51578.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.58634ee1.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "63971d88-2b1e-43d5-a7bd-31a441dabe88",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4753989,
+          "client": 5516488,
+          "client_begin": "2024-10-09 10:36:26.862428",
+          "client_end": "2024-10-09 10:36:32.378916",
+          "http_first_byte_return": 5.516269,
+          "http_startup": 0.549428,
+          "initialization": 0
+        }
+      },
+      "65ee21a7-3df9-4a76-a9f7-168f1c913833": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495490.534277",
+          "container_id": "dbe79646",
+          "end": "1728495495.051866",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "65ee21a7-3df9-4a76-a9f7-168f1c913833",
+          "result": {
+            "measurement": {
+              "compute_time": 4166129.0,
+              "download_size": 15350231,
+              "download_time": 308974.0,
+              "upload_size": 591845,
+              "upload_time": 42217.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.48605835.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "65ee21a7-3df9-4a76-a9f7-168f1c913833",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4517589,
+          "client": 5322555,
+          "client_begin": "2024-10-09 10:38:06.108672",
+          "client_end": "2024-10-09 10:38:11.431227",
+          "http_first_byte_return": 5.318144,
+          "http_startup": 0.602412,
+          "initialization": 0
+        }
+      },
+      "68e350fd-b65d-4a40-959a-bfde7dd97ad0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495418.291652",
+          "container_id": "dbe79646",
+          "end": "1728495423.222618",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "68e350fd-b65d-4a40-959a-bfde7dd97ad0",
+          "result": {
+            "measurement": {
+              "compute_time": 4555041.0,
+              "download_size": 15350231,
+              "download_time": 337663.0,
+              "upload_size": 591845,
+              "upload_time": 37983.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.21a1360a.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "68e350fd-b65d-4a40-959a-bfde7dd97ad0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4930966,
+          "client": 5693808,
+          "client_begin": "2024-10-09 10:36:53.906491",
+          "client_end": "2024-10-09 10:36:59.600299",
+          "http_first_byte_return": 5.693719,
+          "http_startup": 0.561448,
+          "initialization": 0
+        }
+      },
+      "77205758-e0e3-43a6-bf4c-1167657ee58d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495479.574869",
+          "container_id": "dbe79646",
+          "end": "1728495484.341659",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "77205758-e0e3-43a6-bf4c-1167657ee58d",
+          "result": {
+            "measurement": {
+              "compute_time": 4455432.0,
+              "download_size": 15350231,
+              "download_time": 268988.0,
+              "upload_size": 591845,
+              "upload_time": 42054.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.b99ac483.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "77205758-e0e3-43a6-bf4c-1167657ee58d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4766790,
+          "client": 5530685,
+          "client_begin": "2024-10-09 10:37:55.183038",
+          "client_end": "2024-10-09 10:38:00.713723",
+          "http_first_byte_return": 5.530558,
+          "http_startup": 0.560785,
+          "initialization": 0
+        }
+      },
+      "8b6ddb1a-370b-47a8-9fd0-319f43cd6457": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495396.745111",
+          "container_id": "dbe79646",
+          "end": "1728495401.363282",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "8b6ddb1a-370b-47a8-9fd0-319f43cd6457",
+          "result": {
+            "measurement": {
+              "compute_time": 4190656.0,
+              "download_size": 15350231,
+              "download_time": 386886.0,
+              "upload_size": 591845,
+              "upload_time": 39627.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.988829d2.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8b6ddb1a-370b-47a8-9fd0-319f43cd6457",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4618171,
+          "client": 5353311,
+          "client_begin": "2024-10-09 10:36:32.381328",
+          "client_end": "2024-10-09 10:36:37.734639",
+          "http_first_byte_return": 5.353272,
+          "http_startup": 0.545688,
+          "initialization": 0
+        }
+      },
+      "8bddf3ef-5c7d-4b7a-8ea7-6b195ef73a99": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495495.787007",
+          "container_id": "dbe79646",
+          "end": "1728495500.454442",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "8bddf3ef-5c7d-4b7a-8ea7-6b195ef73a99",
+          "result": {
+            "measurement": {
+              "compute_time": 4292488.0,
+              "download_size": 15350231,
+              "download_time": 335494.0,
+              "upload_size": 591845,
+              "upload_time": 38802.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.1019096e.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8bddf3ef-5c7d-4b7a-8ea7-6b195ef73a99",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4667435,
+          "client": 5398811,
+          "client_begin": "2024-10-09 10:38:11.432407",
+          "client_end": "2024-10-09 10:38:16.831218",
+          "http_first_byte_return": 5.398361,
+          "http_startup": 0.552368,
+          "initialization": 0
+        }
+      },
+      "938d025d-85fe-441f-8944-9f1dc6059282": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495446.440861",
+          "container_id": "dbe79646",
+          "end": "1728495451.954941",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "938d025d-85fe-441f-8944-9f1dc6059282",
+          "result": {
+            "measurement": {
+              "compute_time": 4586591.0,
+              "download_size": 15350231,
+              "download_time": 867806.0,
+              "upload_size": 591845,
+              "upload_time": 59247.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.4a64664e.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "938d025d-85fe-441f-8944-9f1dc6059282",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 5514080,
+          "client": 6260704,
+          "client_begin": "2024-10-09 10:37:22.067030",
+          "client_end": "2024-10-09 10:37:28.327734",
+          "http_first_byte_return": 6.259061,
+          "http_startup": 0.542303,
+          "initialization": 0
+        }
+      },
+      "94a9f93d-a9fd-43e5-8a38-2af46761d0fb": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495458.259960",
+          "container_id": "dbe79646",
+          "end": "1728495462.872931",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "94a9f93d-a9fd-43e5-8a38-2af46761d0fb",
+          "result": {
+            "measurement": {
+              "compute_time": 4216158.0,
+              "download_size": 15350231,
+              "download_time": 358256.0,
+              "upload_size": 591845,
+              "upload_time": 38317.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.06b19005.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "94a9f93d-a9fd-43e5-8a38-2af46761d0fb",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4612971,
+          "client": 5407325,
+          "client_begin": "2024-10-09 10:37:33.832986",
+          "client_end": "2024-10-09 10:37:39.240311",
+          "http_first_byte_return": 5.398861,
+          "http_startup": 0.614109,
+          "initialization": 0
+        }
+      },
+      "a7cfea99-9e56-4b0f-a96b-2ea52ffb03ec": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495402.180151",
+          "container_id": "dbe79646",
+          "end": "1728495406.690826",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "a7cfea99-9e56-4b0f-a96b-2ea52ffb03ec",
+          "result": {
+            "measurement": {
+              "compute_time": 4135090.0,
+              "download_size": 15350231,
+              "download_time": 329851.0,
+              "upload_size": 591845,
+              "upload_time": 45268.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.cb766228.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a7cfea99-9e56-4b0f-a96b-2ea52ffb03ec",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4510675,
+          "client": 5333436,
+          "client_begin": "2024-10-09 10:36:37.736872",
+          "client_end": "2024-10-09 10:36:43.070308",
+          "http_first_byte_return": 5.333322,
+          "http_startup": 0.622034,
+          "initialization": 0
+        }
+      },
+      "b1dc99a9-d1f7-4bd5-9856-6537363b074f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495440.231626",
+          "container_id": "dbe79646",
+          "end": "1728495445.709573",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "b1dc99a9-d1f7-4bd5-9856-6537363b074f",
+          "result": {
+            "measurement": {
+              "compute_time": 4660158.0,
+              "download_size": 15350231,
+              "download_time": 362264.0,
+              "upload_size": 591845,
+              "upload_time": 454820.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.f4293903.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b1dc99a9-d1f7-4bd5-9856-6537363b074f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 5477947,
+          "client": 6225957,
+          "client_begin": "2024-10-09 10:37:15.839797",
+          "client_end": "2024-10-09 10:37:22.065754",
+          "http_first_byte_return": 6.225876,
+          "http_startup": 0.550315,
+          "initialization": 0
+        }
+      },
+      "b208df9b-89f2-465b-b2c2-7a896c386547": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495485.121254",
+          "container_id": "dbe79646",
+          "end": "1728495489.736803",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "b208df9b-89f2-465b-b2c2-7a896c386547",
+          "result": {
+            "measurement": {
+              "compute_time": 4174188.0,
+              "download_size": 15350231,
+              "download_time": 388974.0,
+              "upload_size": 591845,
+              "upload_time": 52037.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.ad851804.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b208df9b-89f2-465b-b2c2-7a896c386547",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4615549,
+          "client": 5388925,
+          "client_begin": "2024-10-09 10:38:00.717054",
+          "client_end": "2024-10-09 10:38:06.105979",
+          "http_first_byte_return": 5.386423,
+          "http_startup": 0.585619,
+          "initialization": 0
+        }
+      },
+      "b3b14ed3-4929-4751-a36e-65bc44b3e2fc": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495412.767954",
+          "container_id": "dbe79646",
+          "end": "1728495417.530004",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "b3b14ed3-4929-4751-a36e-65bc44b3e2fc",
+          "result": {
+            "measurement": {
+              "compute_time": 4370928.0,
+              "download_size": 15350231,
+              "download_time": 350504.0,
+              "upload_size": 591845,
+              "upload_time": 40398.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.2e3a57e0.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b3b14ed3-4929-4751-a36e-65bc44b3e2fc",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4762050,
+          "client": 5547014,
+          "client_begin": "2024-10-09 10:36:48.358380",
+          "client_end": "2024-10-09 10:36:53.905394",
+          "http_first_byte_return": 5.546959,
+          "http_startup": 0.604501,
+          "initialization": 0
+        }
+      },
+      "b4219b21-bf91-44cf-9ea2-d680543456c5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495424.009985",
+          "container_id": "dbe79646",
+          "end": "1728495428.578268",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "b4219b21-bf91-44cf-9ea2-d680543456c5",
+          "result": {
+            "measurement": {
+              "compute_time": 4195353.0,
+              "download_size": 15350231,
+              "download_time": 333014.0,
+              "upload_size": 591845,
+              "upload_time": 39675.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.6fd4725a.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b4219b21-bf91-44cf-9ea2-d680543456c5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4568283,
+          "client": 5352468,
+          "client_begin": "2024-10-09 10:36:59.602616",
+          "client_end": "2024-10-09 10:37:04.955084",
+          "http_first_byte_return": 5.3524,
+          "http_startup": 0.585448,
+          "initialization": 0
+        }
+      },
+      "bcb206ab-262e-4215-ae8d-50c168be57dd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495501.256329",
+          "container_id": "dbe79646",
+          "end": "1728495505.922901",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "bcb206ab-262e-4215-ae8d-50c168be57dd",
+          "result": {
+            "measurement": {
+              "compute_time": 4259978.0,
+              "download_size": 15350231,
+              "download_time": 342138.0,
+              "upload_size": 591845,
+              "upload_time": 64182.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.f1d5c24c.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "bcb206ab-262e-4215-ae8d-50c168be57dd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4666572,
+          "client": 5461987,
+          "client_begin": "2024-10-09 10:38:16.833046",
+          "client_end": "2024-10-09 10:38:22.295033",
+          "http_first_byte_return": 5.461934,
+          "http_startup": 0.616308,
+          "initialization": 0
+        }
+      },
+      "e3e601e7-9460-4d8b-9bfb-53d88824768e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495474.269911",
+          "container_id": "dbe79646",
+          "end": "1728495478.815577",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "e3e601e7-9460-4d8b-9bfb-53d88824768e",
+          "result": {
+            "measurement": {
+              "compute_time": 4170566.0,
+              "download_size": 15350231,
+              "download_time": 316878.0,
+              "upload_size": 591845,
+              "upload_time": 57983.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.fc3fe934.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e3e601e7-9460-4d8b-9bfb-53d88824768e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4545666,
+          "client": 5255749,
+          "client_begin": "2024-10-09 10:37:49.924586",
+          "client_end": "2024-10-09 10:37:55.180335",
+          "http_first_byte_return": 5.255658,
+          "http_startup": 0.523337,
+          "initialization": 0
+        }
+      },
+      "f921d3dc-87e4-4844-b699-7ce67cc28bbd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495463.647801",
+          "container_id": "dbe79646",
+          "end": "1728495468.242190",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f921d3dc-87e4-4844-b699-7ce67cc28bbd",
+          "result": {
+            "measurement": {
+              "compute_time": 4200437.0,
+              "download_size": 15350231,
+              "download_time": 307988.0,
+              "upload_size": 591845,
+              "upload_time": 85612.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.d6aa8ba8.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f921d3dc-87e4-4844-b699-7ce67cc28bbd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4594389,
+          "client": 5366370,
+          "client_begin": "2024-10-09 10:37:39.242434",
+          "client_end": "2024-10-09 10:37:44.608804",
+          "http_first_byte_return": 5.366052,
+          "http_startup": 0.596002,
+          "initialization": 0
+        }
+      },
+      "f9a22e28-6e3a-4c8a-9be5-07a7d5e0145b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495407.455911",
+          "container_id": "dbe79646",
+          "end": "1728495411.982880",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f9a22e28-6e3a-4c8a-9be5-07a7d5e0145b",
+          "result": {
+            "measurement": {
+              "compute_time": 4158204.0,
+              "download_size": 15350231,
+              "download_time": 325244.0,
+              "upload_size": 591845,
+              "upload_time": 43287.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.938da357.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f9a22e28-6e3a-4c8a-9be5-07a7d5e0145b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4526969,
+          "client": 5282797,
+          "client_begin": "2024-10-09 10:36:43.072930",
+          "client_end": "2024-10-09 10:36:48.355727",
+          "http_first_byte_return": 5.282686,
+          "http_startup": 0.542555,
+          "initialization": 0
+        }
+      },
+      "fbf04f6d-ef77-4a2e-b0ca-33c608d5fd1a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495429.312286",
+          "container_id": "dbe79646",
+          "end": "1728495434.033592",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "fbf04f6d-ef77-4a2e-b0ca-33c608d5fd1a",
+          "result": {
+            "measurement": {
+              "compute_time": 4296219.0,
+              "download_size": 15350231,
+              "download_time": 383794.0,
+              "upload_size": 591845,
+              "upload_time": 40991.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.be9960a6.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fbf04f6d-ef77-4a2e-b0ca-33c608d5fd1a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4721306,
+          "client": 5439300,
+          "client_begin": "2024-10-09 10:37:04.956518",
+          "client_end": "2024-10-09 10:37:10.395818",
+          "http_first_byte_return": 5.451571,
+          "http_startup": 0.530916,
+          "initialization": 0
+        }
+      },
+      "ffc62245-c07e-4f66-8ded-5f2a294bea9e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495468.989647",
+          "container_id": "dbe79646",
+          "end": "1728495473.545560",
+          "environ_container_id": "9F8BD11B-638640917764283537",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "ffc62245-c07e-4f66-8ded-5f2a294bea9e",
+          "result": {
+            "measurement": {
+              "compute_time": 4194935.0,
+              "download_size": 15350231,
+              "download_time": 317679.0,
+              "upload_size": 591845,
+              "upload_time": 42921.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-5ff7ed86",
+              "key": "220.video-processing-0-output/processed-city.20b727e9.mp4"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ffc62245-c07e-4f66-8ded-5f2a294bea9e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 4555913,
+          "client": 5310767,
+          "client_begin": "2024-10-09 10:37:44.610072",
+          "client_end": "2024-10-09 10:37:49.920839",
+          "http_first_byte_return": 5.310678,
+          "http_startup": 0.557057,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1728495378.728906,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "subscription_id": "689c3ddd-d02d-43da-bcdd-ccd85db26b91"
+      },
+      "name": "azure",
+      "region": "westeurope",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-5ff7ed86",
+        "data_storage_account": {
+          "account_name": "storage5ff7ed86",
+          "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storage5ff7ed86;AccountKey=QXGiUKInDtoK0ZSAFys79iHk/nfRx4PfR4mOa7CrHTzitLH44yFgCIilaKAH+rSJmgRTgr2ZTn4j+AStc9wG6g==;BlobEndpoint=https://storage5ff7ed86.blob.core.windows.net/;FileEndpoint=https://storage5ff7ed86.file.core.windows.net/;QueueEndpoint=https://storage5ff7ed86.queue.core.windows.net/;TableEndpoint=https://storage5ff7ed86.table.core.windows.net/"
+        },
+        "resource_group": "sebs_resource_group_5ff7ed86",
+        "resources_id": "5ff7ed86",
+        "storage_accounts": [
+          {
+            "account_name": "function774cc628",
+            "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=function774cc628;AccountKey=J2f8iAlzA/yRsOoXklaF5Lqj3qNN3wexCXuBWn21f/xpYkCwuZgeTmmjl3r3/xe6scpsL0deXZqi+AStL3lX/w==;BlobEndpoint=https://function774cc628.blob.core.windows.net/;FileEndpoint=https://function774cc628.file.core.windows.net/;QueueEndpoint=https://function774cc628.queue.core.windows.net/;TableEndpoint=https://function774cc628.table.core.windows.net/"
+          },
+          {
+            "account_name": "function46fe70a6",
+            "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=function46fe70a6;AccountKey=W2wz7l13IVU/KCNPgUpzOV0/+ysgBvj/vEUYmQlJUSFme2hjJPI91nz8Ej6kxA4KVPwZvmMQeuwJ+AStCxcpCA==;BlobEndpoint=https://function46fe70a6.blob.core.windows.net/;FileEndpoint=https://function46fe70a6.file.core.windows.net/;QueueEndpoint=https://function46fe70a6.queue.core.windows.net/;TableEndpoint=https://function46fe70a6.table.core.windows.net/"
+          }
+        ]
+      }
+    },
+    "experiments": {
+      "download_results": false,
+      "experiments": {
+        "eviction-model": {
+          "function_copy_idx": 0,
+          "invocations": 1,
+          "repetitions": 5,
+          "sleep": 1
+        },
+        "invocation-overhead": {
+          "N": 20,
+          "code_begin": 1048576,
+          "code_end": 261619712,
+          "code_points": 20,
+          "payload_begin": 1024,
+          "payload_end": 6251000,
+          "payload_points": 20,
+          "repetitions": 5,
+          "type": "payload"
+        },
+        "network-ping-pong": {
+          "invocations": 50,
+          "repetitions": 1000,
+          "threads": 1
+        },
+        "perf-cost": {
+          "benchmark": "110.dynamic-html",
+          "concurrent-invocations": 50,
+          "experiments": [
+            "cold",
+            "warm",
+            "burst",
+            "sequential"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128,
+            256
+          ],
+          "repetitions": 50
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1728495518.607395,
+  "result_bucket": null
+}

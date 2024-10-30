@@ -1,0 +1,2489 @@
+{
+  "_invocations": {
+    "210_thumbnailer_python_3_8": {
+      "079365dd-8746-4477-93b4-c774e17cfd7c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367401.188931",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367401.646638",
+          "is_cold": false,
+          "request_id": "079365dd-8746-4477-93b4-c774e17cfd7c",
+          "result": {
+            "measurement": {
+              "compute_time": 262763.0,
+              "download_size": 2191330,
+              "download_time": 118297.0,
+              "upload_size": 3532,
+              "upload_time": 76574.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.68acdabe.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "079365dd-8746-4477-93b4-c774e17cfd7c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 457707,
+          "client": 836646,
+          "client_begin": "2024-09-26 09:16:37.670457",
+          "client_end": "2024-09-26 09:16:38.507103",
+          "http_first_byte_return": 0.836577,
+          "http_startup": 0.270342,
+          "initialization": 0
+        }
+      },
+      "108bb30b-a0e0-4cd8-a923-facfb2dedf0f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367405.934499",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367406.344121",
+          "is_cold": false,
+          "request_id": "108bb30b-a0e0-4cd8-a923-facfb2dedf0f",
+          "result": {
+            "measurement": {
+              "compute_time": 281787.0,
+              "download_size": 2191330,
+              "download_time": 72881.0,
+              "upload_size": 3532,
+              "upload_time": 54884.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.e2005ff2.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "108bb30b-a0e0-4cd8-a923-facfb2dedf0f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 409622,
+          "client": 781481,
+          "client_begin": "2024-09-26 09:16:42.490905",
+          "client_end": "2024-09-26 09:16:43.272386",
+          "http_first_byte_return": 0.781428,
+          "http_startup": 0.191466,
+          "initialization": 0
+        }
+      },
+      "11d83692-0045-434b-ba55-95037b9fd0b9": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367405.117733",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367405.630970",
+          "is_cold": false,
+          "request_id": "11d83692-0045-434b-ba55-95037b9fd0b9",
+          "result": {
+            "measurement": {
+              "compute_time": 282007.0,
+              "download_size": 2191330,
+              "download_time": 129618.0,
+              "upload_size": 3532,
+              "upload_time": 101542.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.ab843b41.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "11d83692-0045-434b-ba55-95037b9fd0b9",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 513237,
+          "client": 802583,
+          "client_begin": "2024-09-26 09:16:41.686247",
+          "client_end": "2024-09-26 09:16:42.488830",
+          "http_first_byte_return": 0.802528,
+          "http_startup": 0.195948,
+          "initialization": 0
+        }
+      },
+      "13ba190b-75bd-4b75-9c69-bc232ba9f857": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367401.977054",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367402.382818",
+          "is_cold": false,
+          "request_id": "13ba190b-75bd-4b75-9c69-bc232ba9f857",
+          "result": {
+            "measurement": {
+              "compute_time": 278554.0,
+              "download_size": 2191330,
+              "download_time": 71837.0,
+              "upload_size": 3532,
+              "upload_time": 55298.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.3d1171e6.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "13ba190b-75bd-4b75-9c69-bc232ba9f857",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 405764,
+          "client": 741075,
+          "client_begin": "2024-09-26 09:16:38.509083",
+          "client_end": "2024-09-26 09:16:39.250158",
+          "http_first_byte_return": 0.740933,
+          "http_startup": 0.188222,
+          "initialization": 0
+        }
+      },
+      "1d8602ec-0b5a-4348-8dd2-f11578332b38": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367386.531095",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367387.125762",
+          "is_cold": false,
+          "request_id": "1d8602ec-0b5a-4348-8dd2-f11578332b38",
+          "result": {
+            "measurement": {
+              "compute_time": 298052.0,
+              "download_size": 2191330,
+              "download_time": 198697.0,
+              "upload_size": 3532,
+              "upload_time": 97849.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.12af1fd8.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1d8602ec-0b5a-4348-8dd2-f11578332b38",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 594667,
+          "client": 1259303,
+          "client_begin": "2024-09-26 09:16:24.599255",
+          "client_end": "2024-09-26 09:16:25.858558",
+          "http_first_byte_return": 1.259211,
+          "http_startup": 0.554664,
+          "initialization": 0
+        }
+      },
+      "2187f66c-a183-40f0-a16f-a3b0106c2838": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367410.041026",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367410.473900",
+          "is_cold": false,
+          "request_id": "2187f66c-a183-40f0-a16f-a3b0106c2838",
+          "result": {
+            "measurement": {
+              "compute_time": 298094.0,
+              "download_size": 2191330,
+              "download_time": 88403.0,
+              "upload_size": 3532,
+              "upload_time": 46305.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.32404fdd.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "2187f66c-a183-40f0-a16f-a3b0106c2838",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 432874,
+          "client": 747408,
+          "client_begin": "2024-09-26 09:16:46.584608",
+          "client_end": "2024-09-26 09:16:47.332016",
+          "http_first_byte_return": 0.747332,
+          "http_startup": 0.208547,
+          "initialization": 0
+        }
+      },
+      "29a38305-7d22-4320-8a60-74ffb5d05084": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367392.270894",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367392.688632",
+          "is_cold": false,
+          "request_id": "29a38305-7d22-4320-8a60-74ffb5d05084",
+          "result": {
+            "measurement": {
+              "compute_time": 281575.0,
+              "download_size": 2191330,
+              "download_time": 76416.0,
+              "upload_size": 3532,
+              "upload_time": 59674.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.3c802f44.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "29a38305-7d22-4320-8a60-74ffb5d05084",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 417738,
+          "client": -684709,
+          "client_begin": "2024-09-26 09:16:30.232181",
+          "client_end": "2024-09-26 09:16:29.547472",
+          "http_first_byte_return": 1.18951,
+          "http_startup": 0.665496,
+          "initialization": 0
+        }
+      },
+      "2b3217be-5bd9-4ce2-9b02-0733d2ef22ab": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367398.819390",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367399.268624",
+          "is_cold": false,
+          "request_id": "2b3217be-5bd9-4ce2-9b02-0733d2ef22ab",
+          "result": {
+            "measurement": {
+              "compute_time": 278265.0,
+              "download_size": 2191330,
+              "download_time": 69653.0,
+              "upload_size": 3532,
+              "upload_time": 101250.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.a97d886c.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "2b3217be-5bd9-4ce2-9b02-0733d2ef22ab",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 449234,
+          "client": 770364,
+          "client_begin": "2024-09-26 09:16:35.358986",
+          "client_end": "2024-09-26 09:16:36.129350",
+          "http_first_byte_return": 0.770283,
+          "http_startup": 0.212332,
+          "initialization": 0
+        }
+      },
+      "37d425e1-d8c2-4a60-b78d-fbe9c1b5b52e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367407.543171",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367408.023197",
+          "is_cold": false,
+          "request_id": "37d425e1-d8c2-4a60-b78d-fbe9c1b5b52e",
+          "result": {
+            "measurement": {
+              "compute_time": 299577.0,
+              "download_size": 2191330,
+              "download_time": 124630.0,
+              "upload_size": 3532,
+              "upload_time": 55747.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.cc490d72.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "37d425e1-d8c2-4a60-b78d-fbe9c1b5b52e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 480026,
+          "client": 797453,
+          "client_begin": "2024-09-26 09:16:44.087189",
+          "client_end": "2024-09-26 09:16:44.884642",
+          "http_first_byte_return": 0.797387,
+          "http_startup": 0.197959,
+          "initialization": 0
+        }
+      },
+      "391b1e54-5eb5-448d-8bd5-05f77ae60840": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367370.038818",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367373.547649",
+          "is_cold": true,
+          "request_id": "391b1e54-5eb5-448d-8bd5-05f77ae60840",
+          "result": {
+            "measurement": {
+              "compute_time": 442718.0,
+              "download_size": 2191330,
+              "download_time": 459036.0,
+              "upload_size": 3532,
+              "upload_time": 96769.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.2ebf5444.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "391b1e54-5eb5-448d-8bd5-05f77ae60840",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 3508831,
+          "client": 4666607,
+          "client_begin": "2024-09-26 09:16:07.614782",
+          "client_end": "2024-09-26 09:16:12.281389",
+          "http_first_byte_return": 4.662177,
+          "http_startup": 0.240111,
+          "initialization": 0
+        }
+      },
+      "3bbc4b00-3911-4381-bc62-e90e04e954a4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367404.395819",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367404.825905",
+          "is_cold": false,
+          "request_id": "3bbc4b00-3911-4381-bc62-e90e04e954a4",
+          "result": {
+            "measurement": {
+              "compute_time": 298041.0,
+              "download_size": 2191330,
+              "download_time": 74188.0,
+              "upload_size": 3532,
+              "upload_time": 57788.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.b9ac873d.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "3bbc4b00-3911-4381-bc62-e90e04e954a4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 430086,
+          "client": 731505,
+          "client_begin": "2024-09-26 09:16:40.952649",
+          "client_end": "2024-09-26 09:16:41.684154",
+          "http_first_byte_return": 0.731431,
+          "http_startup": 0.189311,
+          "initialization": 0
+        }
+      },
+      "51db4b11-d9c2-4591-8b8b-7116bab54971": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367398.085734",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367398.497474",
+          "is_cold": false,
+          "request_id": "51db4b11-d9c2-4591-8b8b-7116bab54971",
+          "result": {
+            "measurement": {
+              "compute_time": 297690.0,
+              "download_size": 2191330,
+              "download_time": 64152.0,
+              "upload_size": 3532,
+              "upload_time": 49828.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.e0918417.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "51db4b11-d9c2-4591-8b8b-7116bab54971",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 411740,
+          "client": 1784823,
+          "client_begin": "2024-09-26 09:16:33.571596",
+          "client_end": "2024-09-26 09:16:35.356419",
+          "http_first_byte_return": 1.784744,
+          "http_startup": 1.265579,
+          "initialization": 0
+        }
+      },
+      "577e09be-47ce-406d-a8b7-7ccd4709dfb5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367402.690102",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367403.196776",
+          "is_cold": false,
+          "request_id": "577e09be-47ce-406d-a8b7-7ccd4709dfb5",
+          "result": {
+            "measurement": {
+              "compute_time": 298267.0,
+              "download_size": 2191330,
+              "download_time": 79185.0,
+              "upload_size": 3532,
+              "upload_time": 129153.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.1b217c12.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "577e09be-47ce-406d-a8b7-7ccd4709dfb5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 506674,
+          "client": 803184,
+          "client_begin": "2024-09-26 09:16:39.252384",
+          "client_end": "2024-09-26 09:16:40.055568",
+          "http_first_byte_return": 0.80311,
+          "http_startup": 0.183961,
+          "initialization": 0
+        }
+      },
+      "5d61c5a3-f42a-4609-828d-818e783a17d4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367379.607281",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367380.116411",
+          "is_cold": false,
+          "request_id": "5d61c5a3-f42a-4609-828d-818e783a17d4",
+          "result": {
+            "measurement": {
+              "compute_time": 297948.0,
+              "download_size": 2191330,
+              "download_time": 162109.0,
+              "upload_size": 3532,
+              "upload_time": 49004.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.2e166ab9.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5d61c5a3-f42a-4609-828d-818e783a17d4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 509130,
+          "client": 838162,
+          "client_begin": "2024-09-26 09:16:18.011823",
+          "client_end": "2024-09-26 09:16:18.849985",
+          "http_first_byte_return": 0.838081,
+          "http_startup": 0.219018,
+          "initialization": 0
+        }
+      },
+      "67aead55-4173-4fb9-a9f5-b37b0b5f041b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367406.735411",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367407.226478",
+          "is_cold": false,
+          "request_id": "67aead55-4173-4fb9-a9f5-b37b0b5f041b",
+          "result": {
+            "measurement": {
+              "compute_time": 262141.0,
+              "download_size": 2191330,
+              "download_time": 151985.0,
+              "upload_size": 3532,
+              "upload_time": 76867.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.22c96fd0.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "67aead55-4173-4fb9-a9f5-b37b0b5f041b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 491067,
+          "client": 809339,
+          "client_begin": "2024-09-26 09:16:43.275228",
+          "client_end": "2024-09-26 09:16:44.084567",
+          "http_first_byte_return": 0.809269,
+          "http_startup": 0.209611,
+          "initialization": 0
+        }
+      },
+      "6a82c965-818c-468c-a074-299ae26a3452": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367410.777107",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367411.249390",
+          "is_cold": false,
+          "request_id": "6a82c965-818c-468c-a074-299ae26a3452",
+          "result": {
+            "measurement": {
+              "compute_time": 297855.0,
+              "download_size": 2191330,
+              "download_time": 112558.0,
+              "upload_size": 3532,
+              "upload_time": 61799.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.78638a0d.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "6a82c965-818c-468c-a074-299ae26a3452",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 472283,
+          "client": 774886,
+          "client_begin": "2024-09-26 09:16:47.333922",
+          "client_end": "2024-09-26 09:16:48.108808",
+          "http_first_byte_return": 0.774811,
+          "http_startup": 0.195927,
+          "initialization": 0
+        }
+      },
+      "73fc00f1-6d80-4cc6-97c1-ae147c1ed99c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367415.854910",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367416.367157",
+          "is_cold": false,
+          "request_id": "73fc00f1-6d80-4cc6-97c1-ae147c1ed99c",
+          "result": {
+            "measurement": {
+              "compute_time": 262173.0,
+              "download_size": 2191330,
+              "download_time": 172412.0,
+              "upload_size": 3532,
+              "upload_time": 77591.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.a8475f62.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "73fc00f1-6d80-4cc6-97c1-ae147c1ed99c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 512247,
+          "client": 835362,
+          "client_begin": "2024-09-26 09:16:52.391810",
+          "client_end": "2024-09-26 09:16:53.227172",
+          "http_first_byte_return": 0.835278,
+          "http_startup": 0.210274,
+          "initialization": 0
+        }
+      },
+      "76a1ea6c-fba7-4188-ac4e-94ee1a32a2b1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367422.243520",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367422.702969",
+          "is_cold": false,
+          "request_id": "76a1ea6c-fba7-4188-ac4e-94ee1a32a2b1",
+          "result": {
+            "measurement": {
+              "compute_time": 282077.0,
+              "download_size": 2191330,
+              "download_time": 84352.0,
+              "upload_size": 3532,
+              "upload_time": 92947.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.32bbabe1.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "76a1ea6c-fba7-4188-ac4e-94ee1a32a2b1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 459449,
+          "client": 3956298,
+          "client_begin": "2024-09-26 09:16:57.654256",
+          "client_end": "2024-09-26 09:17:01.610554",
+          "http_first_byte_return": 2.09283,
+          "http_startup": 1.337929,
+          "initialization": 0
+        }
+      },
+      "7a2615c8-36bc-49e2-8979-262e6f094cc0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367378.815947",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367379.249791",
+          "is_cold": false,
+          "request_id": "7a2615c8-36bc-49e2-8979-262e6f094cc0",
+          "result": {
+            "measurement": {
+              "compute_time": 282906.0,
+              "download_size": 2191330,
+              "download_time": 71405.0,
+              "upload_size": 3532,
+              "upload_time": 79461.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.c0936e0f.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7a2615c8-36bc-49e2-8979-262e6f094cc0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 433844,
+          "client": 1103771,
+          "client_begin": "2024-09-26 09:16:16.880533",
+          "client_end": "2024-09-26 09:16:17.984304",
+          "http_first_byte_return": 1.103689,
+          "http_startup": 0.558782,
+          "initialization": 0
+        }
+      },
+      "7dc6de63-b9d8-45a4-a923-68577bdfc489": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367375.959040",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367376.385676",
+          "is_cold": false,
+          "request_id": "7dc6de63-b9d8-45a4-a923-68577bdfc489",
+          "result": {
+            "measurement": {
+              "compute_time": 281646.0,
+              "download_size": 2191330,
+              "download_time": 88303.0,
+              "upload_size": 3532,
+              "upload_time": 56614.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.5846d1c4.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7dc6de63-b9d8-45a4-a923-68577bdfc489",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 426636,
+          "client": 1173202,
+          "client_begin": "2024-09-26 09:16:13.946125",
+          "client_end": "2024-09-26 09:16:15.119327",
+          "http_first_byte_return": 1.173147,
+          "http_startup": 0.640361,
+          "initialization": 0
+        }
+      },
+      "86fecf9f-5e9d-4430-8a88-7a270a355687": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367377.574183",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367377.987337",
+          "is_cold": false,
+          "request_id": "86fecf9f-5e9d-4430-8a88-7a270a355687",
+          "result": {
+            "measurement": {
+              "compute_time": 263024.0,
+              "download_size": 2191330,
+              "download_time": 73245.0,
+              "upload_size": 3532,
+              "upload_time": 76814.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.e78b3acf.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "86fecf9f-5e9d-4430-8a88-7a270a355687",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 413154,
+          "client": 906631,
+          "client_begin": "2024-09-26 09:16:15.971971",
+          "client_end": "2024-09-26 09:16:16.878602",
+          "http_first_byte_return": 0.906538,
+          "http_startup": 0.225383,
+          "initialization": 0
+        }
+      },
+      "8e5ebba0-1248-4447-9fa7-5ef5e341c380": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367423.201987",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367423.681807",
+          "is_cold": false,
+          "request_id": "8e5ebba0-1248-4447-9fa7-5ef5e341c380",
+          "result": {
+            "measurement": {
+              "compute_time": 298478.0,
+              "download_size": 2191330,
+              "download_time": 67918.0,
+              "upload_size": 3532,
+              "upload_time": 113348.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.5eda9bd7.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8e5ebba0-1248-4447-9fa7-5ef5e341c380",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 479820,
+          "client": 795113,
+          "client_begin": "2024-09-26 09:17:01.611891",
+          "client_end": "2024-09-26 09:17:02.407004",
+          "http_first_byte_return": 0.795041,
+          "http_startup": 0.200024,
+          "initialization": 0
+        }
+      },
+      "90926808-19e9-49a9-bcea-1cef5441e901": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367381.885494",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367382.472508",
+          "is_cold": false,
+          "request_id": "90926808-19e9-49a9-bcea-1cef5441e901",
+          "result": {
+            "measurement": {
+              "compute_time": 298766.0,
+              "download_size": 2191330,
+              "download_time": 164071.0,
+              "upload_size": 3532,
+              "upload_time": 124105.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.1cdc8493.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "90926808-19e9-49a9-bcea-1cef5441e901",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 587014,
+          "client": 1375379,
+          "client_begin": "2024-09-26 09:16:19.831382",
+          "client_end": "2024-09-26 09:16:21.206761",
+          "http_first_byte_return": 1.375291,
+          "http_startup": 0.678736,
+          "initialization": 0
+        }
+      },
+      "9e9bb12f-060e-46dd-a886-efee8c8d8dcc": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367385.334579",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367385.864919",
+          "is_cold": false,
+          "request_id": "9e9bb12f-060e-46dd-a886-efee8c8d8dcc",
+          "result": {
+            "measurement": {
+              "compute_time": 282333.0,
+              "download_size": 2191330,
+              "download_time": 72795.0,
+              "upload_size": 3532,
+              "upload_time": 175142.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.7f637f14.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9e9bb12f-060e-46dd-a886-efee8c8d8dcc",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 530340,
+          "client": 1052279,
+          "client_begin": "2024-09-26 09:16:23.544998",
+          "client_end": "2024-09-26 09:16:24.597277",
+          "http_first_byte_return": 1.052203,
+          "http_startup": 0.412134,
+          "initialization": 0
+        }
+      },
+      "9fcb44fd-63ff-4231-8639-c1aafc1649ba": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367380.452298",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367381.096211",
+          "is_cold": false,
+          "request_id": "9fcb44fd-63ff-4231-8639-c1aafc1649ba",
+          "result": {
+            "measurement": {
+              "compute_time": 262113.0,
+              "download_size": 2191330,
+              "download_time": 96457.0,
+              "upload_size": 3532,
+              "upload_time": 285274.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.3040f82e.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9fcb44fd-63ff-4231-8639-c1aafc1649ba",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 643913,
+          "client": 976538,
+          "client_begin": "2024-09-26 09:16:18.852745",
+          "client_end": "2024-09-26 09:16:19.829283",
+          "http_first_byte_return": 0.976461,
+          "http_startup": 0.214569,
+          "initialization": 0
+        }
+      },
+      "a102a72a-bc11-4f59-9a4f-4635f8550d1c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367403.508262",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367404.092304",
+          "is_cold": false,
+          "request_id": "a102a72a-bc11-4f59-9a4f-4635f8550d1c",
+          "result": {
+            "measurement": {
+              "compute_time": 262198.0,
+              "download_size": 2191330,
+              "download_time": 179180.0,
+              "upload_size": 3532,
+              "upload_time": 142594.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.8740e6fe.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a102a72a-bc11-4f59-9a4f-4635f8550d1c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 584042,
+          "client": 893184,
+          "client_begin": "2024-09-26 09:16:40.057439",
+          "client_end": "2024-09-26 09:16:40.950623",
+          "http_first_byte_return": 0.893111,
+          "http_startup": 0.196086,
+          "initialization": 0
+        }
+      },
+      "a3cfec12-d3bb-45c1-b928-7c6c57583d1e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367408.338970",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367408.865490",
+          "is_cold": false,
+          "request_id": "a3cfec12-d3bb-45c1-b928-7c6c57583d1e",
+          "result": {
+            "measurement": {
+              "compute_time": 297805.0,
+              "download_size": 2191330,
+              "download_time": 170691.0,
+              "upload_size": 3532,
+              "upload_time": 57950.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.45c16c7f.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a3cfec12-d3bb-45c1-b928-7c6c57583d1e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 526520,
+          "client": 842320,
+          "client_begin": "2024-09-26 09:16:44.886743",
+          "client_end": "2024-09-26 09:16:45.729063",
+          "http_first_byte_return": 0.842251,
+          "http_startup": 0.205066,
+          "initialization": 0
+        }
+      },
+      "a4a637ab-ba17-4dbf-9700-15468c33af89": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367400.343337",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367400.810310",
+          "is_cold": false,
+          "request_id": "a4a637ab-ba17-4dbf-9700-15468c33af89",
+          "result": {
+            "measurement": {
+              "compute_time": 298210.0,
+              "download_size": 2191330,
+              "download_time": 105736.0,
+              "upload_size": 3532,
+              "upload_time": 62955.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.1dd2518b.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a4a637ab-ba17-4dbf-9700-15468c33af89",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 466973,
+          "client": 761273,
+          "client_begin": "2024-09-26 09:16:36.907245",
+          "client_end": "2024-09-26 09:16:37.668518",
+          "http_first_byte_return": 0.761196,
+          "http_startup": 0.18803,
+          "initialization": 0
+        }
+      },
+      "a574c304-5435-4f88-a03f-a5dca80f01be": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367417.418974",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367417.853895",
+          "is_cold": false,
+          "request_id": "a574c304-5435-4f88-a03f-a5dca80f01be",
+          "result": {
+            "measurement": {
+              "compute_time": 281752.0,
+              "download_size": 2191330,
+              "download_time": 88408.0,
+              "upload_size": 3532,
+              "upload_time": 64690.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.38a8aecb.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a574c304-5435-4f88-a03f-a5dca80f01be",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 434921,
+          "client": 868660,
+          "client_begin": "2024-09-26 09:16:53.969246",
+          "client_end": "2024-09-26 09:16:54.837906",
+          "http_first_byte_return": 0.868596,
+          "http_startup": 0.188834,
+          "initialization": 0
+        }
+      },
+      "a8720f9a-cb7f-416a-91c7-40c42a317f70": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367418.302352",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367418.936532",
+          "is_cold": false,
+          "request_id": "a8720f9a-cb7f-416a-91c7-40c42a317f70",
+          "result": {
+            "measurement": {
+              "compute_time": 261944.0,
+              "download_size": 2191330,
+              "download_time": 265002.0,
+              "upload_size": 3532,
+              "upload_time": 107164.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.ee5d1634.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a8720f9a-cb7f-416a-91c7-40c42a317f70",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 634180,
+          "client": 1024753,
+          "client_begin": "2024-09-26 09:16:54.839520",
+          "client_end": "2024-09-26 09:16:55.864273",
+          "http_first_byte_return": 1.024679,
+          "http_startup": 0.218902,
+          "initialization": 0
+        }
+      },
+      "a99b1925-4ef6-4f82-835a-82d7e3ebefb1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367373.881940",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367374.405798",
+          "is_cold": false,
+          "request_id": "a99b1925-4ef6-4f82-835a-82d7e3ebefb1",
+          "result": {
+            "measurement": {
+              "compute_time": 301440.0,
+              "download_size": 2191330,
+              "download_time": 165424.0,
+              "upload_size": 3532,
+              "upload_time": 56925.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.43afcf0a.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a99b1925-4ef6-4f82-835a-82d7e3ebefb1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 523858,
+          "client": 856329,
+          "client_begin": "2024-09-26 09:16:12.283233",
+          "client_end": "2024-09-26 09:16:13.139562",
+          "http_first_byte_return": 0.856249,
+          "http_startup": 0.204559,
+          "initialization": 0
+        }
+      },
+      "ae5ce263-a1c3-4fb6-8026-a867a158fe5c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367374.733725",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367375.209831",
+          "is_cold": false,
+          "request_id": "ae5ce263-a1c3-4fb6-8026-a867a158fe5c",
+          "result": {
+            "measurement": {
+              "compute_time": 281981.0,
+              "download_size": 2191330,
+              "download_time": 74960.0,
+              "upload_size": 3532,
+              "upload_time": 119059.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.07c6fa7e.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ae5ce263-a1c3-4fb6-8026-a867a158fe5c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 476106,
+          "client": 801443,
+          "client_begin": "2024-09-26 09:16:13.141704",
+          "client_end": "2024-09-26 09:16:13.943147",
+          "http_first_byte_return": 0.801373,
+          "http_startup": 0.208271,
+          "initialization": 0
+        }
+      },
+      "bb8eef92-2ca5-4316-9cd9-d8efacad6c4a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367409.285233",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367409.724744",
+          "is_cold": false,
+          "request_id": "bb8eef92-2ca5-4316-9cd9-d8efacad6c4a",
+          "result": {
+            "measurement": {
+              "compute_time": 281851.0,
+              "download_size": 2191330,
+              "download_time": 82154.0,
+              "upload_size": 3532,
+              "upload_time": 75436.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.6983baf8.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "bb8eef92-2ca5-4316-9cd9-d8efacad6c4a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 439511,
+          "client": 851654,
+          "client_begin": "2024-09-26 09:16:45.730707",
+          "client_end": "2024-09-26 09:16:46.582361",
+          "http_first_byte_return": 0.851561,
+          "http_startup": 0.295011,
+          "initialization": 0
+        }
+      },
+      "c2165cdd-31c1-455f-b7b7-4a6e287aef1a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367411.584384",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367412.076378",
+          "is_cold": false,
+          "request_id": "c2165cdd-31c1-455f-b7b7-4a6e287aef1a",
+          "result": {
+            "measurement": {
+              "compute_time": 281435.0,
+              "download_size": 2191330,
+              "download_time": 102933.0,
+              "upload_size": 3532,
+              "upload_time": 107554.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.7fe860e3.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "c2165cdd-31c1-455f-b7b7-4a6e287aef1a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 491994,
+          "client": 824365,
+          "client_begin": "2024-09-26 09:16:48.110532",
+          "client_end": "2024-09-26 09:16:48.934897",
+          "http_first_byte_return": 0.824275,
+          "http_startup": 0.226075,
+          "initialization": 0
+        }
+      },
+      "c50e8012-dba0-4368-8a3c-7faca7677744": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367415.015874",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367415.509033",
+          "is_cold": false,
+          "request_id": "c50e8012-dba0-4368-8a3c-7faca7677744",
+          "result": {
+            "measurement": {
+              "compute_time": 261927.0,
+              "download_size": 2191330,
+              "download_time": 151479.0,
+              "upload_size": 3532,
+              "upload_time": 79681.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.16f64e15.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "c50e8012-dba0-4368-8a3c-7faca7677744",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 493159,
+          "client": 817805,
+          "client_begin": "2024-09-26 09:16:51.570972",
+          "client_end": "2024-09-26 09:16:52.388777",
+          "http_first_byte_return": 0.817482,
+          "http_startup": 0.195696,
+          "initialization": 0
+        }
+      },
+      "cbce4ed6-5af1-4012-afb8-860a8045aec8": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367416.673935",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367417.108332",
+          "is_cold": false,
+          "request_id": "cbce4ed6-5af1-4012-afb8-860a8045aec8",
+          "result": {
+            "measurement": {
+              "compute_time": 262057.0,
+              "download_size": 2191330,
+              "download_time": 114533.0,
+              "upload_size": 3532,
+              "upload_time": 57737.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.fe3b82c9.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "cbce4ed6-5af1-4012-afb8-860a8045aec8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 434397,
+          "client": 738156,
+          "client_begin": "2024-09-26 09:16:53.229142",
+          "client_end": "2024-09-26 09:16:53.967298",
+          "http_first_byte_return": 0.738083,
+          "http_startup": 0.189503,
+          "initialization": 0
+        }
+      },
+      "db4e4417-151c-4e3a-a7d0-40437c535854": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367399.596778",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367400.047416",
+          "is_cold": false,
+          "request_id": "db4e4417-151c-4e3a-a7d0-40437c535854",
+          "result": {
+            "measurement": {
+              "compute_time": 281684.0,
+              "download_size": 2191330,
+              "download_time": 110574.0,
+              "upload_size": 3532,
+              "upload_time": 58303.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.c4a303c7.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "db4e4417-151c-4e3a-a7d0-40437c535854",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 450638,
+          "client": 773724,
+          "client_begin": "2024-09-26 09:16:36.131592",
+          "client_end": "2024-09-26 09:16:36.905316",
+          "http_first_byte_return": 0.773644,
+          "http_startup": 0.207189,
+          "initialization": 0
+        }
+      },
+      "dc50e2ba-8db4-4f30-87cf-2a1631eab8fa": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367412.387337",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367412.828523",
+          "is_cold": false,
+          "request_id": "dc50e2ba-8db4-4f30-87cf-2a1631eab8fa",
+          "result": {
+            "measurement": {
+              "compute_time": 281410.0,
+              "download_size": 2191330,
+              "download_time": 100892.0,
+              "upload_size": 3532,
+              "upload_time": 58810.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.bde14a20.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "dc50e2ba-8db4-4f30-87cf-2a1631eab8fa",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 441186,
+          "client": 783199,
+          "client_begin": "2024-09-26 09:16:48.937231",
+          "client_end": "2024-09-26 09:16:49.720430",
+          "http_first_byte_return": 0.783132,
+          "http_startup": 0.200822,
+          "initialization": 0
+        }
+      },
+      "de9784ff-cee4-473c-a6f6-66eb72d38ba3": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367396.193357",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367396.710076",
+          "is_cold": false,
+          "request_id": "de9784ff-cee4-473c-a6f6-66eb72d38ba3",
+          "result": {
+            "measurement": {
+              "compute_time": 261941.0,
+              "download_size": 2191330,
+              "download_time": 175536.0,
+              "upload_size": 3532,
+              "upload_time": 79169.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.0a3dcd3d.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "de9784ff-cee4-473c-a6f6-66eb72d38ba3",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 516719,
+          "client": 2219181,
+          "client_begin": "2024-09-26 09:16:31.350479",
+          "client_end": "2024-09-26 09:16:33.569660",
+          "http_first_byte_return": 2.219112,
+          "http_startup": 1.592788,
+          "initialization": 0
+        }
+      },
+      "e039d318-360e-421c-a459-c8906fb6696d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367413.903459",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367414.414257",
+          "is_cold": false,
+          "request_id": "e039d318-360e-421c-a459-c8906fb6696d",
+          "result": {
+            "measurement": {
+              "compute_time": 297822.0,
+              "download_size": 2191330,
+              "download_time": 165912.0,
+              "upload_size": 3532,
+              "upload_time": 46969.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.7ca4766a.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e039d318-360e-421c-a459-c8906fb6696d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 510798,
+          "client": 1096657,
+          "client_begin": "2024-09-26 09:16:50.471717",
+          "client_end": "2024-09-26 09:16:51.568374",
+          "http_first_byte_return": 1.09658,
+          "http_startup": 0.18978,
+          "initialization": 0
+        }
+      },
+      "e0db36a5-44ec-4810-9bf8-c6b9d50d1915": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367393.425700",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367393.879055",
+          "is_cold": false,
+          "request_id": "e0db36a5-44ec-4810-9bf8-c6b9d50d1915",
+          "result": {
+            "measurement": {
+              "compute_time": 261567.0,
+              "download_size": 2191330,
+              "download_time": 83742.0,
+              "upload_size": 3532,
+              "upload_time": 107973.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.267fbba2.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e0db36a5-44ec-4810-9bf8-c6b9d50d1915",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 453355,
+          "client": 1797812,
+          "client_begin": "2024-09-26 09:16:29.549202",
+          "client_end": "2024-09-26 09:16:31.347014",
+          "http_first_byte_return": 1.797708,
+          "http_startup": 0.624125,
+          "initialization": 0
+        }
+      },
+      "e852a20c-f81c-4f4a-aac5-797bdfe61f4a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367387.496443",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367387.907394",
+          "is_cold": false,
+          "request_id": "e852a20c-f81c-4f4a-aac5-797bdfe61f4a",
+          "result": {
+            "measurement": {
+              "compute_time": 279761.0,
+              "download_size": 2191330,
+              "download_time": 71006.0,
+              "upload_size": 3532,
+              "upload_time": 60108.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.073d31d4.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e852a20c-f81c-4f4a-aac5-797bdfe61f4a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 410951,
+          "client": 779823,
+          "client_begin": "2024-09-26 09:16:25.860942",
+          "client_end": "2024-09-26 09:16:26.640765",
+          "http_first_byte_return": 0.779727,
+          "http_startup": 0.186553,
+          "initialization": 0
+        }
+      },
+      "ea3db088-1150-410f-9eb0-d18710795a59": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367388.269832",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367388.732570",
+          "is_cold": false,
+          "request_id": "ea3db088-1150-410f-9eb0-d18710795a59",
+          "result": {
+            "measurement": {
+              "compute_time": 299055.0,
+              "download_size": 2191330,
+              "download_time": 118542.0,
+              "upload_size": 3532,
+              "upload_time": 45072.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.50eaa6e3.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ea3db088-1150-410f-9eb0-d18710795a59",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 462738,
+          "client": 881123,
+          "client_begin": "2024-09-26 09:16:26.644247",
+          "client_end": "2024-09-26 09:16:27.525370",
+          "http_first_byte_return": 0.881065,
+          "http_startup": 0.21091,
+          "initialization": 0
+        }
+      },
+      "ef8b0f90-5fed-486f-8221-c57b0c49af62": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367419.435637",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367419.867029",
+          "is_cold": false,
+          "request_id": "ef8b0f90-5fed-486f-8221-c57b0c49af62",
+          "result": {
+            "measurement": {
+              "compute_time": 262851.0,
+              "download_size": 2191330,
+              "download_time": 91737.0,
+              "upload_size": 3532,
+              "upload_time": 76731.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.d14dcb10.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ef8b0f90-5fed-486f-8221-c57b0c49af62",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 431392,
+          "client": 859025,
+          "client_begin": "2024-09-26 09:16:55.866617",
+          "client_end": "2024-09-26 09:16:56.725642",
+          "http_first_byte_return": 0.858949,
+          "http_startup": 0.318409,
+          "initialization": 0
+        }
+      },
+      "f0e346de-e678-4087-86ef-34bc6a94e5ac": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367420.215603",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367420.685177",
+          "is_cold": false,
+          "request_id": "f0e346de-e678-4087-86ef-34bc6a94e5ac",
+          "result": {
+            "measurement": {
+              "compute_time": 262018.0,
+              "download_size": 2191330,
+              "download_time": 91763.0,
+              "upload_size": 3532,
+              "upload_time": 115723.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.00371ace.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f0e346de-e678-4087-86ef-34bc6a94e5ac",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 469574,
+          "client": 923643,
+          "client_begin": "2024-09-26 09:16:56.727717",
+          "client_end": "2024-09-26 09:16:57.651360",
+          "http_first_byte_return": 0.9235,
+          "http_startup": 0.238859,
+          "initialization": 0
+        }
+      },
+      "f0e9e6ee-cb8a-4ed1-8900-c882ee8eb4e9": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367383.963337",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367384.527698",
+          "is_cold": false,
+          "request_id": "f0e9e6ee-cb8a-4ed1-8900-c882ee8eb4e9",
+          "result": {
+            "measurement": {
+              "compute_time": 298727.0,
+              "download_size": 2191330,
+              "download_time": 126342.0,
+              "upload_size": 3532,
+              "upload_time": 139216.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.35f67159.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f0e9e6ee-cb8a-4ed1-8900-c882ee8eb4e9",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 564361,
+          "client": 1124327,
+          "client_begin": "2024-09-26 09:16:22.138554",
+          "client_end": "2024-09-26 09:16:23.262881",
+          "http_first_byte_return": 1.124233,
+          "http_startup": 0.370912,
+          "initialization": 0
+        }
+      },
+      "f227ce3b-021d-459a-8c1a-2e93800e5df6": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367376.713072",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367377.236236",
+          "is_cold": false,
+          "request_id": "f227ce3b-021d-459a-8c1a-2e93800e5df6",
+          "result": {
+            "measurement": {
+              "compute_time": 281129.0,
+              "download_size": 2191330,
+              "download_time": 114357.0,
+              "upload_size": 3532,
+              "upload_time": 127607.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.eabf31b1.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f227ce3b-021d-459a-8c1a-2e93800e5df6",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 523164,
+          "client": 849475,
+          "client_begin": "2024-09-26 09:16:15.120794",
+          "client_end": "2024-09-26 09:16:15.970269",
+          "http_first_byte_return": 0.849413,
+          "http_startup": 0.208643,
+          "initialization": 0
+        }
+      },
+      "fe19abc0-a083-4f0b-90df-b06cd4c98eee": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367413.157154",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367413.612059",
+          "is_cold": false,
+          "request_id": "fe19abc0-a083-4f0b-90df-b06cd4c98eee",
+          "result": {
+            "measurement": {
+              "compute_time": 282205.0,
+              "download_size": 2191330,
+              "download_time": 90184.0,
+              "upload_size": 3532,
+              "upload_time": 82440.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.32217914.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fe19abc0-a083-4f0b-90df-b06cd4c98eee",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 454905,
+          "client": 747054,
+          "client_begin": "2024-09-26 09:16:49.723021",
+          "client_end": "2024-09-26 09:16:50.470075",
+          "http_first_byte_return": 0.746992,
+          "http_startup": 0.182933,
+          "initialization": 0
+        }
+      },
+      "fe371ce0-9469-49fe-9c05-1b2b284a6802": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367389.571493",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367390.007328",
+          "is_cold": false,
+          "request_id": "fe371ce0-9469-49fe-9c05-1b2b284a6802",
+          "result": {
+            "measurement": {
+              "compute_time": 299657.0,
+              "download_size": 2191330,
+              "download_time": 95925.0,
+              "upload_size": 3532,
+              "upload_time": 40159.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.2201f3d2.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fe371ce0-9469-49fe-9c05-1b2b284a6802",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 435835,
+          "client": 2703269,
+          "client_begin": "2024-09-26 09:16:27.527174",
+          "client_end": "2024-09-26 09:16:30.230443",
+          "http_first_byte_return": 2.703175,
+          "http_startup": 0.625219,
+          "initialization": 0
+        }
+      },
+      "fe7e4e67-2542-40a5-b169-00cc91658da8": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367382.965518",
+          "cold_start_var": "",
+          "container_id": "4b8956ad",
+          "end": "1727367383.400864",
+          "is_cold": false,
+          "request_id": "fe7e4e67-2542-40a5-b169-00cc91658da8",
+          "result": {
+            "measurement": {
+              "compute_time": 283259.0,
+              "download_size": 2191330,
+              "download_time": 81800.0,
+              "upload_size": 3532,
+              "upload_time": 70218.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "210.thumbnailer-0-output/6_astronomy-desktop-wallpaper-evening-1624438.69d69f23.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fe7e4e67-2542-40a5-b169-00cc91658da8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 435346,
+          "client": 927917,
+          "client_begin": "2024-09-26 09:16:21.208793",
+          "client_end": "2024-09-26 09:16:22.136710",
+          "http_first_byte_return": 0.927853,
+          "http_startup": 0.372877,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1727367367.469607,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "account_id": "992382551008"
+      },
+      "name": "aws",
+      "region": "us-east-1",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-c96f19a4",
+        "deployment": "sebs-deployment-c96f19a4",
+        "http-apis": {
+          "220_video_processing_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:mr73g32xqc",
+            "endpoint": "https://mr73g32xqc.execute-api.us-east-1.amazonaws.com"
+          },
+          "411_image_recognition_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:c7el4k1zmh",
+            "endpoint": "https://c7el4k1zmh.execute-api.us-east-1.amazonaws.com"
+          },
+          "504_dna_visualisation_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:h2dvki85ra",
+            "endpoint": "https://h2dvki85ra.execute-api.us-east-1.amazonaws.com"
+          }
+        },
+        "lambda-role": "arn:aws:iam::992382551008:role/sebs-lambda-role",
+        "resources_id": "c96f19a4"
+      }
+    },
+    "experiments": {
+      "download_results": false,
+      "experiments": {
+        "eviction-model": {
+          "function_copy_idx": 0,
+          "invocations": 1,
+          "repetitions": 5,
+          "sleep": 1
+        },
+        "invocation-overhead": {
+          "N": 20,
+          "code_begin": 1048576,
+          "code_end": 261619712,
+          "code_points": 20,
+          "payload_begin": 1024,
+          "payload_end": 6251000,
+          "payload_points": 20,
+          "repetitions": 5,
+          "type": "payload"
+        },
+        "network-ping-pong": {
+          "invocations": 50,
+          "repetitions": 1000,
+          "threads": 1
+        },
+        "perf-cost": {
+          "benchmark": "110.dynamic-html",
+          "concurrent-invocations": 50,
+          "experiments": [
+            "cold",
+            "warm",
+            "burst",
+            "sequential"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128,
+            256
+          ],
+          "repetitions": 50
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1727367422.408775,
+  "result_bucket": null
+}

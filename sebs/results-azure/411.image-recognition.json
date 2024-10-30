@@ -1,0 +1,1288 @@
+{
+  "_invocations": {
+    "411-image-recognition-python-3-8-5ff7ed86": {
+      "071c223c-8691-4584-8b03-95e3d5fe5953": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495786.901006",
+          "container_id": "9cbfa725",
+          "end": "1728495787.259992",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "071c223c-8691-4584-8b03-95e3d5fe5953",
+          "result": {
+            "measurement": {
+              "compute_time": 324206.0,
+              "download_time": 33235.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "071c223c-8691-4584-8b03-95e3d5fe5953",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 358986,
+          "client": 1185977,
+          "client_begin": "2024-10-09 10:43:02.438819",
+          "client_end": "2024-10-09 10:43:03.624796",
+          "http_first_byte_return": 1.18592,
+          "http_startup": 0.606745,
+          "initialization": 0
+        }
+      },
+      "082c29ea-80cf-46ce-a029-168e8bf9d772": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495788.000135",
+          "container_id": "9cbfa725",
+          "end": "1728495788.342382",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "082c29ea-80cf-46ce-a029-168e8bf9d772",
+          "result": {
+            "measurement": {
+              "compute_time": 315303.0,
+              "download_time": 26052.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "082c29ea-80cf-46ce-a029-168e8bf9d772",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 342247,
+          "client": 1096535,
+          "client_begin": "2024-10-09 10:43:03.625950",
+          "client_end": "2024-10-09 10:43:04.722485",
+          "http_first_byte_return": 1.096472,
+          "http_startup": 0.541448,
+          "initialization": 0
+        }
+      },
+      "097e5678-b4c3-4812-a1ec-582164e2d1b7": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495804.452533",
+          "container_id": "9cbfa725",
+          "end": "1728495805.084933",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "097e5678-b4c3-4812-a1ec-582164e2d1b7",
+          "result": {
+            "measurement": {
+              "compute_time": 600647.0,
+              "download_time": 29512.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "097e5678-b4c3-4812-a1ec-582164e2d1b7",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 632400,
+          "client": 1438304,
+          "client_begin": "2024-10-09 10:43:20.006833",
+          "client_end": "2024-10-09 10:43:21.445137",
+          "http_first_byte_return": 1.438254,
+          "http_startup": 0.606997,
+          "initialization": 0
+        }
+      },
+      "1acb30ac-d45f-4d57-9fdd-e6523770afbe": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495800.061880",
+          "container_id": "9cbfa725",
+          "end": "1728495800.394297",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "1acb30ac-d45f-4d57-9fdd-e6523770afbe",
+          "result": {
+            "measurement": {
+              "compute_time": 301080.0,
+              "download_time": 29352.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1acb30ac-d45f-4d57-9fdd-e6523770afbe",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 332417,
+          "client": 1065147,
+          "client_begin": "2024-10-09 10:43:15.690408",
+          "client_end": "2024-10-09 10:43:16.755555",
+          "http_first_byte_return": 1.065068,
+          "http_startup": 0.552794,
+          "initialization": 0
+        }
+      },
+      "1fddf1cd-447b-453a-827f-35150853d477": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495812.660085",
+          "container_id": "9cbfa725",
+          "end": "1728495812.983020",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "1fddf1cd-447b-453a-827f-35150853d477",
+          "result": {
+            "measurement": {
+              "compute_time": 296188.0,
+              "download_time": 25640.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1fddf1cd-447b-453a-827f-35150853d477",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 322935,
+          "client": 1051200,
+          "client_begin": "2024-10-09 10:43:28.303125",
+          "client_end": "2024-10-09 10:43:29.354325",
+          "http_first_byte_return": 1.051136,
+          "http_startup": 0.516864,
+          "initialization": 0
+        }
+      },
+      "21592a9d-58a9-4cdb-88f2-8371b1f8f3e0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495790.253792",
+          "container_id": "9cbfa725",
+          "end": "1728495790.568894",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "21592a9d-58a9-4cdb-88f2-8371b1f8f3e0",
+          "result": {
+            "measurement": {
+              "compute_time": 286742.0,
+              "download_time": 27431.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "21592a9d-58a9-4cdb-88f2-8371b1f8f3e0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 315102,
+          "client": 1090587,
+          "client_begin": "2024-10-09 10:43:05.835590",
+          "client_end": "2024-10-09 10:43:06.926177",
+          "http_first_byte_return": 1.090497,
+          "http_startup": 0.583178,
+          "initialization": 0
+        }
+      },
+      "309c346c-bc2e-406d-bd08-c9332b6aff3e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495811.608190",
+          "container_id": "9cbfa725",
+          "end": "1728495811.938640",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "309c346c-bc2e-406d-bd08-c9332b6aff3e",
+          "result": {
+            "measurement": {
+              "compute_time": 310986.0,
+              "download_time": 18460.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "309c346c-bc2e-406d-bd08-c9332b6aff3e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 330450,
+          "client": 1087342,
+          "client_begin": "2024-10-09 10:43:27.214539",
+          "client_end": "2024-10-09 10:43:28.301881",
+          "http_first_byte_return": 1.087278,
+          "http_startup": 0.536815,
+          "initialization": 0
+        }
+      },
+      "34c9cb32-6328-4cf0-a4cf-17d2be24eb89": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495795.649110",
+          "container_id": "9cbfa725",
+          "end": "1728495795.964461",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "34c9cb32-6328-4cf0-a4cf-17d2be24eb89",
+          "result": {
+            "measurement": {
+              "compute_time": 288983.0,
+              "download_time": 25357.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "34c9cb32-6328-4cf0-a4cf-17d2be24eb89",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 315351,
+          "client": 1032208,
+          "client_begin": "2024-10-09 10:43:11.292156",
+          "client_end": "2024-10-09 10:43:12.324364",
+          "http_first_byte_return": 1.03208,
+          "http_startup": 0.525025,
+          "initialization": 0
+        }
+      },
+      "446d5857-7686-4959-ab13-4521a4fd3029": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495798.976309",
+          "container_id": "9cbfa725",
+          "end": "1728495799.298888",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "446d5857-7686-4959-ab13-4521a4fd3029",
+          "result": {
+            "measurement": {
+              "compute_time": 296768.0,
+              "download_time": 24822.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "446d5857-7686-4959-ab13-4521a4fd3029",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 322579,
+          "client": 1078191,
+          "client_begin": "2024-10-09 10:43:14.611093",
+          "client_end": "2024-10-09 10:43:15.689284",
+          "http_first_byte_return": 1.07814,
+          "http_startup": 0.54831,
+          "initialization": 0
+        }
+      },
+      "5268dfcb-3644-4bad-80fa-1d0aa89c17ca": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495774.436346",
+          "container_id": "9cbfa725",
+          "end": "1728495786.040431",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": true,
+          "is_cold_worker": true,
+          "request_id": "5268dfcb-3644-4bad-80fa-1d0aa89c17ca",
+          "result": {
+            "measurement": {
+              "compute_time": 1890468.0,
+              "download_time": 3253195.0,
+              "model_download_time": 3169702.0,
+              "model_time": 1345415.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5268dfcb-3644-4bad-80fa-1d0aa89c17ca",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11604085,
+          "client": 22322793,
+          "client_begin": "2024-10-09 10:42:40.114875",
+          "client_end": "2024-10-09 10:43:02.437668",
+          "http_first_byte_return": 22.321943,
+          "http_startup": 0.537536,
+          "initialization": 0
+        }
+      },
+      "57c1e39d-50c1-48c5-884e-68b57bc687fd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495806.914284",
+          "container_id": "9cbfa725",
+          "end": "1728495807.432560",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "57c1e39d-50c1-48c5-884e-68b57bc687fd",
+          "result": {
+            "measurement": {
+              "compute_time": 487926.0,
+              "download_time": 29444.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "57c1e39d-50c1-48c5-884e-68b57bc687fd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 518276,
+          "client": 1238250,
+          "client_begin": "2024-10-09 10:43:22.561641",
+          "client_end": "2024-10-09 10:43:23.799891",
+          "http_first_byte_return": 1.238195,
+          "http_startup": 0.536475,
+          "initialization": 0
+        }
+      },
+      "67ce0bf4-2fca-4afa-bfa5-19b01b08bae4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495796.693448",
+          "container_id": "9cbfa725",
+          "end": "1728495797.042357",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "67ce0bf4-2fca-4afa-bfa5-19b01b08bae4",
+          "result": {
+            "measurement": {
+              "compute_time": 326191.0,
+              "download_time": 20844.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "67ce0bf4-2fca-4afa-bfa5-19b01b08bae4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 348909,
+          "client": 1077605,
+          "client_begin": "2024-10-09 10:43:12.325934",
+          "client_end": "2024-10-09 10:43:13.403539",
+          "http_first_byte_return": 1.07742,
+          "http_startup": 0.541796,
+          "initialization": 0
+        }
+      },
+      "87d9cf76-048e-41ac-89e6-77425b31a173": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495791.312353",
+          "container_id": "9cbfa725",
+          "end": "1728495791.660962",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "87d9cf76-048e-41ac-89e6-77425b31a173",
+          "result": {
+            "measurement": {
+              "compute_time": 324302.0,
+              "download_time": 23129.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "87d9cf76-048e-41ac-89e6-77425b31a173",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 348609,
+          "client": 1088698,
+          "client_begin": "2024-10-09 10:43:06.927400",
+          "client_end": "2024-10-09 10:43:08.016098",
+          "http_first_byte_return": 1.088641,
+          "http_startup": 0.543024,
+          "initialization": 0
+        }
+      },
+      "9822bf39-748f-47e0-9955-244e2af6515a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495808.162500",
+          "container_id": "9cbfa725",
+          "end": "1728495808.629291",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "9822bf39-748f-47e0-9955-244e2af6515a",
+          "result": {
+            "measurement": {
+              "compute_time": 424282.0,
+              "download_time": 22485.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9822bf39-748f-47e0-9955-244e2af6515a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 466791,
+          "client": 1197401,
+          "client_begin": "2024-10-09 10:43:23.801138",
+          "client_end": "2024-10-09 10:43:24.998539",
+          "http_first_byte_return": 1.192223,
+          "http_startup": 0.523726,
+          "initialization": 0
+        }
+      },
+      "a031c634-0284-4667-94bf-293bd7f8c2d9": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495793.388494",
+          "container_id": "9cbfa725",
+          "end": "1728495793.738366",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "a031c634-0284-4667-94bf-293bd7f8c2d9",
+          "result": {
+            "measurement": {
+              "compute_time": 324610.0,
+              "download_time": 22007.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a031c634-0284-4667-94bf-293bd7f8c2d9",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 349872,
+          "client": 1040542,
+          "client_begin": "2024-10-09 10:43:09.059616",
+          "client_end": "2024-10-09 10:43:10.100158",
+          "http_first_byte_return": 1.040476,
+          "http_startup": 0.514716,
+          "initialization": 0
+        }
+      },
+      "aa99fbbe-ecd1-42a1-9608-b0307dee1b34": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495789.154824",
+          "container_id": "9cbfa725",
+          "end": "1728495789.473382",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "aa99fbbe-ecd1-42a1-9608-b0307dee1b34",
+          "result": {
+            "measurement": {
+              "compute_time": 300009.0,
+              "download_time": 17750.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "aa99fbbe-ecd1-42a1-9608-b0307dee1b34",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 318558,
+          "client": 1109251,
+          "client_begin": "2024-10-09 10:43:04.724406",
+          "client_end": "2024-10-09 10:43:05.833657",
+          "http_first_byte_return": 1.109174,
+          "http_startup": 0.593061,
+          "initialization": 0
+        }
+      },
+      "ac16472b-eaa6-4ea5-a33e-5577da3eddfb": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495794.591004",
+          "container_id": "9cbfa725",
+          "end": "1728495794.905891",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "ac16472b-eaa6-4ea5-a33e-5577da3eddfb",
+          "result": {
+            "measurement": {
+              "compute_time": 293350.0,
+              "download_time": 18651.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ac16472b-eaa6-4ea5-a33e-5577da3eddfb",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 314887,
+          "client": 1188289,
+          "client_begin": "2024-10-09 10:43:10.101579",
+          "client_end": "2024-10-09 10:43:11.289868",
+          "http_first_byte_return": 1.186451,
+          "http_startup": 0.647002,
+          "initialization": 0
+        }
+      },
+      "ade2cd50-a447-47dc-8218-22c2f2509f3f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495792.380480",
+          "container_id": "9cbfa725",
+          "end": "1728495792.692155",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "ade2cd50-a447-47dc-8218-22c2f2509f3f",
+          "result": {
+            "measurement": {
+              "compute_time": 288498.0,
+              "download_time": 22338.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ade2cd50-a447-47dc-8218-22c2f2509f3f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 311675,
+          "client": 1040584,
+          "client_begin": "2024-10-09 10:43:08.017591",
+          "client_end": "2024-10-09 10:43:09.058175",
+          "http_first_byte_return": 1.040515,
+          "http_startup": 0.529303,
+          "initialization": 0
+        }
+      },
+      "d44658e3-9a35-4a18-96a4-0f3eefcf0b13": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495803.273675",
+          "container_id": "9cbfa725",
+          "end": "1728495803.648573",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "d44658e3-9a35-4a18-96a4-0f3eefcf0b13",
+          "result": {
+            "measurement": {
+              "compute_time": 349539.0,
+              "download_time": 24283.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "d44658e3-9a35-4a18-96a4-0f3eefcf0b13",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 374898,
+          "client": 1060928,
+          "client_begin": "2024-10-09 10:43:18.944715",
+          "client_end": "2024-10-09 10:43:20.005643",
+          "http_first_byte_return": 1.060865,
+          "http_startup": 0.512544,
+          "initialization": 0
+        }
+      },
+      "df4ca6d7-c6a8-40ef-8a54-a466401a1743": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495810.517615",
+          "container_id": "9cbfa725",
+          "end": "1728495810.849920",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "df4ca6d7-c6a8-40ef-8a54-a466401a1743",
+          "result": {
+            "measurement": {
+              "compute_time": 308530.0,
+              "download_time": 22667.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "df4ca6d7-c6a8-40ef-8a54-a466401a1743",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 332305,
+          "client": 1048111,
+          "client_begin": "2024-10-09 10:43:26.164780",
+          "client_end": "2024-10-09 10:43:27.212891",
+          "http_first_byte_return": 1.043613,
+          "http_startup": 0.534185,
+          "initialization": 0
+        }
+      },
+      "e505eb63-ab16-4c2e-b590-4f26bb525d16": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495797.777912",
+          "container_id": "9cbfa725",
+          "end": "1728495798.241372",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "e505eb63-ab16-4c2e-b590-4f26bb525d16",
+          "result": {
+            "measurement": {
+              "compute_time": 443091.0,
+              "download_time": 19185.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e505eb63-ab16-4c2e-b590-4f26bb525d16",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 463460,
+          "client": 1205008,
+          "client_begin": "2024-10-09 10:43:13.404868",
+          "client_end": "2024-10-09 10:43:14.609876",
+          "http_first_byte_return": 1.204951,
+          "http_startup": 0.548278,
+          "initialization": 0
+        }
+      },
+      "ecc624dc-75d7-486d-bd8b-b3d46cb98317": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495805.804013",
+          "container_id": "9cbfa725",
+          "end": "1728495806.201966",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "ecc624dc-75d7-486d-bd8b-b3d46cb98317",
+          "result": {
+            "measurement": {
+              "compute_time": 378962.0,
+              "download_time": 16677.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ecc624dc-75d7-486d-bd8b-b3d46cb98317",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 397953,
+          "client": 1112880,
+          "client_begin": "2024-10-09 10:43:21.447300",
+          "client_end": "2024-10-09 10:43:22.560180",
+          "http_first_byte_return": 1.112808,
+          "http_startup": 0.520065,
+          "initialization": 0
+        }
+      },
+      "f4110ab6-1575-4505-ad5a-6bc8ef834633": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495801.121706",
+          "container_id": "9cbfa725",
+          "end": "1728495801.441168",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f4110ab6-1575-4505-ad5a-6bc8ef834633",
+          "result": {
+            "measurement": {
+              "compute_time": 300655.0,
+              "download_time": 17584.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f4110ab6-1575-4505-ad5a-6bc8ef834633",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 319462,
+          "client": 1068600,
+          "client_begin": "2024-10-09 10:43:16.757311",
+          "client_end": "2024-10-09 10:43:17.825911",
+          "http_first_byte_return": 1.068528,
+          "http_startup": 0.551474,
+          "initialization": 0
+        }
+      },
+      "f7f02186-ec6c-4e60-b96d-3d1f901e9279": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495802.191536",
+          "container_id": "9cbfa725",
+          "end": "1728495802.582186",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f7f02186-ec6c-4e60-b96d-3d1f901e9279",
+          "result": {
+            "measurement": {
+              "compute_time": 376150.0,
+              "download_time": 13294.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f7f02186-ec6c-4e60-b96d-3d1f901e9279",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 390650,
+          "client": 1116182,
+          "client_begin": "2024-10-09 10:43:17.827040",
+          "client_end": "2024-10-09 10:43:18.943222",
+          "http_first_byte_return": 1.116128,
+          "http_startup": 0.531821,
+          "initialization": 0
+        }
+      },
+      "f84dd61d-0656-4e48-9f20-c314d30bf109": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1728495809.356325",
+          "container_id": "9cbfa725",
+          "end": "1728495809.800404",
+          "environ_container_id": "9F8BD11B-638640917832881021",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f84dd61d-0656-4e48-9f20-c314d30bf109",
+          "result": {
+            "measurement": {
+              "compute_time": 424508.0,
+              "download_time": 18518.0,
+              "model_download_time": 0.0,
+              "model_time": 0.0
+            },
+            "output": {
+              "class": "sports_car",
+              "idx": 817
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f84dd61d-0656-4e48-9f20-c314d30bf109",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 444079,
+          "client": 1162238,
+          "client_begin": "2024-10-09 10:43:25.000094",
+          "client_end": "2024-10-09 10:43:26.162332",
+          "http_first_byte_return": 1.161693,
+          "http_startup": 0.520644,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1728495760.109,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "subscription_id": "689c3ddd-d02d-43da-bcdd-ccd85db26b91"
+      },
+      "name": "azure",
+      "region": "westeurope",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-5ff7ed86",
+        "data_storage_account": {
+          "account_name": "storage5ff7ed86",
+          "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storage5ff7ed86;AccountKey=QXGiUKInDtoK0ZSAFys79iHk/nfRx4PfR4mOa7CrHTzitLH44yFgCIilaKAH+rSJmgRTgr2ZTn4j+AStc9wG6g==;BlobEndpoint=https://storage5ff7ed86.blob.core.windows.net/;FileEndpoint=https://storage5ff7ed86.file.core.windows.net/;QueueEndpoint=https://storage5ff7ed86.queue.core.windows.net/;TableEndpoint=https://storage5ff7ed86.table.core.windows.net/"
+        },
+        "resource_group": "sebs_resource_group_5ff7ed86",
+        "resources_id": "5ff7ed86",
+        "storage_accounts": [
+          {
+            "account_name": "function774cc628",
+            "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=function774cc628;AccountKey=J2f8iAlzA/yRsOoXklaF5Lqj3qNN3wexCXuBWn21f/xpYkCwuZgeTmmjl3r3/xe6scpsL0deXZqi+AStL3lX/w==;BlobEndpoint=https://function774cc628.blob.core.windows.net/;FileEndpoint=https://function774cc628.file.core.windows.net/;QueueEndpoint=https://function774cc628.queue.core.windows.net/;TableEndpoint=https://function774cc628.table.core.windows.net/"
+          },
+          {
+            "account_name": "function46fe70a6",
+            "connection_string": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=function46fe70a6;AccountKey=W2wz7l13IVU/KCNPgUpzOV0/+ysgBvj/vEUYmQlJUSFme2hjJPI91nz8Ej6kxA4KVPwZvmMQeuwJ+AStCxcpCA==;BlobEndpoint=https://function46fe70a6.blob.core.windows.net/;FileEndpoint=https://function46fe70a6.file.core.windows.net/;QueueEndpoint=https://function46fe70a6.queue.core.windows.net/;TableEndpoint=https://function46fe70a6.table.core.windows.net/"
+          }
+        ]
+      }
+    },
+    "experiments": {
+      "download_results": false,
+      "experiments": {
+        "eviction-model": {
+          "function_copy_idx": 0,
+          "invocations": 1,
+          "repetitions": 5,
+          "sleep": 1
+        },
+        "invocation-overhead": {
+          "N": 20,
+          "code_begin": 1048576,
+          "code_end": 261619712,
+          "code_points": 20,
+          "payload_begin": 1024,
+          "payload_end": 6251000,
+          "payload_points": 20,
+          "repetitions": 5,
+          "type": "payload"
+        },
+        "network-ping-pong": {
+          "invocations": 50,
+          "repetitions": 1000,
+          "threads": 1
+        },
+        "perf-cost": {
+          "benchmark": "110.dynamic-html",
+          "concurrent-invocations": 50,
+          "experiments": [
+            "cold",
+            "warm",
+            "burst",
+            "sequential"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128,
+            256
+          ],
+          "repetitions": 50
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1728495809.35508,
+  "result_bucket": null
+}

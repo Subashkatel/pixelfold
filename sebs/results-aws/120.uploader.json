@@ -1,0 +1,2539 @@
+{
+  "_invocations": {
+    "120_uploader_python_3_8": {
+      "01c48a5e-4a00-4df7-91d0-77e9fdab469c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367385.966978",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367386.477708",
+          "is_cold": false,
+          "request_id": "01c48a5e-4a00-4df7-91d0-77e9fdab469c",
+          "result": {
+            "measurement": {
+              "compute_time": 271086.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 239586.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.997049e4.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "01c48a5e-4a00-4df7-91d0-77e9fdab469c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 510730,
+          "client": 818880,
+          "client_begin": "2024-09-26 09:16:24.391744",
+          "client_end": "2024-09-26 09:16:25.210624",
+          "http_first_byte_return": 0.818796,
+          "http_startup": 0.197363,
+          "initialization": 0
+        }
+      },
+      "095618df-befe-4f37-a067-0b395e70732e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367392.348241",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367392.802230",
+          "is_cold": false,
+          "request_id": "095618df-befe-4f37-a067-0b395e70732e",
+          "result": {
+            "measurement": {
+              "compute_time": 249874.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 204058.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.24e706b7.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "095618df-befe-4f37-a067-0b395e70732e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 453989,
+          "client": -912009,
+          "client_begin": "2024-09-26 09:16:30.572299",
+          "client_end": "2024-09-26 09:16:29.660290",
+          "http_first_byte_return": 0.962221,
+          "http_startup": 0.32544,
+          "initialization": 0
+        }
+      },
+      "116e3ce4-ab73-4f3a-adc6-420d1e3d8dea": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367419.607800",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367420.057318",
+          "is_cold": false,
+          "request_id": "116e3ce4-ab73-4f3a-adc6-420d1e3d8dea",
+          "result": {
+            "measurement": {
+              "compute_time": 250513.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 198947.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.8e4f03e3.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "116e3ce4-ab73-4f3a-adc6-420d1e3d8dea",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 449518,
+          "client": 1097375,
+          "client_begin": "2024-09-26 09:16:55.867169",
+          "client_end": "2024-09-26 09:16:56.964544",
+          "http_first_byte_return": 1.097276,
+          "http_startup": 0.495746,
+          "initialization": 0
+        }
+      },
+      "1276018c-6b95-4e47-9be1-5b65a1da7c14": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367383.999287",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367384.488333",
+          "is_cold": false,
+          "request_id": "1276018c-6b95-4e47-9be1-5b65a1da7c14",
+          "result": {
+            "measurement": {
+              "compute_time": 258711.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 230278.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.b43a71fd.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1276018c-6b95-4e47-9be1-5b65a1da7c14",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 489046,
+          "client": 804584,
+          "client_begin": "2024-09-26 09:16:22.416830",
+          "client_end": "2024-09-26 09:16:23.221414",
+          "http_first_byte_return": 0.804478,
+          "http_startup": 0.211629,
+          "initialization": 0
+        }
+      },
+      "14b5595c-9333-445a-823a-ae633c77a750": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367423.109432",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367423.546570",
+          "is_cold": false,
+          "request_id": "14b5595c-9333-445a-823a-ae633c77a750",
+          "result": {
+            "measurement": {
+              "compute_time": 268270.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 168811.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.b45b3cf4.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "14b5595c-9333-445a-823a-ae633c77a750",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 437138,
+          "client": 746836,
+          "client_begin": "2024-09-26 09:17:01.521421",
+          "client_end": "2024-09-26 09:17:02.268257",
+          "http_first_byte_return": 0.746764,
+          "http_startup": 0.196666,
+          "initialization": 0
+        }
+      },
+      "1d245073-8feb-49a6-b45d-c4a91179c6cd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367377.200143",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367377.706738",
+          "is_cold": false,
+          "request_id": "1d245073-8feb-49a6-b45d-c4a91179c6cd",
+          "result": {
+            "measurement": {
+              "compute_time": 258032.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 248505.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.209cb3ff.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1d245073-8feb-49a6-b45d-c4a91179c6cd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 506595,
+          "client": 841259,
+          "client_begin": "2024-09-26 09:16:15.598713",
+          "client_end": "2024-09-26 09:16:16.439972",
+          "http_first_byte_return": 0.8412,
+          "http_startup": 0.228109,
+          "initialization": 0
+        }
+      },
+      "2c6ae7da-f1b3-4d09-8b55-cead6b8afb2d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367402.491828",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367402.866703",
+          "is_cold": false,
+          "request_id": "2c6ae7da-f1b3-4d09-8b55-cead6b8afb2d",
+          "result": {
+            "measurement": {
+              "compute_time": 246275.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 128547.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.22cfdc33.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "2c6ae7da-f1b3-4d09-8b55-cead6b8afb2d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 374875,
+          "client": 690488,
+          "client_begin": "2024-09-26 09:16:39.036988",
+          "client_end": "2024-09-26 09:16:39.727476",
+          "http_first_byte_return": 0.690412,
+          "http_startup": 0.202861,
+          "initialization": 0
+        }
+      },
+      "311c7f12-a188-4693-a0fe-321d27ee1602": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367409.899633",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367410.345713",
+          "is_cold": false,
+          "request_id": "311c7f12-a188-4693-a0fe-321d27ee1602",
+          "result": {
+            "measurement": {
+              "compute_time": 258449.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 187572.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.3c7bc0a1.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "311c7f12-a188-4693-a0fe-321d27ee1602",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 446080,
+          "client": 757051,
+          "client_begin": "2024-09-26 09:16:46.446021",
+          "client_end": "2024-09-26 09:16:47.203072",
+          "http_first_byte_return": 0.75699,
+          "http_startup": 0.202442,
+          "initialization": 0
+        }
+      },
+      "423bf91e-21fc-4e32-a5a2-954dff9a90b5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367378.033234",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367378.600642",
+          "is_cold": false,
+          "request_id": "423bf91e-21fc-4e32-a5a2-954dff9a90b5",
+          "result": {
+            "measurement": {
+              "compute_time": 245005.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 322348.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.b75778a4.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "423bf91e-21fc-4e32-a5a2-954dff9a90b5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 567408,
+          "client": 986937,
+          "client_begin": "2024-09-26 09:16:16.442018",
+          "client_end": "2024-09-26 09:16:17.428955",
+          "http_first_byte_return": 0.98689,
+          "http_startup": 0.208775,
+          "initialization": 0
+        }
+      },
+      "4ab5d551-7ee0-49b8-821f-2dcb17bef2bf": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367369.525159",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367374.898090",
+          "is_cold": true,
+          "request_id": "4ab5d551-7ee0-49b8-821f-2dcb17bef2bf",
+          "result": {
+            "measurement": {
+              "compute_time": 360926.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 357446.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.112dc8bd.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4ab5d551-7ee0-49b8-821f-2dcb17bef2bf",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 5372931,
+          "client": 6320680,
+          "client_begin": "2024-09-26 09:16:07.616577",
+          "client_end": "2024-09-26 09:16:13.937257",
+          "http_first_byte_return": 6.315109,
+          "http_startup": 0.229021,
+          "initialization": 0
+        }
+      },
+      "4d913c99-68b1-43d8-90c6-feaa6a97a9bd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367412.248244",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367412.769824",
+          "is_cold": false,
+          "request_id": "4d913c99-68b1-43d8-90c6-feaa6a97a9bd",
+          "result": {
+            "measurement": {
+              "compute_time": 250065.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 271459.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.cda25d15.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4d913c99-68b1-43d8-90c6-feaa6a97a9bd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 521580,
+          "client": 917535,
+          "client_begin": "2024-09-26 09:16:48.802626",
+          "client_end": "2024-09-26 09:16:49.720161",
+          "http_first_byte_return": 0.917462,
+          "http_startup": 0.196582,
+          "initialization": 0
+        }
+      },
+      "4fc79b15-f8ad-48e5-890e-00f3abf6d05b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367411.449863",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367411.874086",
+          "is_cold": false,
+          "request_id": "4fc79b15-f8ad-48e5-890e-00f3abf6d05b",
+          "result": {
+            "measurement": {
+              "compute_time": 268263.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 155902.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.f2ada40e.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4fc79b15-f8ad-48e5-890e-00f3abf6d05b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 424223,
+          "client": 817487,
+          "client_begin": "2024-09-26 09:16:47.982323",
+          "client_end": "2024-09-26 09:16:48.799810",
+          "http_first_byte_return": 0.817404,
+          "http_startup": 0.21481,
+          "initialization": 0
+        }
+      },
+      "50361d7a-2d00-4376-ba6d-c21bce9a59ea": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367381.142124",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367381.660290",
+          "is_cold": false,
+          "request_id": "50361d7a-2d00-4376-ba6d-c21bce9a59ea",
+          "result": {
+            "measurement": {
+              "compute_time": 255790.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 262321.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.d216075a.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "50361d7a-2d00-4376-ba6d-c21bce9a59ea",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 518166,
+          "client": 1855392,
+          "client_begin": "2024-09-26 09:16:18.563101",
+          "client_end": "2024-09-26 09:16:20.418493",
+          "http_first_byte_return": 1.855281,
+          "http_startup": 1.197978,
+          "initialization": 0
+        }
+      },
+      "515d2490-d86b-4fd1-b843-f7400365dbe6": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367420.432613",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367420.869401",
+          "is_cold": false,
+          "request_id": "515d2490-d86b-4fd1-b843-f7400365dbe6",
+          "result": {
+            "measurement": {
+              "compute_time": 245412.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 191322.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.0045e86b.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "515d2490-d86b-4fd1-b843-f7400365dbe6",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 436788,
+          "client": 759667,
+          "client_begin": "2024-09-26 09:16:56.967648",
+          "client_end": "2024-09-26 09:16:57.727315",
+          "http_first_byte_return": 0.759602,
+          "http_startup": 0.199083,
+          "initialization": 0
+        }
+      },
+      "559bec51-5476-417f-a08b-ae3f80b8c737": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367408.245384",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367408.696111",
+          "is_cold": false,
+          "request_id": "559bec51-5476-417f-a08b-ae3f80b8c737",
+          "result": {
+            "measurement": {
+              "compute_time": 272854.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 177816.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.4e81f890.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "559bec51-5476-417f-a08b-ae3f80b8c737",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 450727,
+          "client": 844989,
+          "client_begin": "2024-09-26 09:16:44.778875",
+          "client_end": "2024-09-26 09:16:45.623864",
+          "http_first_byte_return": 0.844918,
+          "http_startup": 0.226472,
+          "initialization": 0
+        }
+      },
+      "5a03f8c7-c174-44a3-8cf5-feb1c7d5213f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367423.857453",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367424.250196",
+          "is_cold": false,
+          "request_id": "5a03f8c7-c174-44a3-8cf5-feb1c7d5213f",
+          "result": {
+            "measurement": {
+              "compute_time": 261436.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 131248.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.ffc8db88.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5a03f8c7-c174-44a3-8cf5-feb1c7d5213f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 392743,
+          "client": 779411,
+          "client_begin": "2024-09-26 09:17:02.270663",
+          "client_end": "2024-09-26 09:17:03.050074",
+          "http_first_byte_return": 0.779275,
+          "http_startup": 0.196746,
+          "initialization": 0
+        }
+      },
+      "5e14c17f-7693-450e-8d68-d94028607b84": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367410.662648",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367411.079319",
+          "is_cold": false,
+          "request_id": "5e14c17f-7693-450e-8d68-d94028607b84",
+          "result": {
+            "measurement": {
+              "compute_time": 275413.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 141200.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.bcc3db51.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5e14c17f-7693-450e-8d68-d94028607b84",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 416671,
+          "client": 775018,
+          "client_begin": "2024-09-26 09:16:47.204872",
+          "client_end": "2024-09-26 09:16:47.979890",
+          "http_first_byte_return": 0.774947,
+          "http_startup": 0.205996,
+          "initialization": 0
+        }
+      },
+      "61b00083-b5cb-4684-91db-bcb218a5fc40": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367413.910263",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367414.269118",
+          "is_cold": false,
+          "request_id": "61b00083-b5cb-4684-91db-bcb218a5fc40",
+          "result": {
+            "measurement": {
+              "compute_time": 247828.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 110974.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.690ce301.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "61b00083-b5cb-4684-91db-bcb218a5fc40",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 358855,
+          "client": 1107965,
+          "client_begin": "2024-09-26 09:16:50.455855",
+          "client_end": "2024-09-26 09:16:51.563820",
+          "http_first_byte_return": 1.107879,
+          "http_startup": 0.201805,
+          "initialization": 0
+        }
+      },
+      "63a0d893-650a-4bbf-a6c4-96c5a60f8adc": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367421.238382",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367421.810583",
+          "is_cold": false,
+          "request_id": "63a0d893-650a-4bbf-a6c4-96c5a60f8adc",
+          "result": {
+            "measurement": {
+              "compute_time": 259639.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 312503.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.ebc0b99d.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "63a0d893-650a-4bbf-a6c4-96c5a60f8adc",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 572201,
+          "client": 1036365,
+          "client_begin": "2024-09-26 09:16:57.729247",
+          "client_end": "2024-09-26 09:16:58.765612",
+          "http_first_byte_return": 1.036289,
+          "http_startup": 0.248853,
+          "initialization": 0
+        }
+      },
+      "64cbdf83-ad36-4c1e-945e-a06582d3096c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367407.551417",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367407.920143",
+          "is_cold": false,
+          "request_id": "64cbdf83-ad36-4c1e-945e-a06582d3096c",
+          "result": {
+            "measurement": {
+              "compute_time": 246649.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 122021.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.8f2a67d7.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "64cbdf83-ad36-4c1e-945e-a06582d3096c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 368726,
+          "client": 691300,
+          "client_begin": "2024-09-26 09:16:44.085682",
+          "client_end": "2024-09-26 09:16:44.776982",
+          "http_first_byte_return": 0.691234,
+          "http_startup": 0.211597,
+          "initialization": 0
+        }
+      },
+      "67927e5d-5ad6-481d-ae07-a0b1310afe9a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367375.528263",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367376.054772",
+          "is_cold": false,
+          "request_id": "67927e5d-5ad6-481d-ae07-a0b1310afe9a",
+          "result": {
+            "measurement": {
+              "compute_time": 250129.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 276322.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.dc87630b.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "67927e5d-5ad6-481d-ae07-a0b1310afe9a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 526509,
+          "client": 850412,
+          "client_begin": "2024-09-26 09:16:13.939414",
+          "client_end": "2024-09-26 09:16:14.789826",
+          "http_first_byte_return": 0.850344,
+          "http_startup": 0.215296,
+          "initialization": 0
+        }
+      },
+      "71129e5e-dd8f-4276-8f30-e399031a93a6": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367397.327143",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367397.757786",
+          "is_cold": false,
+          "request_id": "71129e5e-dd8f-4276-8f30-e399031a93a6",
+          "result": {
+            "measurement": {
+              "compute_time": 251037.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 179549.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.4971fc02.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "71129e5e-dd8f-4276-8f30-e399031a93a6",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 430643,
+          "client": 750569,
+          "client_begin": "2024-09-26 09:16:33.865858",
+          "client_end": "2024-09-26 09:16:34.616427",
+          "http_first_byte_return": 0.750515,
+          "http_startup": 0.208105,
+          "initialization": 0
+        }
+      },
+      "7814fd00-48cc-474d-8342-591e0c4002c1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367404.115068",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367404.635511",
+          "is_cold": false,
+          "request_id": "7814fd00-48cc-474d-8342-591e0c4002c1",
+          "result": {
+            "measurement": {
+              "compute_time": 263002.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 257385.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.ec304bc8.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7814fd00-48cc-474d-8342-591e0c4002c1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 520443,
+          "client": 856644,
+          "client_begin": "2024-09-26 09:16:40.671173",
+          "client_end": "2024-09-26 09:16:41.527817",
+          "http_first_byte_return": 0.856569,
+          "http_startup": 0.195697,
+          "initialization": 0
+        }
+      },
+      "82aaf7da-ba6b-4372-8255-2907ecccfd19": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367379.293087",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367379.826775",
+          "is_cold": false,
+          "request_id": "82aaf7da-ba6b-4372-8255-2907ecccfd19",
+          "result": {
+            "measurement": {
+              "compute_time": 245200.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 288431.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.7fbba28f.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "82aaf7da-ba6b-4372-8255-2907ecccfd19",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 533688,
+          "client": 1128145,
+          "client_begin": "2024-09-26 09:16:17.432032",
+          "client_end": "2024-09-26 09:16:18.560177",
+          "http_first_byte_return": 1.128057,
+          "http_startup": 0.484656,
+          "initialization": 0
+        }
+      },
+      "87f76eb6-49a9-4162-bddf-0a724db0b01a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367401.779107",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367402.177675",
+          "is_cold": false,
+          "request_id": "87f76eb6-49a9-4162-bddf-0a724db0b01a",
+          "result": {
+            "measurement": {
+              "compute_time": 258999.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 139508.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.1f17573d.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "87f76eb6-49a9-4162-bddf-0a724db0b01a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 398568,
+          "client": 1946411,
+          "client_begin": "2024-09-26 09:16:37.088891",
+          "client_end": "2024-09-26 09:16:39.035302",
+          "http_first_byte_return": 1.946298,
+          "http_startup": 1.439897,
+          "initialization": 0
+        }
+      },
+      "8c060fb4-d39e-47c2-a026-c93c2f32bd7e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367394.603988",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367395.076216",
+          "is_cold": false,
+          "request_id": "8c060fb4-d39e-47c2-a026-c93c2f32bd7e",
+          "result": {
+            "measurement": {
+              "compute_time": 254066.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 218102.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.9d5ca23b.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8c060fb4-d39e-47c2-a026-c93c2f32bd7e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 472228,
+          "client": 2305188,
+          "client_begin": "2024-09-26 09:16:29.662265",
+          "client_end": "2024-09-26 09:16:31.967453",
+          "http_first_byte_return": 2.305119,
+          "http_startup": 1.687916,
+          "initialization": 0
+        }
+      },
+      "94e07132-b3f2-40c7-8843-dde61ee7b894": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367399.742141",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367400.229238",
+          "is_cold": false,
+          "request_id": "94e07132-b3f2-40c7-8843-dde61ee7b894",
+          "result": {
+            "measurement": {
+              "compute_time": 275965.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 211075.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.7705e079.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "94e07132-b3f2-40c7-8843-dde61ee7b894",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 487097,
+          "client": 824056,
+          "client_begin": "2024-09-26 09:16:36.262995",
+          "client_end": "2024-09-26 09:16:37.087051",
+          "http_first_byte_return": 0.823994,
+          "http_startup": 0.226107,
+          "initialization": 0
+        }
+      },
+      "95945a69-fca3-4951-98e1-e03f710635bf": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367416.613734",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367417.105135",
+          "is_cold": false,
+          "request_id": "95945a69-fca3-4951-98e1-e03f710635bf",
+          "result": {
+            "measurement": {
+              "compute_time": 264366.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 226977.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.00207289.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "95945a69-fca3-4951-98e1-e03f710635bf",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 491401,
+          "client": 814974,
+          "client_begin": "2024-09-26 09:16:53.159022",
+          "client_end": "2024-09-26 09:16:53.973996",
+          "http_first_byte_return": 0.814909,
+          "http_startup": 0.201762,
+          "initialization": 0
+        }
+      },
+      "96137efb-8274-4280-8844-573f25ca0bc1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367409.069487",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367409.485087",
+          "is_cold": false,
+          "request_id": "96137efb-8274-4280-8844-573f25ca0bc1",
+          "result": {
+            "measurement": {
+              "compute_time": 248512.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 166985.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.5627fd55.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "96137efb-8274-4280-8844-573f25ca0bc1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 415600,
+          "client": 817848,
+          "client_begin": "2024-09-26 09:16:45.626020",
+          "client_end": "2024-09-26 09:16:46.443868",
+          "http_first_byte_return": 0.817734,
+          "http_startup": 0.192746,
+          "initialization": 0
+        }
+      },
+      "9929f043-a648-4ae4-9dee-f1633907f4d5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367388.977023",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367389.357856",
+          "is_cold": false,
+          "request_id": "9929f043-a648-4ae4-9dee-f1633907f4d5",
+          "result": {
+            "measurement": {
+              "compute_time": 262046.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 118728.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.8ca1877e.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9929f043-a648-4ae4-9dee-f1633907f4d5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 380833,
+          "client": 1944456,
+          "client_begin": "2024-09-26 09:16:26.376320",
+          "client_end": "2024-09-26 09:16:28.320776",
+          "http_first_byte_return": 1.944398,
+          "http_startup": 1.21598,
+          "initialization": 0
+        }
+      },
+      "9b12d1f7-8993-4431-b4fa-d25b16f69eb1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367418.325094",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367418.910135",
+          "is_cold": false,
+          "request_id": "9b12d1f7-8993-4431-b4fa-d25b16f69eb1",
+          "result": {
+            "measurement": {
+              "compute_time": 272876.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 312111.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.dacdd81a.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9b12d1f7-8993-4431-b4fa-d25b16f69eb1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 585041,
+          "client": 1018991,
+          "client_begin": "2024-09-26 09:16:54.845281",
+          "client_end": "2024-09-26 09:16:55.864272",
+          "http_first_byte_return": 1.018909,
+          "http_startup": 0.233785,
+          "initialization": 0
+        }
+      },
+      "9b676bd1-4fd7-4d33-a1e3-4e3bb48973d0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367398.062952",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367398.577741",
+          "is_cold": false,
+          "request_id": "9b676bd1-4fd7-4d33-a1e3-4e3bb48973d0",
+          "result": {
+            "measurement": {
+              "compute_time": 255093.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 259635.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.c7cd2c57.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9b676bd1-4fd7-4d33-a1e3-4e3bb48973d0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 514789,
+          "client": 817363,
+          "client_begin": "2024-09-26 09:16:34.618735",
+          "client_end": "2024-09-26 09:16:35.436098",
+          "http_first_byte_return": 0.817299,
+          "http_startup": 0.200428,
+          "initialization": 0
+        }
+      },
+      "a3177389-7e97-48f0-8eae-1819a840a176": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367385.141836",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367385.656624",
+          "is_cold": false,
+          "request_id": "a3177389-7e97-48f0-8eae-1819a840a176",
+          "result": {
+            "measurement": {
+              "compute_time": 275985.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 238749.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.5c6330bc.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a3177389-7e97-48f0-8eae-1819a840a176",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 514788,
+          "client": 845061,
+          "client_begin": "2024-09-26 09:16:23.544855",
+          "client_end": "2024-09-26 09:16:24.389916",
+          "http_first_byte_return": 0.844993,
+          "http_startup": 0.21372,
+          "initialization": 0
+        }
+      },
+      "ac3c057c-8547-4d71-b92b-fae49453c1a0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367398.893198",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367399.403488",
+          "is_cold": false,
+          "request_id": "ac3c057c-8547-4d71-b92b-fae49453c1a0",
+          "result": {
+            "measurement": {
+              "compute_time": 284508.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 225725.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.da03e462.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ac3c057c-8547-4d71-b92b-fae49453c1a0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 510290,
+          "client": 821869,
+          "client_begin": "2024-09-26 09:16:35.439008",
+          "client_end": "2024-09-26 09:16:36.260877",
+          "http_first_byte_return": 0.821802,
+          "http_startup": 0.197597,
+          "initialization": 0
+        }
+      },
+      "b22a30be-73a8-47c9-8107-09e044cf0ebe": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367383.284920",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367383.679785",
+          "is_cold": false,
+          "request_id": "b22a30be-73a8-47c9-8107-09e044cf0ebe",
+          "result": {
+            "measurement": {
+              "compute_time": 273062.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 121743.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.eeeab04c.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b22a30be-73a8-47c9-8107-09e044cf0ebe",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 394865,
+          "client": 721072,
+          "client_begin": "2024-09-26 09:16:21.692268",
+          "client_end": "2024-09-26 09:16:22.413340",
+          "http_first_byte_return": 0.720968,
+          "http_startup": 0.200443,
+          "initialization": 0
+        }
+      },
+      "b2b21499-749c-4158-9d9d-bc66d53acfff": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367391.423902",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367391.837705",
+          "is_cold": false,
+          "request_id": "b2b21499-749c-4158-9d9d-bc66d53acfff",
+          "result": {
+            "measurement": {
+              "compute_time": 274047.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 139694.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.2c16f98a.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b2b21499-749c-4158-9d9d-bc66d53acfff",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 413803,
+          "client": 1349031,
+          "client_begin": "2024-09-26 09:16:29.221220",
+          "client_end": "2024-09-26 09:16:30.570251",
+          "http_first_byte_return": 1.348959,
+          "http_startup": 0.825066,
+          "initialization": 0
+        }
+      },
+      "b5ddf7a4-79be-44c5-96fe-26f5f37d032f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367424.637697",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367424.997694",
+          "is_cold": false,
+          "request_id": "b5ddf7a4-79be-44c5-96fe-26f5f37d032f",
+          "result": {
+            "measurement": {
+              "compute_time": 223314.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 136629.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.0004511d.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b5ddf7a4-79be-44c5-96fe-26f5f37d032f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 359997,
+          "client": 716515,
+          "client_begin": "2024-09-26 09:17:03.052773",
+          "client_end": "2024-09-26 09:17:03.769288",
+          "http_first_byte_return": 0.716352,
+          "http_startup": 0.191676,
+          "initialization": 0
+        }
+      },
+      "b8d9fabe-81fd-418c-99ab-798a4685ddbb": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367382.530703",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367382.956055",
+          "is_cold": false,
+          "request_id": "b8d9fabe-81fd-418c-99ab-798a4685ddbb",
+          "result": {
+            "measurement": {
+              "compute_time": 247197.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 178097.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.5bb5d982.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b8d9fabe-81fd-418c-99ab-798a4685ddbb",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 425352,
+          "client": 1268149,
+          "client_begin": "2024-09-26 09:16:20.422309",
+          "client_end": "2024-09-26 09:16:21.690458",
+          "http_first_byte_return": 1.268082,
+          "http_startup": 0.729833,
+          "initialization": 0
+        }
+      },
+      "bbd89978-4937-495f-b54e-cd7714b98f7e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367376.416124",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367376.858109",
+          "is_cold": false,
+          "request_id": "bbd89978-4937-495f-b54e-cd7714b98f7e",
+          "result": {
+            "measurement": {
+              "compute_time": 262031.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 179890.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.6129831b.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "bbd89978-4937-495f-b54e-cd7714b98f7e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 441985,
+          "client": 805448,
+          "client_begin": "2024-09-26 09:16:14.791704",
+          "client_end": "2024-09-26 09:16:15.597152",
+          "http_first_byte_return": 0.805394,
+          "http_startup": 0.240315,
+          "initialization": 0
+        }
+      },
+      "c656b799-aae0-44a9-8dfb-13815072e4b1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367405.001208",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367405.509024",
+          "is_cold": false,
+          "request_id": "c656b799-aae0-44a9-8dfb-13815072e4b1",
+          "result": {
+            "measurement": {
+              "compute_time": 256821.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 250940.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.ded0c4a3.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "c656b799-aae0-44a9-8dfb-13815072e4b1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 507816,
+          "client": 838162,
+          "client_begin": "2024-09-26 09:16:41.529850",
+          "client_end": "2024-09-26 09:16:42.368012",
+          "http_first_byte_return": 0.838026,
+          "http_startup": 0.213496,
+          "initialization": 0
+        }
+      },
+      "cbb99197-dc61-41a6-a484-b30ef833b68e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367405.815926",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367406.256282",
+          "is_cold": false,
+          "request_id": "cbb99197-dc61-41a6-a484-b30ef833b68e",
+          "result": {
+            "measurement": {
+              "compute_time": 281931.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 158369.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.476b2482.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "cbb99197-dc61-41a6-a484-b30ef833b68e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 440356,
+          "client": 899089,
+          "client_begin": "2024-09-26 09:16:42.369658",
+          "client_end": "2024-09-26 09:16:43.268747",
+          "http_first_byte_return": 0.899007,
+          "http_startup": 0.198724,
+          "initialization": 0
+        }
+      },
+      "d77fcd8f-77c7-444b-aed9-3f2f4961b4fa": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367403.186415",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367403.809870",
+          "is_cold": false,
+          "request_id": "d77fcd8f-77c7-444b-aed9-3f2f4961b4fa",
+          "result": {
+            "measurement": {
+              "compute_time": 271766.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 351633.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.c6127bdb.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "d77fcd8f-77c7-444b-aed9-3f2f4961b4fa",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 623455,
+          "client": 939001,
+          "client_begin": "2024-09-26 09:16:39.729959",
+          "client_end": "2024-09-26 09:16:40.668960",
+          "http_first_byte_return": 0.938935,
+          "http_startup": 0.193327,
+          "initialization": 0
+        }
+      },
+      "dca69bf7-89d7-42d8-a8ba-f675d2ab762d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367396.606685",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367397.005527",
+          "is_cold": false,
+          "request_id": "dca69bf7-89d7-42d8-a8ba-f675d2ab762d",
+          "result": {
+            "measurement": {
+              "compute_time": 251403.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 147370.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.0b08fa02.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "dca69bf7-89d7-42d8-a8ba-f675d2ab762d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 398842,
+          "client": 732137,
+          "client_begin": "2024-09-26 09:16:33.131875",
+          "client_end": "2024-09-26 09:16:33.864012",
+          "http_first_byte_return": 0.732058,
+          "http_startup": 0.223766,
+          "initialization": 0
+        }
+      },
+      "e512fce4-e573-4361-a455-b585c91c4027": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367386.961298",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367387.639667",
+          "is_cold": false,
+          "request_id": "e512fce4-e573-4361-a455-b585c91c4027",
+          "result": {
+            "measurement": {
+              "compute_time": 256930.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 421385.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.3b10ea08.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e512fce4-e573-4361-a455-b585c91c4027",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 678369,
+          "client": 1160073,
+          "client_begin": "2024-09-26 09:16:25.213707",
+          "client_end": "2024-09-26 09:16:26.373780",
+          "http_first_byte_return": 1.159979,
+          "http_startup": 0.366952,
+          "initialization": 0
+        }
+      },
+      "e7617bed-408b-4814-87c5-ee7c425688ff": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367415.012646",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367415.485923",
+          "is_cold": false,
+          "request_id": "e7617bed-408b-4814-87c5-ee7c425688ff",
+          "result": {
+            "measurement": {
+              "compute_time": 245375.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 227846.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.eaa907c2.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e7617bed-408b-4814-87c5-ee7c425688ff",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 473277,
+          "client": 814309,
+          "client_begin": "2024-09-26 09:16:51.567460",
+          "client_end": "2024-09-26 09:16:52.381769",
+          "http_first_byte_return": 0.814229,
+          "http_startup": 0.204018,
+          "initialization": 0
+        }
+      },
+      "eb32e9f9-dd33-4e40-acdc-df61a8bfeddd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367422.217021",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367422.705385",
+          "is_cold": false,
+          "request_id": "eb32e9f9-dd33-4e40-acdc-df61a8bfeddd",
+          "result": {
+            "measurement": {
+              "compute_time": 261043.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 227264.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.1018e9b4.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "eb32e9f9-dd33-4e40-acdc-df61a8bfeddd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 488364,
+          "client": 2751656,
+          "client_begin": "2024-09-26 09:16:58.767714",
+          "client_end": "2024-09-26 09:17:01.519370",
+          "http_first_byte_return": 0.888177,
+          "http_startup": 0.197054,
+          "initialization": 0
+        }
+      },
+      "ed681a0f-fd39-4649-891b-f4598b7deadf": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367415.822488",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367416.297824",
+          "is_cold": false,
+          "request_id": "ed681a0f-fd39-4649-891b-f4598b7deadf",
+          "result": {
+            "measurement": {
+              "compute_time": 275392.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 199884.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.b36f2db1.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ed681a0f-fd39-4649-891b-f4598b7deadf",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 475336,
+          "client": 772509,
+          "client_begin": "2024-09-26 09:16:52.384457",
+          "client_end": "2024-09-26 09:16:53.156966",
+          "http_first_byte_return": 0.772352,
+          "http_startup": 0.189868,
+          "initialization": 0
+        }
+      },
+      "ee467965-d4bf-44ad-95fe-6c9904ac2738": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367406.729181",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367407.223856",
+          "is_cold": false,
+          "request_id": "ee467965-d4bf-44ad-95fe-6c9904ac2738",
+          "result": {
+            "measurement": {
+              "compute_time": 268560.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 226057.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.8718aa40.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ee467965-d4bf-44ad-95fe-6c9904ac2738",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 494675,
+          "client": 812292,
+          "client_begin": "2024-09-26 09:16:43.270585",
+          "client_end": "2024-09-26 09:16:44.082877",
+          "http_first_byte_return": 0.812219,
+          "http_startup": 0.207375,
+          "initialization": 0
+        }
+      },
+      "f0f61a97-ff2c-42a8-a825-89629142c936": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367417.413722",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367417.857012",
+          "is_cold": false,
+          "request_id": "f0f61a97-ff2c-42a8-a825-89629142c936",
+          "result": {
+            "measurement": {
+              "compute_time": 264351.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 178882.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.a368c06d.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f0f61a97-ff2c-42a8-a825-89629142c936",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 443290,
+          "client": 868030,
+          "client_begin": "2024-09-26 09:16:53.975716",
+          "client_end": "2024-09-26 09:16:54.843746",
+          "http_first_byte_return": 0.867987,
+          "http_startup": 0.186761,
+          "initialization": 0
+        }
+      },
+      "f6ff91f0-b324-499f-ab88-93c51bbe82e7": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1727367413.161597",
+          "cold_start_var": "",
+          "container_id": "1c575801",
+          "end": "1727367413.596229",
+          "is_cold": false,
+          "request_id": "f6ff91f0-b324-499f-ab88-93c51bbe82e7",
+          "result": {
+            "measurement": {
+              "compute_time": 276386.0,
+              "download_size": 0,
+              "download_time": 0,
+              "upload_size": 235408,
+              "upload_time": 158191.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-c96f19a4",
+              "key": "120.uploader-0-output/800px-Jammlich_crop.ec55b4b5.jpg",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jammlich_crop.jpg/800px-Jammlich_crop.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f6ff91f0-b324-499f-ab88-93c51bbe82e7",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 434632,
+          "client": 730829,
+          "client_begin": "2024-09-26 09:16:49.723047",
+          "client_end": "2024-09-26 09:16:50.453876",
+          "http_first_byte_return": 0.73075,
+          "http_startup": 0.185765,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1727367367.453545,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "account_id": "992382551008"
+      },
+      "name": "aws",
+      "region": "us-east-1",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-c96f19a4",
+        "deployment": "sebs-deployment-c96f19a4",
+        "http-apis": {
+          "220_video_processing_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:mr73g32xqc",
+            "endpoint": "https://mr73g32xqc.execute-api.us-east-1.amazonaws.com"
+          },
+          "411_image_recognition_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:c7el4k1zmh",
+            "endpoint": "https://c7el4k1zmh.execute-api.us-east-1.amazonaws.com"
+          },
+          "504_dna_visualisation_python_3_8-http-api": {
+            "arn": "arn:aws:execute-api:us-east-1:992382551008:h2dvki85ra",
+            "endpoint": "https://h2dvki85ra.execute-api.us-east-1.amazonaws.com"
+          }
+        },
+        "lambda-role": "arn:aws:iam::992382551008:role/sebs-lambda-role",
+        "resources_id": "c96f19a4"
+      }
+    },
+    "experiments": {
+      "download_results": false,
+      "experiments": {
+        "eviction-model": {
+          "function_copy_idx": 0,
+          "invocations": 1,
+          "repetitions": 5,
+          "sleep": 1
+        },
+        "invocation-overhead": {
+          "N": 20,
+          "code_begin": 1048576,
+          "code_end": 261619712,
+          "code_points": 20,
+          "payload_begin": 1024,
+          "payload_end": 6251000,
+          "payload_points": 20,
+          "repetitions": 5,
+          "type": "payload"
+        },
+        "network-ping-pong": {
+          "invocations": 50,
+          "repetitions": 1000,
+          "threads": 1
+        },
+        "perf-cost": {
+          "benchmark": "110.dynamic-html",
+          "concurrent-invocations": 50,
+          "experiments": [
+            "cold",
+            "warm",
+            "burst",
+            "sequential"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128,
+            256
+          ],
+          "repetitions": 50
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1727367423.771955,
+  "result_bucket": null
+}

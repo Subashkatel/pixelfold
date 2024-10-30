@@ -1,0 +1,2413 @@
+{
+  "_invocations": {
+    "210.thumbnailer-python-3.7": {
+      "06800ab9-6b25-4c24-955c-49c3c98b2336": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.311677",
+          "end": "1730223476.311689",
+          "is_cold": false,
+          "request_id": "06800ab9-6b25-4c24-955c-49c3c98b2336",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 125012.0,
+                "download_size": 3748850,
+                "download_time": 46278.0,
+                "upload_size": 5376,
+                "upload_time": 21523.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.484ea3f4.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "06800ab9-6b25-4c24-955c-49c3c98b2336",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 195734,
+          "client_begin": "2024-10-29 17:37:56.310719",
+          "client_end": "2024-10-29 17:37:56.506453",
+          "http_first_byte_return": 0.195217,
+          "http_startup": 0.000615,
+          "initialization": 0
+        }
+      },
+      "072d81ee-792d-4abe-a69a-4fe55bb00f4f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.524800",
+          "end": "1730223480.524811",
+          "is_cold": false,
+          "request_id": "072d81ee-792d-4abe-a69a-4fe55bb00f4f",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 72474.0,
+                "download_size": 3748850,
+                "download_time": 42329.0,
+                "upload_size": 5376,
+                "upload_time": 20948.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.c2719894.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "072d81ee-792d-4abe-a69a-4fe55bb00f4f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 139446,
+          "client_begin": "2024-10-29 17:38:00.524136",
+          "client_end": "2024-10-29 17:38:00.663582",
+          "http_first_byte_return": 0.138786,
+          "http_startup": 0.000236,
+          "initialization": 0
+        }
+      },
+      "09208eb3-03d7-4928-be88-037d0b19d139": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.819461",
+          "end": "1730223477.819475",
+          "is_cold": false,
+          "request_id": "09208eb3-03d7-4928-be88-037d0b19d139",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 78809.0,
+                "download_size": 3748850,
+                "download_time": 36097.0,
+                "upload_size": 5376,
+                "upload_time": 23875.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.6a60447b.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "09208eb3-03d7-4928-be88-037d0b19d139",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 14,
+          "client": 143375,
+          "client_begin": "2024-10-29 17:37:57.816584",
+          "client_end": "2024-10-29 17:37:57.959959",
+          "http_first_byte_return": 0.142695,
+          "http_startup": 0.002372,
+          "initialization": 0
+        }
+      },
+      "0ec7bc9f-c7c8-4717-a8c0-ff615f4283a1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.852324",
+          "end": "1730223479.852343",
+          "is_cold": false,
+          "request_id": "0ec7bc9f-c7c8-4717-a8c0-ff615f4283a1",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 93004.0,
+                "download_size": 3748850,
+                "download_time": 51194.0,
+                "upload_size": 5376,
+                "upload_time": 12638.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.53675535.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "0ec7bc9f-c7c8-4717-a8c0-ff615f4283a1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 19,
+          "client": 167235,
+          "client_begin": "2024-10-29 17:37:59.849501",
+          "client_end": "2024-10-29 17:38:00.016736",
+          "http_first_byte_return": 0.166914,
+          "http_startup": 0.002208,
+          "initialization": 0
+        }
+      },
+      "116c276a-ff3a-40ad-a7b0-acfff99bdc94": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.423589",
+          "end": "1730223480.423600",
+          "is_cold": false,
+          "request_id": "116c276a-ff3a-40ad-a7b0-acfff99bdc94",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 64224.0,
+                "download_size": 3748850,
+                "download_time": 16958.0,
+                "upload_size": 5376,
+                "upload_time": 17052.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.26b86245.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "116c276a-ff3a-40ad-a7b0-acfff99bdc94",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 100715,
+          "client_begin": "2024-10-29 17:38:00.422566",
+          "client_end": "2024-10-29 17:38:00.523281",
+          "http_first_byte_return": 0.100526,
+          "http_startup": 0.000659,
+          "initialization": 0
+        }
+      },
+      "124e7176-1a27-4415-a786-4d9044deb02f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.391277",
+          "end": "1730223481.391289",
+          "is_cold": false,
+          "request_id": "124e7176-1a27-4415-a786-4d9044deb02f",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 72591.0,
+                "download_size": 3748850,
+                "download_time": 40874.0,
+                "upload_size": 5376,
+                "upload_time": 27198.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.89c42cd3.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "124e7176-1a27-4415-a786-4d9044deb02f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 143319,
+          "client_begin": "2024-10-29 17:38:01.390323",
+          "client_end": "2024-10-29 17:38:01.533642",
+          "http_first_byte_return": 0.142738,
+          "http_startup": 0.000636,
+          "initialization": 0
+        }
+      },
+      "14fd6e63-e70e-481e-8862-44c5bcbc3321": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.390582",
+          "end": "1730223479.390601",
+          "is_cold": false,
+          "request_id": "14fd6e63-e70e-481e-8862-44c5bcbc3321",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 75018.0,
+                "download_size": 3748850,
+                "download_time": 32168.0,
+                "upload_size": 5376,
+                "upload_time": 27430.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.d6f645d6.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "14fd6e63-e70e-481e-8862-44c5bcbc3321",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 19,
+          "client": 137452,
+          "client_begin": "2024-10-29 17:37:59.389523",
+          "client_end": "2024-10-29 17:37:59.526975",
+          "http_first_byte_return": 0.136962,
+          "http_startup": 0.000412,
+          "initialization": 0
+        }
+      },
+      "1dc2c51b-12a2-4584-844a-3d1c39986be2": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.821443",
+          "end": "1730223481.821454",
+          "is_cold": false,
+          "request_id": "1dc2c51b-12a2-4584-844a-3d1c39986be2",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 68580.0,
+                "download_size": 3748850,
+                "download_time": 32834.0,
+                "upload_size": 5376,
+                "upload_time": 16243.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.0c0362ab.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1dc2c51b-12a2-4584-844a-3d1c39986be2",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 119938,
+          "client_begin": "2024-10-29 17:38:01.820551",
+          "client_end": "2024-10-29 17:38:01.940489",
+          "http_first_byte_return": 0.119504,
+          "http_startup": 0.000569,
+          "initialization": 0
+        }
+      },
+      "22f7e43b-d580-461b-935a-ea790d1b4f41": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.956461",
+          "end": "1730223476.956476",
+          "is_cold": false,
+          "request_id": "22f7e43b-d580-461b-935a-ea790d1b4f41",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 84600.0,
+                "download_size": 3748850,
+                "download_time": 38740.0,
+                "upload_size": 5376,
+                "upload_time": 27842.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.202140be.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "22f7e43b-d580-461b-935a-ea790d1b4f41",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 15,
+          "client": 157687,
+          "client_begin": "2024-10-29 17:37:56.955397",
+          "client_end": "2024-10-29 17:37:57.113084",
+          "http_first_byte_return": 0.157443,
+          "http_startup": 0.000316,
+          "initialization": 0
+        }
+      },
+      "23dbccd4-2c8a-4d01-ba4d-287354acbb4c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.360414",
+          "end": "1730223478.360445",
+          "is_cold": false,
+          "request_id": "23dbccd4-2c8a-4d01-ba4d-287354acbb4c",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 131338.0,
+                "download_size": 3748850,
+                "download_time": 45120.0,
+                "upload_size": 5376,
+                "upload_time": 22791.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.2cf4cdd8.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "23dbccd4-2c8a-4d01-ba4d-287354acbb4c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 31,
+          "client": 213445,
+          "client_begin": "2024-10-29 17:37:58.350063",
+          "client_end": "2024-10-29 17:37:58.563508",
+          "http_first_byte_return": 0.213077,
+          "http_startup": 0.009186,
+          "initialization": 0
+        }
+      },
+      "27f731a6-b27f-4cd7-a8e7-535eefb3c585": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.695688",
+          "end": "1730223478.695699",
+          "is_cold": false,
+          "request_id": "27f731a6-b27f-4cd7-a8e7-535eefb3c585",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 65794.0,
+                "download_size": 3748850,
+                "download_time": 31799.0,
+                "upload_size": 5376,
+                "upload_time": 14445.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.8bb9d217.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "27f731a6-b27f-4cd7-a8e7-535eefb3c585",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 115065,
+          "client_begin": "2024-10-29 17:37:58.694835",
+          "client_end": "2024-10-29 17:37:58.809900",
+          "http_first_byte_return": 0.114492,
+          "http_startup": 0.000516,
+          "initialization": 0
+        }
+      },
+      "330c6bb2-7e3b-4c66-8edd-e7eaa9357dd2": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.272204",
+          "end": "1730223479.272364",
+          "is_cold": false,
+          "request_id": "330c6bb2-7e3b-4c66-8edd-e7eaa9357dd2",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 66431.0,
+                "download_size": 3748850,
+                "download_time": 14479.0,
+                "upload_size": 5376,
+                "upload_time": 31726.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.8d0d5c1f.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "330c6bb2-7e3b-4c66-8edd-e7eaa9357dd2",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 160,
+          "client": 116889,
+          "client_begin": "2024-10-29 17:37:59.270460",
+          "client_end": "2024-10-29 17:37:59.387349",
+          "http_first_byte_return": 0.116388,
+          "http_startup": 0.000249,
+          "initialization": 0
+        }
+      },
+      "341b318a-1946-4f63-91e4-f1d92cb2f00b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.911765",
+          "end": "1730223480.911777",
+          "is_cold": false,
+          "request_id": "341b318a-1946-4f63-91e4-f1d92cb2f00b",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 96439.0,
+                "download_size": 3748850,
+                "download_time": 28940.0,
+                "upload_size": 5376,
+                "upload_time": 19109.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.f02618f4.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "341b318a-1946-4f63-91e4-f1d92cb2f00b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 149818,
+          "client_begin": "2024-10-29 17:38:00.910872",
+          "client_end": "2024-10-29 17:38:01.060690",
+          "http_first_byte_return": 0.146062,
+          "http_startup": 0.000549,
+          "initialization": 0
+        }
+      },
+      "49df2a1c-b06e-459d-b703-85d4615cfe50": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.943504",
+          "end": "1730223481.943513",
+          "is_cold": false,
+          "request_id": "49df2a1c-b06e-459d-b703-85d4615cfe50",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 73148.0,
+                "download_size": 3748850,
+                "download_time": 27364.0,
+                "upload_size": 5376,
+                "upload_time": 18358.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.a348c1f7.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "49df2a1c-b06e-459d-b703-85d4615cfe50",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 9,
+          "client": 121438,
+          "client_begin": "2024-10-29 17:38:01.942470",
+          "client_end": "2024-10-29 17:38:02.063908",
+          "http_first_byte_return": 0.120877,
+          "http_startup": 0.000603,
+          "initialization": 0
+        }
+      },
+      "4e66df12-0c1d-49f0-a6bd-d438855d7773": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.813274",
+          "end": "1730223480.813286",
+          "is_cold": false,
+          "request_id": "4e66df12-0c1d-49f0-a6bd-d438855d7773",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 62485.0,
+                "download_size": 3748850,
+                "download_time": 15936.0,
+                "upload_size": 5376,
+                "upload_time": 14701.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.ced9d6d2.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4e66df12-0c1d-49f0-a6bd-d438855d7773",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 96535,
+          "client_begin": "2024-10-29 17:38:00.811343",
+          "client_end": "2024-10-29 17:38:00.907878",
+          "http_first_byte_return": 0.096039,
+          "http_startup": 0.001169,
+          "initialization": 0
+        }
+      },
+      "4f358edb-7aee-4e1f-a473-406ce7a4d68b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.169959",
+          "end": "1730223479.169972",
+          "is_cold": false,
+          "request_id": "4f358edb-7aee-4e1f-a473-406ce7a4d68b",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 61259.0,
+                "download_size": 3748850,
+                "download_time": 19061.0,
+                "upload_size": 5376,
+                "upload_time": 17747.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.673885c3.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4f358edb-7aee-4e1f-a473-406ce7a4d68b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 100912,
+          "client_begin": "2024-10-29 17:37:59.168913",
+          "client_end": "2024-10-29 17:37:59.269825",
+          "http_first_byte_return": 0.100696,
+          "http_startup": 0.000744,
+          "initialization": 0
+        }
+      },
+      "5352aa1d-3f96-482a-86a1-322cf00ccb58": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.573115",
+          "end": "1730223478.573141",
+          "is_cold": false,
+          "request_id": "5352aa1d-3f96-482a-86a1-322cf00ccb58",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 70102.0,
+                "download_size": 3748850,
+                "download_time": 21670.0,
+                "upload_size": 5376,
+                "upload_time": 26497.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.2f5872c9.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5352aa1d-3f96-482a-86a1-322cf00ccb58",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 26,
+          "client": 128676,
+          "client_begin": "2024-10-29 17:37:58.565022",
+          "client_end": "2024-10-29 17:37:58.693698",
+          "http_first_byte_return": 0.128257,
+          "http_startup": 0.007228,
+          "initialization": 0
+        }
+      },
+      "5c83ef09-eb9f-4e1f-ab69-e7444bb92964": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.018828",
+          "end": "1730223480.018841",
+          "is_cold": false,
+          "request_id": "5c83ef09-eb9f-4e1f-ab69-e7444bb92964",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 83177.0,
+                "download_size": 3748850,
+                "download_time": 21548.0,
+                "upload_size": 5376,
+                "upload_time": 16919.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.5b2790ce.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5c83ef09-eb9f-4e1f-ab69-e7444bb92964",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 123969,
+          "client_begin": "2024-10-29 17:38:00.018013",
+          "client_end": "2024-10-29 17:38:00.141982",
+          "http_first_byte_return": 0.123572,
+          "http_startup": 0.000413,
+          "initialization": 0
+        }
+      },
+      "67b9772d-68bf-45c0-86ee-cc944ad4e918": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.243508",
+          "end": "1730223481.243532",
+          "is_cold": false,
+          "request_id": "67b9772d-68bf-45c0-86ee-cc944ad4e918",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 74506.0,
+                "download_size": 3748850,
+                "download_time": 43606.0,
+                "upload_size": 5376,
+                "upload_time": 24602.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.6394e9a1.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "67b9772d-68bf-45c0-86ee-cc944ad4e918",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 24,
+          "client": 147459,
+          "client_begin": "2024-10-29 17:38:01.240890",
+          "client_end": "2024-10-29 17:38:01.388349",
+          "http_first_byte_return": 0.146835,
+          "http_startup": 0.00185,
+          "initialization": 0
+        }
+      },
+      "6f4efe5c-3a3c-4084-ae3d-5c518c5efa24": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.063672",
+          "end": "1730223481.063684",
+          "is_cold": false,
+          "request_id": "6f4efe5c-3a3c-4084-ae3d-5c518c5efa24",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 96654.0,
+                "download_size": 3748850,
+                "download_time": 41065.0,
+                "upload_size": 5376,
+                "upload_time": 28083.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.c74e4cb7.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "6f4efe5c-3a3c-4084-ae3d-5c518c5efa24",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 176237,
+          "client_begin": "2024-10-29 17:38:01.062961",
+          "client_end": "2024-10-29 17:38:01.239198",
+          "http_first_byte_return": 0.175901,
+          "http_startup": 0.000249,
+          "initialization": 0
+        }
+      },
+      "70b3c725-5e1d-4613-bac1-bdd312ba7c5a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.946972",
+          "end": "1730223478.947157",
+          "is_cold": false,
+          "request_id": "70b3c725-5e1d-4613-bac1-bdd312ba7c5a",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 68756.0,
+                "download_size": 3748850,
+                "download_time": 32994.0,
+                "upload_size": 5376,
+                "upload_time": 11376.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.dae41c98.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "70b3c725-5e1d-4613-bac1-bdd312ba7c5a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 185,
+          "client": 119848,
+          "client_begin": "2024-10-29 17:37:58.942039",
+          "client_end": "2024-10-29 17:37:59.061887",
+          "http_first_byte_return": 0.119502,
+          "http_startup": 0.000475,
+          "initialization": 0
+        }
+      },
+      "7a3e1c09-dd11-4861-906e-c35b554774d0": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223482.220052",
+          "end": "1730223482.220068",
+          "is_cold": false,
+          "request_id": "7a3e1c09-dd11-4861-906e-c35b554774d0",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 86187.0,
+                "download_size": 3748850,
+                "download_time": 64779.0,
+                "upload_size": 5376,
+                "upload_time": 29787.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.166a0002.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7a3e1c09-dd11-4861-906e-c35b554774d0",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 16,
+          "client": 184285,
+          "client_begin": "2024-10-29 17:38:02.218346",
+          "client_end": "2024-10-29 17:38:02.402631",
+          "http_first_byte_return": 0.183707,
+          "http_startup": 0.000721,
+          "initialization": 0
+        }
+      },
+      "7b866f25-579f-4af4-9933-382eca8b19a9": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223475.738294",
+          "end": "1730223475.738307",
+          "is_cold": false,
+          "request_id": "7b866f25-579f-4af4-9933-382eca8b19a9",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 76942.0,
+                "download_size": 3748850,
+                "download_time": 28459.0,
+                "upload_size": 5376,
+                "upload_time": 30012.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.5f84c235.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7b866f25-579f-4af4-9933-382eca8b19a9",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 138249,
+          "client_begin": "2024-10-29 17:37:55.736960",
+          "client_end": "2024-10-29 17:37:55.875209",
+          "http_first_byte_return": 0.137691,
+          "http_startup": 0.000668,
+          "initialization": 0
+        }
+      },
+      "8afd68e4-9c26-4211-8d7e-a023cd0a6b83": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223475.597564",
+          "end": "1730223475.597581",
+          "is_cold": false,
+          "request_id": "8afd68e4-9c26-4211-8d7e-a023cd0a6b83",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 79944.0,
+                "download_size": 3748850,
+                "download_time": 35274.0,
+                "upload_size": 5376,
+                "upload_time": 20756.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.e516d56c.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8afd68e4-9c26-4211-8d7e-a023cd0a6b83",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 17,
+          "client": 138793,
+          "client_begin": "2024-10-29 17:37:55.596386",
+          "client_end": "2024-10-29 17:37:55.735179",
+          "http_first_byte_return": 0.138295,
+          "http_startup": 0.000475,
+          "initialization": 0
+        }
+      },
+      "8bd9993a-4f8e-4d9a-9ed8-7bc3f5141753": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223475.890633",
+          "end": "1730223475.890653",
+          "is_cold": false,
+          "request_id": "8bd9993a-4f8e-4d9a-9ed8-7bc3f5141753",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 108587.0,
+                "download_size": 3748850,
+                "download_time": 20282.0,
+                "upload_size": 5376,
+                "upload_time": 29644.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.a132c619.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "8bd9993a-4f8e-4d9a-9ed8-7bc3f5141753",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 20,
+          "client": 162838,
+          "client_begin": "2024-10-29 17:37:55.888834",
+          "client_end": "2024-10-29 17:37:56.051672",
+          "http_first_byte_return": 0.162216,
+          "http_startup": 0.000773,
+          "initialization": 0
+        }
+      },
+      "9257fbe7-dd59-4aaf-a9a3-c3dd0f4024b9": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223482.067291",
+          "end": "1730223482.067302",
+          "is_cold": false,
+          "request_id": "9257fbe7-dd59-4aaf-a9a3-c3dd0f4024b9",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 74415.0,
+                "download_size": 3748850,
+                "download_time": 49186.0,
+                "upload_size": 5376,
+                "upload_time": 22982.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.dc155dad.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9257fbe7-dd59-4aaf-a9a3-c3dd0f4024b9",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 149946,
+          "client_begin": "2024-10-29 17:38:02.065950",
+          "client_end": "2024-10-29 17:38:02.215896",
+          "http_first_byte_return": 0.149467,
+          "http_startup": 0.000618,
+          "initialization": 0
+        }
+      },
+      "978e0668-35c4-4461-be4d-8b284c6dfbea": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.537461",
+          "end": "1730223481.537476",
+          "is_cold": false,
+          "request_id": "978e0668-35c4-4461-be4d-8b284c6dfbea",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 91392.0,
+                "download_size": 3748850,
+                "download_time": 39975.0,
+                "upload_size": 5376,
+                "upload_time": 20433.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.149ea315.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "978e0668-35c4-4461-be4d-8b284c6dfbea",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 15,
+          "client": 155045,
+          "client_begin": "2024-10-29 17:38:01.535764",
+          "client_end": "2024-10-29 17:38:01.690809",
+          "http_first_byte_return": 0.154618,
+          "http_startup": 0.000888,
+          "initialization": 0
+        }
+      },
+      "984f1627-d024-41a5-8590-aebee4fc5ccd": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223481.696078",
+          "end": "1730223481.696094",
+          "is_cold": false,
+          "request_id": "984f1627-d024-41a5-8590-aebee4fc5ccd",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 72798.0,
+                "download_size": 3748850,
+                "download_time": 33830.0,
+                "upload_size": 5376,
+                "upload_time": 15014.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.a5c2d0eb.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "984f1627-d024-41a5-8590-aebee4fc5ccd",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 16,
+          "client": 126218,
+          "client_begin": "2024-10-29 17:38:01.692822",
+          "client_end": "2024-10-29 17:38:01.819040",
+          "http_first_byte_return": 0.125705,
+          "http_startup": 0.000827,
+          "initialization": 0
+        }
+      },
+      "9d3b0c27-7f17-4495-9207-c164ba5d8138": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.064072",
+          "end": "1730223479.064634",
+          "is_cold": false,
+          "request_id": "9d3b0c27-7f17-4495-9207-c164ba5d8138",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 64266.0,
+                "download_size": 3748850,
+                "download_time": 21777.0,
+                "upload_size": 5376,
+                "upload_time": 13647.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.025ac5cd.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9d3b0c27-7f17-4495-9207-c164ba5d8138",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 562,
+          "client": 102841,
+          "client_begin": "2024-10-29 17:37:59.063325",
+          "client_end": "2024-10-29 17:37:59.166166",
+          "http_first_byte_return": 0.102423,
+          "http_startup": 0.000463,
+          "initialization": 0
+        }
+      },
+      "9fcf1494-da79-474e-907a-53ae2ef434c5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.366510",
+          "end": "1730223477.366522",
+          "is_cold": false,
+          "request_id": "9fcf1494-da79-474e-907a-53ae2ef434c5",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 74474.0,
+                "download_size": 3748850,
+                "download_time": 32628.0,
+                "upload_size": 5376,
+                "upload_time": 24976.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.beee1e54.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9fcf1494-da79-474e-907a-53ae2ef434c5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 137324,
+          "client_begin": "2024-10-29 17:37:57.363940",
+          "client_end": "2024-10-29 17:37:57.501264",
+          "http_first_byte_return": 0.135424,
+          "http_startup": 0.000624,
+          "initialization": 0
+        }
+      },
+      "a0fc522a-7c7d-4953-9a13-6c48760543ab": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.969704",
+          "end": "1730223477.969721",
+          "is_cold": false,
+          "request_id": "a0fc522a-7c7d-4953-9a13-6c48760543ab",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 74939.0,
+                "download_size": 3748850,
+                "download_time": 24993.0,
+                "upload_size": 5376,
+                "upload_time": 35577.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.6af451ac.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a0fc522a-7c7d-4953-9a13-6c48760543ab",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 17,
+          "client": 145101,
+          "client_begin": "2024-10-29 17:37:57.961997",
+          "client_end": "2024-10-29 17:37:58.107098",
+          "http_first_byte_return": 0.144483,
+          "http_startup": 0.006782,
+          "initialization": 0
+        }
+      },
+      "a17305f8-c3ff-4610-87d2-4e4e7000f076": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.817422",
+          "end": "1730223478.817433",
+          "is_cold": false,
+          "request_id": "a17305f8-c3ff-4610-87d2-4e4e7000f076",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 68516.0,
+                "download_size": 3748850,
+                "download_time": 32533.0,
+                "upload_size": 5376,
+                "upload_time": 20418.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.df4775d3.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a17305f8-c3ff-4610-87d2-4e4e7000f076",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 125656,
+          "client_begin": "2024-10-29 17:37:58.815117",
+          "client_end": "2024-10-29 17:37:58.940773",
+          "http_first_byte_return": 0.125327,
+          "http_startup": 0.00183,
+          "initialization": 0
+        }
+      },
+      "a91bca59-ed35-44db-ab4d-27a89c5227ff": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.252731",
+          "end": "1730223480.252740",
+          "is_cold": false,
+          "request_id": "a91bca59-ed35-44db-ab4d-27a89c5227ff",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 126034.0,
+                "download_size": 3748850,
+                "download_time": 21587.0,
+                "upload_size": 5376,
+                "upload_time": 17326.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.0a468faa.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a91bca59-ed35-44db-ab4d-27a89c5227ff",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 9,
+          "client": 167686,
+          "client_begin": "2024-10-29 17:38:00.251634",
+          "client_end": "2024-10-29 17:38:00.419320",
+          "http_first_byte_return": 0.167039,
+          "http_startup": 0.000521,
+          "initialization": 0
+        }
+      },
+      "ab08f1f1-f98b-484f-9835-f95a376f480f": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.510062",
+          "end": "1730223476.510074",
+          "is_cold": false,
+          "request_id": "ab08f1f1-f98b-484f-9835-f95a376f480f",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 79174.0,
+                "download_size": 3748850,
+                "download_time": 37992.0,
+                "upload_size": 5376,
+                "upload_time": 18629.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.aa65ff46.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ab08f1f1-f98b-484f-9835-f95a376f480f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 12,
+          "client": 142400,
+          "client_begin": "2024-10-29 17:37:56.508210",
+          "client_end": "2024-10-29 17:37:56.650610",
+          "http_first_byte_return": 0.141402,
+          "http_startup": 0.000657,
+          "initialization": 0
+        }
+      },
+      "ae7b9a52-95f7-4db6-81ab-bb7839b3ba65": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223475.047258",
+          "end": "1730223475.285803",
+          "is_cold": false,
+          "request_id": "ae7b9a52-95f7-4db6-81ab-bb7839b3ba65",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 65185.0,
+                "download_size": 3748850,
+                "download_time": 25873.0,
+                "upload_size": 5376,
+                "upload_time": 19401.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.66011da2.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ae7b9a52-95f7-4db6-81ab-bb7839b3ba65",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 238545,
+          "client": 357579,
+          "client_begin": "2024-10-29 17:37:55.040139",
+          "client_end": "2024-10-29 17:37:55.397718",
+          "http_first_byte_return": 0.356852,
+          "http_startup": 0.001482,
+          "initialization": 0
+        }
+      },
+      "b0371607-79b2-4785-ad2d-467107989a8d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.056302",
+          "end": "1730223476.056320",
+          "is_cold": false,
+          "request_id": "b0371607-79b2-4785-ad2d-467107989a8d",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 79190.0,
+                "download_size": 3748850,
+                "download_time": 49363.0,
+                "upload_size": 5376,
+                "upload_time": 16658.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.f1ae8635.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b0371607-79b2-4785-ad2d-467107989a8d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 18,
+          "client": 148618,
+          "client_begin": "2024-10-29 17:37:56.054536",
+          "client_end": "2024-10-29 17:37:56.203154",
+          "http_first_byte_return": 0.148027,
+          "http_startup": 0.000858,
+          "initialization": 0
+        }
+      },
+      "b09542de-2beb-4ce6-87e9-ae59387c96fb": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.776009",
+          "end": "1730223476.776024",
+          "is_cold": false,
+          "request_id": "b09542de-2beb-4ce6-87e9-ae59387c96fb",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 81246.0,
+                "download_size": 3748850,
+                "download_time": 60573.0,
+                "upload_size": 5376,
+                "upload_time": 31709.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.75b39327.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b09542de-2beb-4ce6-87e9-ae59387c96fb",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 15,
+          "client": 177281,
+          "client_begin": "2024-10-29 17:37:56.774404",
+          "client_end": "2024-10-29 17:37:56.951685",
+          "http_first_byte_return": 0.17697,
+          "http_startup": 0.000758,
+          "initialization": 0
+        }
+      },
+      "b77cf402-5194-456d-bb4a-10fdc2dfd44c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223478.122171",
+          "end": "1730223478.122218",
+          "is_cold": false,
+          "request_id": "b77cf402-5194-456d-bb4a-10fdc2dfd44c",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 102706.0,
+                "download_size": 3748850,
+                "download_time": 81685.0,
+                "upload_size": 5376,
+                "upload_time": 24852.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.afa0bd3e.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "b77cf402-5194-456d-bb4a-10fdc2dfd44c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 47,
+          "client": 215010,
+          "client_begin": "2024-10-29 17:37:58.119359",
+          "client_end": "2024-10-29 17:37:58.334369",
+          "http_first_byte_return": 0.213774,
+          "http_startup": 0.001282,
+          "initialization": 0
+        }
+      },
+      "c2232032-c38d-48ae-a54f-7466ef5de41a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.206024",
+          "end": "1730223476.206034",
+          "is_cold": false,
+          "request_id": "c2232032-c38d-48ae-a54f-7466ef5de41a",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 58552.0,
+                "download_size": 3748850,
+                "download_time": 22844.0,
+                "upload_size": 5376,
+                "upload_time": 19601.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.b03fb4b2.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "c2232032-c38d-48ae-a54f-7466ef5de41a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 10,
+          "client": 103680,
+          "client_begin": "2024-10-29 17:37:56.205094",
+          "client_end": "2024-10-29 17:37:56.308774",
+          "http_first_byte_return": 0.10305,
+          "http_startup": 0.000686,
+          "initialization": 0
+        }
+      },
+      "d7e28781-e79e-43e5-83ac-b7015cbcfe0a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.504786",
+          "end": "1730223477.504801",
+          "is_cold": false,
+          "request_id": "d7e28781-e79e-43e5-83ac-b7015cbcfe0a",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 72331.0,
+                "download_size": 3748850,
+                "download_time": 36823.0,
+                "upload_size": 5376,
+                "upload_time": 28357.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.fdb3c951.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "d7e28781-e79e-43e5-83ac-b7015cbcfe0a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 15,
+          "client": 140742,
+          "client_begin": "2024-10-29 17:37:57.503248",
+          "client_end": "2024-10-29 17:37:57.643990",
+          "http_first_byte_return": 0.140209,
+          "http_startup": 0.000655,
+          "initialization": 0
+        }
+      },
+      "d8e24a9f-1632-4949-81f2-2bef8e1367fa": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.646997",
+          "end": "1730223477.647008",
+          "is_cold": false,
+          "request_id": "d8e24a9f-1632-4949-81f2-2bef8e1367fa",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 76107.0,
+                "download_size": 3748850,
+                "download_time": 63883.0,
+                "upload_size": 5376,
+                "upload_time": 24565.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.239a4bfa.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "d8e24a9f-1632-4949-81f2-2bef8e1367fa",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 167325,
+          "client_begin": "2024-10-29 17:37:57.646085",
+          "client_end": "2024-10-29 17:37:57.813410",
+          "http_first_byte_return": 0.166961,
+          "http_startup": 0.000559,
+          "initialization": 0
+        }
+      },
+      "dd600b2d-88f5-4d6c-b1f4-3487556be0be": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223475.400477",
+          "end": "1730223475.400487",
+          "is_cold": false,
+          "request_id": "dd600b2d-88f5-4d6c-b1f4-3487556be0be",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 146930.0,
+                "download_size": 3748850,
+                "download_time": 26850.0,
+                "upload_size": 5376,
+                "upload_time": 18957.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.46159af6.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "dd600b2d-88f5-4d6c-b1f4-3487556be0be",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 10,
+          "client": 195626,
+          "client_begin": "2024-10-29 17:37:55.399612",
+          "client_end": "2024-10-29 17:37:55.595238",
+          "http_first_byte_return": 0.195094,
+          "http_startup": 0.000555,
+          "initialization": 0
+        }
+      },
+      "e12944f8-bab5-4f4d-82e5-f7842cb0cb0e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.669326",
+          "end": "1730223480.669351",
+          "is_cold": false,
+          "request_id": "e12944f8-bab5-4f4d-82e5-f7842cb0cb0e",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 90644.0,
+                "download_size": 3748850,
+                "download_time": 25638.0,
+                "upload_size": 5376,
+                "upload_time": 20729.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.59a1291d.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e12944f8-bab5-4f4d-82e5-f7842cb0cb0e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 25,
+          "client": 143936,
+          "client_begin": "2024-10-29 17:38:00.664264",
+          "client_end": "2024-10-29 17:38:00.808200",
+          "http_first_byte_return": 0.143465,
+          "http_startup": 0.000219,
+          "initialization": 0
+        }
+      },
+      "e40ce9d3-dda9-46f8-9b3c-fc3317755d47": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.118969",
+          "end": "1730223477.118983",
+          "is_cold": false,
+          "request_id": "e40ce9d3-dda9-46f8-9b3c-fc3317755d47",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 59555.0,
+                "download_size": 3748850,
+                "download_time": 31676.0,
+                "upload_size": 5376,
+                "upload_time": 24923.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.66f479d9.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e40ce9d3-dda9-46f8-9b3c-fc3317755d47",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 14,
+          "client": 122979,
+          "client_begin": "2024-10-29 17:37:57.114038",
+          "client_end": "2024-10-29 17:37:57.237017",
+          "http_first_byte_return": 0.122302,
+          "http_startup": 0.000292,
+          "initialization": 0
+        }
+      },
+      "eb5774f8-2bc5-4911-bfa9-04a788b41c33": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223482.411193",
+          "end": "1730223482.411204",
+          "is_cold": false,
+          "request_id": "eb5774f8-2bc5-4911-bfa9-04a788b41c33",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 105204.0,
+                "download_size": 3748850,
+                "download_time": 28094.0,
+                "upload_size": 5376,
+                "upload_time": 25976.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.524fb6d7.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "eb5774f8-2bc5-4911-bfa9-04a788b41c33",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 11,
+          "client": 161786,
+          "client_begin": "2024-10-29 17:38:02.410207",
+          "client_end": "2024-10-29 17:38:02.571993",
+          "http_first_byte_return": 0.161136,
+          "http_startup": 0.000711,
+          "initialization": 0
+        }
+      },
+      "f23d97e7-4127-409f-8676-9206a3ddc030": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223477.240160",
+          "end": "1730223477.240207",
+          "is_cold": false,
+          "request_id": "f23d97e7-4127-409f-8676-9206a3ddc030",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 69865.0,
+                "download_size": 3748850,
+                "download_time": 32418.0,
+                "upload_size": 5376,
+                "upload_time": 18647.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.20885495.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f23d97e7-4127-409f-8676-9206a3ddc030",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 47,
+          "client": 123392,
+          "client_begin": "2024-10-29 17:37:57.239159",
+          "client_end": "2024-10-29 17:37:57.362551",
+          "http_first_byte_return": 0.123022,
+          "http_startup": 0.000661,
+          "initialization": 0
+        }
+      },
+      "f8fc7539-42c8-40e0-9461-1af3cd11139d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223480.148747",
+          "end": "1730223480.148760",
+          "is_cold": false,
+          "request_id": "f8fc7539-42c8-40e0-9461-1af3cd11139d",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 59646.0,
+                "download_size": 3748850,
+                "download_time": 29124.0,
+                "upload_size": 5376,
+                "upload_time": 11642.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.614827cd.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f8fc7539-42c8-40e0-9461-1af3cd11139d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 106880,
+          "client_begin": "2024-10-29 17:38:00.143562",
+          "client_end": "2024-10-29 17:38:00.250442",
+          "http_first_byte_return": 0.106577,
+          "http_startup": 0.004856,
+          "initialization": 0
+        }
+      },
+      "fa9da6ed-9f0f-48c3-97c9-c17b4085b55c": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.716815",
+          "end": "1730223479.716828",
+          "is_cold": false,
+          "request_id": "fa9da6ed-9f0f-48c3-97c9-c17b4085b55c",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 68891.0,
+                "download_size": 3748850,
+                "download_time": 33942.0,
+                "upload_size": 5376,
+                "upload_time": 18930.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.798a1c6e.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fa9da6ed-9f0f-48c3-97c9-c17b4085b55c",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 124081,
+          "client_begin": "2024-10-29 17:37:59.715863",
+          "client_end": "2024-10-29 17:37:59.839944",
+          "http_first_byte_return": 0.123751,
+          "http_startup": 0.000628,
+          "initialization": 0
+        }
+      },
+      "fc6148f9-a9a2-45af-9fdf-16a62a2c3cf8": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223476.655963",
+          "end": "1730223476.655976",
+          "is_cold": false,
+          "request_id": "fc6148f9-a9a2-45af-9fdf-16a62a2c3cf8",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 62451.0,
+                "download_size": 3748850,
+                "download_time": 22317.0,
+                "upload_size": 5376,
+                "upload_time": 27284.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.143049fc.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fc6148f9-a9a2-45af-9fdf-16a62a2c3cf8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 13,
+          "client": 116280,
+          "client_begin": "2024-10-29 17:37:56.654020",
+          "client_end": "2024-10-29 17:37:56.770300",
+          "http_first_byte_return": 0.115842,
+          "http_startup": 0.000233,
+          "initialization": 0
+        }
+      },
+      "fd363511-db38-4811-b11f-0c4eb071192b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1730223479.530249",
+          "end": "1730223479.530265",
+          "is_cold": false,
+          "request_id": "fd363511-db38-4811-b11f-0c4eb071192b",
+          "result": {
+            "output": {
+              "measurement": {
+                "compute_time": 87856.0,
+                "download_size": 3748850,
+                "download_time": 56470.0,
+                "upload_size": 5376,
+                "upload_time": 37392.0
+              },
+              "result": {
+                "bucket": "sebs-benchmarks-local-0aa31c18",
+                "key": "210.thumbnailer-0-output/0_action-adrenaline-adventure-1047051.3c20f62e.jpg"
+              }
+            }
+          }
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "fd363511-db38-4811-b11f-0c4eb071192b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 16,
+          "client": 184898,
+          "client_begin": "2024-10-29 17:37:59.528980",
+          "client_end": "2024-10-29 17:37:59.713878",
+          "http_first_byte_return": 0.184351,
+          "http_startup": 0.000762,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1730223474.99996,
+  "config": {
+    "deployment": {},
+    "experiments": {
+      "download_results": false,
+      "experiments": {
+        "eviction-model": {
+          "function_copy_idx": 0,
+          "invocations": 1,
+          "repetitions": 5,
+          "sleep": 1
+        },
+        "invocation-overhead": {
+          "N": 20,
+          "code_begin": 1048576,
+          "code_end": 261619712,
+          "code_points": 20,
+          "payload_begin": 1024,
+          "payload_end": 6251000,
+          "payload_points": 20,
+          "repetitions": 5,
+          "type": "payload"
+        },
+        "network-ping-pong": {
+          "invocations": 50,
+          "repetitions": 1000,
+          "threads": 1
+        },
+        "perf-cost": {
+          "benchmark": "110.dynamic-html",
+          "concurrent-invocations": 50,
+          "experiments": [
+            "cold",
+            "warm",
+            "burst",
+            "sequential"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128,
+            256
+          ],
+          "repetitions": 50
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.7"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1730223482.57416,
+  "result_bucket": null
+}
